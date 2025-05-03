@@ -31,5 +31,9 @@ User-agent: FacebookBot
 Allow: /
 Disallow: /backup/
 
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /backup/
+
 # Sitemap location
 Sitemap: https://hanyuan.info/sitemap.xml
