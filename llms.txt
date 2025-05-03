@@ -1,0 +1,49 @@
+# 美濃涵園民宿網站資訊
+
+main_content:
+  site_name: 美濃涵園民宿
+  description: 美濃涵園民宿位於高雄市美濃區一個安靜的田園，提供安寧靜謐，遠離塵囂的住宿體驗。
+  features:
+    - 全台最大涵洞房型，包含衛浴及各項設備
+    - 提供道地客家餐點
+    - 大坪數房間及庭院，適合家庭居住
+    - 提供電動車充電樁服務
+    - 提供地區導覽服務
+  contact:
+    address: 高雄市美濃區中壇里五穀街7-11號
+    phone: 0933610333
+  booking:
+    - 網站線上預訂
+    - Trip.com預訂（支持國民旅遊卡）
+
+product_pages:
+  - page: 首頁
+    url: index.html
+    description: 展示民宿概覽和特色
+  - page: 房型頁面
+    url: room_all.html
+    description: 展示各種房型，包括涵洞星空房、標準雙床房、景觀湯房等
+  - page: 餐點頁面
+    url: meal.html
+    description: 展示客家特色餐點
+  - page: 庭園頁面
+    url: garden.html
+    description: 展示民宿庭園環境
+  - page: 景點頁面
+    url: destination.html
+    description: 介紹周邊旅遊景點
+  - page: 交通方式頁面
+    url: map.html
+    description: 提供到達民宿的交通資訊
+
+technical_info:
+  - 網站使用HTML5、CSS3和JavaScript構建
+  - 響應式設計，適配各種設備
+  - 使用Open Graph協議優化社交媒體分享
+  - 使用Schema.org結構化數據標記優化搜索引擎理解
+
+ai_optimization:
+  - robots.txt文件明確允許GPTBot和ChatGPT-User等AI爬蟲訪問
+  - sitemap.xml提供完整網站結構
+  - 使用Open Graph和Schema.org提供結構化數據
+  - 提供清晰的內容層次結構和語義標記

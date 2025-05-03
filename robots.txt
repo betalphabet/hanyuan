@@ -1,0 +1,35 @@
+User-agent: *
+Allow: /
+Disallow: /backup/
+
+# Allow GPT and AI crawlers
+User-agent: GPTBot
+Allow: /
+Disallow: /backup/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /backup/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /backup/
+
+User-agent: Anthropic-AI
+Allow: /
+Disallow: /backup/
+
+User-agent: CCBot
+Allow: /
+Disallow: /backup/
+
+User-agent: Omgilibot
+Allow: /
+Disallow: /backup/
+
+User-agent: FacebookBot
+Allow: /
+Disallow: /backup/
+
+# Sitemap location
+Sitemap: https://hanyuan.info/sitemap.xml
