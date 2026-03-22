@@ -1,95 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
-            http://www.google.com/schemas/sitemap-image/1.1
-            http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
-<!-- 美濃涵園民宿網站地圖 - 優化版本 -->
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+                      http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+  <!-- 美濃涵園民宿網站地圖 - 優化版本 -->
 
 
-<url>
-  <loc>https://hanyuan.info/</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/index.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/room_all.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/meal.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/garden.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/destination.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/map.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/order.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/dorm.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/hotspring_a.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/hotspring_b.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/family.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/eco_room.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/standard-2-bed.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/standard-2-bed-purple.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://hanyuan.info/superior-2-bed.html</loc>
-  <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  <priority>0.8</priority>
-</url>
+  <url>
+    <loc>https://hanyuan.info/</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/index.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/room_all.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/meal.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/garden.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/destination.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/map.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/order.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/dorm.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/hotspring_a.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/hotspring_b.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/family.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/eco_room.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/standard-2-bed.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/standard-2-bed-purple.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hanyuan.info/superior-2-bed.html</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
 
 
 </urlset>
