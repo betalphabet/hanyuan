@@ -80,3 +80,22 @@
 .project .img .vr {
     z-index: 2;
 }
+
+/* Overriding to Cover behavior as requested */
+#primary-slider .splide__slide {
+    display: block !important;
+    background: #000;
+}
+#primary-slider .splide__slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover !important;
+    object-position: center center !important;
+}
+
+@media (max-width: 767.98px) {
+    #primary-slider .splide__slide img {
+        object-fit: contain !important; /* Keep full image visibility on mobile */
+        height: auto !important;
+    }
+}
