@@ -99,3 +99,13 @@
         height: auto !important;
     }
 }
+
+/* High Contrast Hero Text Override */
+.hero-wrap h1, .hero-wrap-2 h1, .high-contrast-text {
+    color: #ffffff !important;
+    text-shadow: 
+        0 2px 4px rgba(0,0,0,0.8),
+        0 4px 12px rgba(0,0,0,0.6),
+        0 0 20px rgba(0,0,0,0.5) !important;
+    font-weight: 700 !important;
+}
