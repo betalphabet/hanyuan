@@ -166,15 +166,23 @@ document.addEventListener( 'DOMContentLoaded', function () {
 	
 	var primarySlider = new Splide( '#primary-slider', {
 		type       : 'fade',
-		height      : 600,
-		heightRatio: 1,
+		heightRatio: 0.66,
 		pagination : false,
 		arrows     : false,
 		cover      : true,
+		breakpoints: {
+			'600': {
+				heightRatio: 0,
+				fixedHeight: 0,
+				cover      : false,
+				autoHeight : true,
+			}
+		}
 	} ); // do not call mount() here.
 	
 	primarySlider.sync( secondarySlider ).mount();
 } );
+
 
 
 
