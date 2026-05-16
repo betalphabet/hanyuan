@@ -109,3 +109,22 @@
         0 0 20px rgba(0,0,0,0.5) !important;
     font-weight: 700 !important;
 }
+
+/* Navbar White Mask */
+.nav-white-mask {
+    background-color: rgba(255, 255, 255, 0.95) !important;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+.nav-white-mask .nav-link span, .nav-white-mask .nav-link {
+    color: #333333 !important;
+}
+.nav-white-mask .navbar-brand {
+    color: #333333 !important;
+}
+.nav-white-mask .oi-menu {
+    color: #333333 !important;
+}
+.nav-white-mask .navbar-toggler {
+    color: #333333 !important;
+    border-color: #333333 !important;
+}
