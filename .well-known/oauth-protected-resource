@@ -1,0 +1,13 @@
+{
+  "resource": "https://hanyuan.info",
+  "authorization_servers": [
+    "https://hanyuan.info"
+  ],
+  "scopes_supported": [
+    "read",
+    "write"
+  ],
+  "bearer_methods_supported": [
+    "header"
+  ]
+}

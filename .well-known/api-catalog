@@ -1,0 +1,19 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://hanyuan.info/",
+      "service-doc": [
+        {
+          "href": "https://hanyuan.info/llms.txt",
+          "type": "text/plain"
+        }
+      ],
+      "describedby": [
+        {
+          "href": "https://hanyuan.info/.well-known/agent-skills/index.json",
+          "type": "application/json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "hanyuan-bb-search",
+      "type": "skill-md",
+      "description": "Allows agents to retrieve room details, contact info, and booking status for Hanyuan B&B.",
+      "url": "https://hanyuan.info/.well-known/agent-skills/search.md",
+      "digest": "sha256:94a8c036c4ca9f04d3344112f1f810d66b7ea89917996462c0e26bf438d49248"
+    }
+  ]
+}

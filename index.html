@@ -98,6 +98,12 @@
       ]
     }
     </script>
+    
+    <!-- AI Agent Discovery Links (RFC 8288 & RFC 9727) -->
+    <link rel="api-catalog" href="/.well-known/api-catalog" type="application/linkset+json">
+    <link rel="service-doc" href="/llms.txt" type="text/plain">
+    <link rel="describedby" href="/.well-known/agent-skills/index.json" type="application/json">
+
     <script src="https://kit.fontawesome.com/ee96d290df.js" crossorigin="anonymous"></script>
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
@@ -556,6 +562,59 @@
     <!-- <script src="js/google-map.js"></script> -->
 
     <script src="js/main.js?v=202103021427"></script>
+
+    <!-- WebMCP Agent Discovery Integration -->
+    <script>
+      (function() {
+        const toolDefinition = {
+          name: 'get_rooms',
+          description: 'Get list of available room types and their descriptions at Hanyuan B&B (美濃涵園民宿)',
+          inputSchema: {
+            type: 'object',
+            properties: {}
+          },
+          execute: async () => {
+            return {
+              content: [{
+                type: 'text',
+                text: 'Hanyuan B&B (美濃涵園民宿) offers various room types:\n1. 涵洞星空房 (Starry Sky Dome Room): Unique dome-shaped design with industrial style, stargazing, private bathroom.\n2. 和式景觀房 (Japanese View Room): Tatami style with view.\n3. 標準雙床房 (Standard Twin Room): Violet/purple theme or shadow theme.\n4. 標準四人房 (Standard Quad Room): Large room suitable for families.\n5. 景觀湯房 (View Spa Room): Private hot spring tub / soaking tub with scenic view.\n6. 陽光商務房 (Eco/Business Room): Cozy room for business or solo travelers.\nOther services: Charging station for EVs, Hakka meals, local guide.'
+              }]
+            };
+          }
+        };
+
+        function registerWebMCP() {
+          const modelContext = (typeof window !== 'undefined' ? (window.navigator?.modelContext || window.document?.modelContext) : null);
+          if (!modelContext) return;
+
+          if (typeof modelContext.registerTool === 'function') {
+            try {
+              modelContext.registerTool(toolDefinition);
+              console.log("WebMCP tool 'get_rooms' registered successfully via registerTool");
+            } catch (e) {
+              console.warn("Failed to register WebMCP tool via registerTool:", e);
+            }
+          }
+
+          if (typeof modelContext.provideContext === 'function') {
+            try {
+              modelContext.provideContext({
+                tools: [toolDefinition]
+              });
+              console.log("WebMCP tool 'get_rooms' registered successfully via provideContext");
+            } catch (e) {
+              console.warn("Failed to register WebMCP tool via provideContext:", e);
+            }
+          }
+        }
+
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', registerWebMCP);
+        } else {
+          registerWebMCP();
+        }
+      })();
+    </script>
 
 </body>
 

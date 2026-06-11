@@ -1,0 +1,15 @@
+DNS for AI Discovery (DNS-AID) Records for hanyuan.info
+
+Please configure the following SVCB records at your DNS host (e.g., Cloudflare DNS) for hanyuan.info:
+
+Name: _index._agents.hanyuan.info.
+Type: SVCB
+TTL: 3600
+Value: 1 hanyuan.info. alpn="a2a" port=443 mandatory=alpn,port
+
+Name: _a2a._agents.hanyuan.info.
+Type: SVCB
+TTL: 3600
+Value: 1 hanyuan.info. alpn="a2a" port=443 mandatory=alpn,port
+
+Make sure your public discovery zone is signed with DNSSEC so validating resolvers return authenticated data.
