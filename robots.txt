@@ -11,11 +11,23 @@ User-agent: ChatGPT-User
 Allow: /
 Disallow: /backup/
 
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /backup/
+
 User-agent: Google-Extended
 Allow: /
 Disallow: /backup/
 
 User-agent: Anthropic-AI
+Allow: /
+Disallow: /backup/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /backup/
+
+User-agent: PerplexityBot
 Allow: /
 Disallow: /backup/
 
@@ -31,9 +43,7 @@ User-agent: FacebookBot
 Allow: /
 Disallow: /backup/
 
-User-agent: OAI-SearchBot
-Allow: /
-Disallow: /backup/
-
-# Sitemap location
+# LLM files & Sitemap location
+# LLMs: https://hanyuan.info/llms.txt
+# LLMs-Full: https://hanyuan.info/llms-full.txt
 Sitemap: https://hanyuan.info/sitemap.xml

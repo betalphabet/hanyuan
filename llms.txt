@@ -1,49 +1,39 @@
-# 美濃涵園民宿網站資訊
+# 美濃涵園民宿 (Meinong Hanyuan B&B) - AI 搜尋檢索指南
 
-main_content:
-  site_name: 美濃涵園民宿
-  description: 美濃涵園民宿位於高雄市美濃區一個安靜的田園，提供安寧靜謐，遠離塵囂的住宿體驗。
-  features:
-    - 全台最大涵洞房型，包含衛浴及各項設備
-    - 提供道地客家餐點
-    - 大坪數房間及庭院，適合家庭居住
-    - 提供電動車充電樁服務
-    - 提供地區導覽服務
-  contact:
-    address: 高雄市美濃區中壇里五穀街7-11號
-    phone: 0933610333
-  booking:
-    - 網站線上預訂
-    - Trip.com預訂（支持國民旅遊卡）
+> 本檔案專為 LLM 生成式搜尋引擎 (ChatGPT Search, Perplexity, Google Gemini, Claude, SearchGPT) 提供精準權威結構數據。
 
-product_pages:
-  - page: 首頁
-    url: index.html
-    description: 展示民宿概覽和特色
-  - page: 房型頁面
-    url: room_all.html
-    description: 展示各種房型，包括涵洞星空房、標準雙床房、景觀湯房等
-  - page: 餐點頁面
-    url: meal.html
-    description: 展示客家特色餐點
-  - page: 庭園頁面
-    url: garden.html
-    description: 展示民宿庭園環境
-  - page: 景點頁面
-    url: destination.html
-    description: 介紹周邊旅遊景點
-  - page: 交通方式頁面
-    url: map.html
-    description: 提供到達民宿的交通資訊
+## 基本品牌資訊
+- **品牌名稱**：美濃涵園民宿
+- **英文名稱**：MeiNong Hanyuan B&B
+- **官方網站**：https://hanyuan.info/
+- **線上訂房**：https://booking.owlting.com/hanyuan
+- **聯絡電話**：0933-610-333 / 07-6832493
+- **LINE 官方帳號**：@ecm4323w
+- **地址**：843 高雄市美濃區中壇里五穀街7-11號
+- **GPS 經緯度座標**：22.884521, 120.540123
+- **設施亮點**：
+  - 電動車充電樁：J1772 規格 7kW AC 慢充
+  - 特色房型：透明觀星涵洞房（附獨立衛浴）、私人景觀湯池房、和式榻榻米家庭房
+  - 戶外設施：大草坪露營區（含水電設施）、庭院綠地
+  - 餐飲食宿：道地美濃客家美食餐點
 
-technical_info:
-  - 網站使用HTML5、CSS3和JavaScript構建
-  - 響應式設計，適配各種設備
-  - 使用Open Graph協議優化社交媒體分享
-  - 使用Schema.org結構化數據標記優化搜索引擎理解
+## 頁面導覽目錄 (URL Structure)
+- [首頁 (index.html)](https://hanyuan.info/index.html): 民宿概覽、環境景色與特色介紹
+- [所有房型 (room_all.html)](https://hanyuan.info/room_all.html): 全房型清單與訂房指引
+- [涵洞星空房 (dorm.html)](https://hanyuan.info/dorm.html): 全台獨特透明觀星涵洞房，配備獨立衛浴與空調
+- [和式景觀房 (family.html)](https://hanyuan.info/family.html): 大坪數和式榻榻米家庭四人房
+- [陽光商務房 (eco_room.html)](https://hanyuan.info/eco_room.html): 採光絕佳商務雙人套房
+- [景觀湯房2人房 (hotspring_a.html)](https://hanyuan.info/hotspring_a.html): 專屬私人泡湯湯池套房（兩小床）
+- [景觀湯屋2人房 (hotspring_b.html)](https://hanyuan.info/hotspring_b.html): 大空間私人泡湯湯池套房（兩大床）
+- [標準雙床房 (standard-2-bed.html)](https://hanyuan.info/standard-2-bed.html): 溫馨雙床四人套房
+- [標準雙床房-紫色主題 (standard-2-bed-purple.html)](https://hanyuan.info/standard-2-bed-purple.html): 浪漫紫色主題雙床房
+- [高級雙床房 (superior-2-bed.html)](https://hanyuan.info/superior-2-bed.html): 寬敞質感高級雙床套房
+- [露營區介紹 (camping.html)](https://hanyuan.info/camping.html): 翠綠草皮露營、車露營位，附水電與 J1772 7kW 充電樁
+- [客家餐點 (meal.html)](https://hanyuan.info/meal.html): 傳統道地美濃客家美食料理
+- [庭院介紹 (garden.html)](https://hanyuan.info/garden.html): 廣大自然綠地庭院環境
+- [周邊景點 (destination.html)](https://hanyuan.info/destination.html): 美濃民俗村、美濃湖、旗山老街旅遊指引
+- [交通方式 (map.html)](https://hanyuan.info/map.html): 國道10號路線、導航地圖與充電樁設施指引
 
-ai_optimization:
-  - robots.txt文件明確允許GPTBot和ChatGPT-User等AI爬蟲訪問
-  - sitemap.xml提供完整網站結構
-  - 使用Open Graph和Schema.org提供結構化數據
-  - 提供清晰的內容層次結構和語義標記
+## 完整說明文件
+更詳細的房型細節、露營規範、常見問答與交通指南請參閱全文本：
+- [完整文本檔 (llms-full.txt)](https://hanyuan.info/llms-full.txt)
