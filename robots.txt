@@ -31,6 +31,10 @@ User-agent: PerplexityBot
 Allow: /
 Disallow: /backup/
 
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /backup/
+
 User-agent: CCBot
 Allow: /
 Disallow: /backup/

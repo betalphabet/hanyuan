@@ -11,16 +11,33 @@
 - **LINE 官方帳號**：@ecm4323w
 - **地址**：843 高雄市美濃區中壇里五穀街7-11號
 - **GPS 經緯度座標**：22.884521, 120.540123
-- **設施亮點**：
-  - 電動車充電樁：J1772 規格 7kW AC 慢充
-  - 特色房型：透明觀星涵洞房（附獨立衛浴）、私人景觀湯池房、和式榻榻米家庭房
-  - 戶外設施：大草坪露營區（含水電設施）、庭院綠地
-  - 餐飲食宿：道地美濃客家美食餐點
+- **園區分區與設施亮點**：
+  - **二期・隱山館**：現代木質清水模工藝建築、客房皆配備智慧免治馬桶與乾濕分離衛浴、二期專屬共享中島廚房交誼空間。
+  - **一期園區**：透明觀星涵洞房（附獨立衛浴）、私人景觀湯池房、和式榻榻米家庭房、陽光商務房。
+  - **電動車充電樁**：J1772 規格 7kW AC 慢充（電車友善友善住宿）。
+  - **戶外設施**：大草坪露營區（含水電設施）、庭院綠地步道。
+  - **餐飲食宿**：道地美濃客家風味美饌。
 
 ## 頁面導覽目錄 (URL Structure)
-- [首頁 (index.html)](https://hanyuan.info/index.html): 民宿概覽、環境景色與特色介紹
-- [所有房型 (room_all.html)](https://hanyuan.info/room_all.html): 全房型清單與訂房指引
-- [涵洞星空房 (dorm.html)](https://hanyuan.info/dorm.html): 全台獨特透明觀星涵洞房，配備獨立衛浴與空調
+
+### 核心與公共設施頁面
+- [首頁 (index.html)](https://hanyuan.info/index.html): 民宿概覽、環境景色與隱山館新亮點
+- [所有房型 (room_all.html)](https://hanyuan.info/room_all.html): 全房型清單與分區導覽（一期園區、二期隱山館）
+- [露營區介紹 (camping.html)](https://hanyuan.info/camping.html): 翠綠草皮露營、車露營位，附水電與 J1772 7kW 充電樁
+- [客家餐點 (meal.html)](https://hanyuan.info/meal.html): 傳統道地美濃客家美食料理
+- [庭院介紹 (garden.html)](https://hanyuan.info/garden.html): 廣大自然綠地庭院環境
+- [周邊景點 (destination.html)](https://hanyuan.info/destination.html): 美濃民俗村、美濃湖、旗山老街旅遊指引
+- [交通方式 (map.html)](https://hanyuan.info/map.html): 國道10號路線、導航地圖與充電樁設施指引
+
+### 二期・隱山館房型 (Phase II - Yin Shan Guan)
+- [園景兩人房（小） (garden-view-double-small.html)](https://hanyuan.info/garden-view-double-small.html): 現代木質清水模雙人房、獨立觀景窗台、乾濕分離花磚衛浴與智慧免治馬桶
+- [園景四人房（小） (garden-view-quad-small.html)](https://hanyuan.info/garden-view-quad-small.html): 兩張標準雙人大床、落地景觀大窗、智慧免治馬桶、共享中島廚房
+- [園景四人房（大） (garden-view-quad-large.html)](https://hanyuan.info/garden-view-quad-large.html): 寬敞大坪數四人套房、雙面採光田園山景窗、乾濕分離花磚衛浴、智慧免治馬桶
+- [雅居三人房 (elegant-triple.html)](https://hanyuan.info/elegant-triple.html): 一大床加一小床（三人入住）、木格柵床頭設計、復古藝術花磚衛浴、智慧免治馬桶
+- [雅居二人房 (elegant-double.html)](https://hanyuan.info/elegant-double.html): 標準雙人大床、波浪造型胡桃木床頭板、獨立景觀窗台茶敘區、智慧免治馬桶
+
+### 一期園區房型 (Phase I - Classic Campus)
+- [涵洞星空房 (dorm.html)](https://hanyuan.info/dorm.html): 全台獨特透明觀星涵洞房，配備獨立衛浴與冷暖空調
 - [和式景觀房 (family.html)](https://hanyuan.info/family.html): 大坪數和式榻榻米家庭四人房
 - [陽光商務房 (eco_room.html)](https://hanyuan.info/eco_room.html): 採光絕佳商務雙人套房
 - [景觀湯房2人房 (hotspring_a.html)](https://hanyuan.info/hotspring_a.html): 專屬私人泡湯湯池套房（兩小床）
@@ -28,12 +45,7 @@
 - [標準雙床房 (standard-2-bed.html)](https://hanyuan.info/standard-2-bed.html): 溫馨雙床四人套房
 - [標準雙床房-紫色主題 (standard-2-bed-purple.html)](https://hanyuan.info/standard-2-bed-purple.html): 浪漫紫色主題雙床房
 - [高級雙床房 (superior-2-bed.html)](https://hanyuan.info/superior-2-bed.html): 寬敞質感高級雙床套房
-- [露營區介紹 (camping.html)](https://hanyuan.info/camping.html): 翠綠草皮露營、車露營位，附水電與 J1772 7kW 充電樁
-- [客家餐點 (meal.html)](https://hanyuan.info/meal.html): 傳統道地美濃客家美食料理
-- [庭院介紹 (garden.html)](https://hanyuan.info/garden.html): 廣大自然綠地庭院環境
-- [周邊景點 (destination.html)](https://hanyuan.info/destination.html): 美濃民俗村、美濃湖、旗山老街旅遊指引
-- [交通方式 (map.html)](https://hanyuan.info/map.html): 國道10號路線、導航地圖與充電樁設施指引
 
 ## 完整說明文件
-更詳細的房型細節、露營規範、常見問答與交通指南請參閱全文本：
+更詳細的房型細節、二期隱山館規劃、露營規範、常見問答與交通指南請參閱全文本：
 - [完整文本檔 (llms-full.txt)](https://hanyuan.info/llms-full.txt)
