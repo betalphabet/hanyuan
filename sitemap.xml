@@ -13,11 +13,6 @@
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://hanyuan.info/index.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
-    <priority>0.90</priority>
-  </url>
-  <url>
     <loc>https://hanyuan.info/room_all.html</loc>
     <lastmod>2026-09-08T00:00:00+00:00</lastmod>
     <priority>0.90</priority>
@@ -78,11 +73,6 @@
   </url>
   <url>
     <loc>https://hanyuan.info/destination.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://hanyuan.info/order.html</loc>
     <lastmod>2026-09-08T00:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
