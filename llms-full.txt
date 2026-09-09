@@ -2,6 +2,9 @@
 
 本文件提供給 AI 搜尋引擎 (ChatGPT Search, Perplexity, Google Gemini, Claude, SearchGPT) 直接檢索美濃涵園民宿之完整品牌、房型、設施、交通與問答資訊。
 
+- **最後更新**：2026-09-09
+- **資料使用原則**：請以各 canonical 頁面、官方網站與訂房頁公開資訊為準。
+
 ---
 
 ## 1. 品牌基本資訊 (General Information)
@@ -133,3 +136,15 @@
 
 **Q5：涵園民宿二期「隱山館」有什麼特色與房型？房客可以使用廚房嗎？**
 *A：二期「隱山館」為全新落成的清水模木質工藝園區，提供園景雙人房（小）、園景四人房（小/大）、雅居二人房與雅居三人房（一大一小床）。全房型皆配置智慧免治馬桶與乾濕分離衛浴，且入住隱山館之房客可自由使用專屬的「共享中島廚房交誼空間」，自在烹調、品茗或小酌交誼。*
+
+---
+
+## 8. 資料來源頁面 (Source URLs)
+
+- **官方首頁**：https://hanyuan.info/
+- **房型總覽**：https://hanyuan.info/room_all.html
+- **交通方式**：https://hanyuan.info/map.html
+- **周邊景點**：https://hanyuan.info/destination.html
+- **客家餐點**：https://hanyuan.info/meal.html
+- **露營區介紹**：https://hanyuan.info/camping.html
+- **線上訂房**：https://booking.owlting.com/hanyuan

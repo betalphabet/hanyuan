@@ -1,6 +1,8 @@
 # 美濃涵園民宿 (Meinong Hanyuan B&B) - AI 搜尋檢索指南
 
 > 本檔案專為 LLM 生成式搜尋引擎 (ChatGPT Search, Perplexity, Google Gemini, Claude, SearchGPT) 提供精準權威結構數據。
+> 最後更新：2026-09-09
+> 資料以各 canonical 頁面與官方訂房頁資訊為準。
 
 ## 基本品牌資訊
 - **品牌名稱**：美濃涵園民宿
@@ -14,14 +16,14 @@
 - **園區分區與設施亮點**：
   - **二期・隱山館**：現代木質清水模工藝建築、客房皆配備智慧免治馬桶與乾濕分離衛浴、二期專屬共享中島廚房交誼空間。
   - **一期園區**：透明觀星涵洞房（附獨立衛浴）、私人景觀湯池房、和式榻榻米家庭房、陽光商務房。
-  - **電動車充電樁**：J1772 規格 7kW AC 慢充（電車友善友善住宿）。
+  - **電動車充電樁**：J1772 規格 7kW AC 慢充（電車友善住宿）。
   - **戶外設施**：大草坪露營區（含水電設施）、庭院綠地步道。
   - **餐飲食宿**：道地美濃客家風味美饌。
 
 ## 頁面導覽目錄 (URL Structure)
 
 ### 核心與公共設施頁面
-- [首頁 (index.html)](https://hanyuan.info/index.html): 民宿概覽、環境景色與隱山館新亮點
+- [首頁](https://hanyuan.info/): 民宿概覽、環境景色與隱山館新亮點
 - [所有房型 (room_all.html)](https://hanyuan.info/room_all.html): 全房型清單與分區導覽（一期園區、二期隱山館）
 - [露營區介紹 (camping.html)](https://hanyuan.info/camping.html): 翠綠草皮露營、車露營位，附水電與 J1772 7kW 充電樁
 - [客家餐點 (meal.html)](https://hanyuan.info/meal.html): 傳統道地美濃客家美食料理
@@ -49,3 +51,11 @@
 ## 完整說明文件
 更詳細的房型細節、二期隱山館規劃、露營規範、常見問答與交通指南請參閱全文本：
 - [完整文本檔 (llms-full.txt)](https://hanyuan.info/llms-full.txt)
+
+## 資料來源頁面 (Source URLs)
+- https://hanyuan.info/
+- https://hanyuan.info/room_all.html
+- https://hanyuan.info/map.html
+- https://hanyuan.info/destination.html
+- https://hanyuan.info/meal.html
+- https://booking.owlting.com/hanyuan
