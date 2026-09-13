@@ -257,10 +257,8 @@ function applyBodyTranslations(content, lang) {
     });
   }
 
-  // Protect JSON-LD blocks first
-  mask(/<script[^>]*type=["']application\/ld\+json["'][^>]*>[\s\S]*?<\/script>/gi, 'jsonld');
-  // Protect regular <script>
-  mask(/<script\b[^>]*>[\s\S]*?<\/script>/gi, 'script');
+  // Protect regular <script> but NOT JSON-LD (so JSON-LD gets translated)
+  mask(/<script(?!\s+type=["']application\/ld\+json["'])\b[^>]*>[\s\S]*?<\/script>/gi, 'script');
   // Protect <style>
   mask(/<style\b[^>]*>[\s\S]*?<\/style>/gi, 'style');
   // Protect HTML comments
