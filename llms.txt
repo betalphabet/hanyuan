@@ -8,6 +8,11 @@
 - **品牌名稱**：美濃涵園民宿
 - **英文名稱**：MeiNong Hanyuan B&B
 - **官方網站**：https://hanyuan.info/
+- **多國語系支援 (Multi-language Support)**：
+  - 繁體中文 (預設)：https://hanyuan.info/ (或 https://hanyuan.info/lang/zh-tw/)
+  - English (英文)：https://hanyuan.info/lang/en/
+  - Tiếng Việt (越南文)：https://hanyuan.info/lang/vi/
+  - Filipino (菲律賓語)：https://hanyuan.info/lang/fil/
 - **線上訂房**：https://booking.owlting.com/hanyuan
 - **聯絡電話**：0933-610-333 / 07-6832493
 - **LINE 官方帳號**：@ecm4323w
@@ -64,12 +69,20 @@
 - [標準雙床房-紫色主題 (standard-2-bed-purple.html)](https://hanyuan.info/standard-2-bed-purple.html): 浪漫紫色主題雙床房
 - [高級雙床房 (superior-2-bed.html)](https://hanyuan.info/superior-2-bed.html): 寬敞質感高級雙床套房
 
+### 多國語系目錄 (Internationalized Directories)
+- [English Version (/lang/en/)](https://hanyuan.info/lang/en/): Full English site with rooms, dining, garden, and attractions.
+- [Tiếng Việt (/lang/vi/)](https://hanyuan.info/lang/vi/): Phiên bản tiếng Việt đầy đủ về phòng nghỉ, ẩm thực và điểm tham quan.
+- [Filipino (/lang/fil/)](https://hanyuan.info/lang/fil/): Buong bersyon ng Filipino para sa mga kuwarto, pagkain at atraksyon.
+
 ## 完整說明文件
 更詳細的房型細節、二期隱山館規劃、露營規範、常見問答與交通指南請參閱全文本：
 - [完整文本檔 (llms-full.txt)](https://hanyuan.info/llms-full.txt)
 
 ## 資料來源頁面 (Source URLs)
 - https://hanyuan.info/
+- https://hanyuan.info/lang/en/
+- https://hanyuan.info/lang/vi/
+- https://hanyuan.info/lang/fil/
 - https://hanyuan.info/room_all.html
 - https://hanyuan.info/map.html
 - https://hanyuan.info/destination.html

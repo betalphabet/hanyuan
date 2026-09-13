@@ -11,6 +11,11 @@
 
 - **品牌名稱**：美濃涵園民宿 (Meinong Hanyuan B&B)
 - **官方網站**：https://hanyuan.info/
+- **多國語系支援 (Multi-language Support)**：
+  - 繁體中文 (預設)：https://hanyuan.info/
+  - English (英文)：https://hanyuan.info/lang/en/
+  - Tiếng Việt (越南文)：https://hanyuan.info/lang/vi/
+  - Filipino (菲律賓語)：https://hanyuan.info/lang/fil/
 - **線上訂房系統**：https://booking.owlting.com/hanyuan (支援國民旅遊卡)
 - **電話預約**：0933-610-333 / 07-6832493
 - **LINE 官方帳號**：@ecm4323w (http://line.naver.jp/ti/p/~@ecm4323w)
@@ -279,6 +284,9 @@
 ## 8. 資料來源頁面 (Source URLs)
 
 - **官方首頁**：https://hanyuan.info/
+- **英文首頁 (English)**：https://hanyuan.info/lang/en/
+- **越南文首頁 (Tiếng Việt)**：https://hanyuan.info/lang/vi/
+- **菲律賓語首頁 (Filipino)**：https://hanyuan.info/lang/fil/
 - **房型總覽**：https://hanyuan.info/room_all.html
 - **交通方式**：https://hanyuan.info/map.html
 - **周邊景點總覽**：https://hanyuan.info/destination.html

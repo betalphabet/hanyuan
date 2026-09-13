@@ -92,48 +92,53 @@ function generateHreflangTags(filename, isSubdir = false) {
 }
 
 function replaceGoogleTranslateSafely(content, replacement) {
-  const targetStr = 'translate.google.com';
-  const idx = content.indexOf(targetStr);
-  if (idx === -1) {
-    const existingDropdownStart = content.indexOf('<li class="nav-item dropdown lang-selector"');
-    if (existingDropdownStart !== -1) {
-      const existingDropdownEnd = content.indexOf('</li>', existingDropdownStart);
-      if (existingDropdownEnd !== -1) {
-        return content.substring(0, existingDropdownStart) + replacement + content.substring(existingDropdownEnd + '</li>'.length);
-      }
-    }
-    return content;
+  const navStart = content.indexOf('<nav');
+  const navEnd = content.indexOf('</nav>');
+  if (navStart === -1 || navEnd === -1) return content;
+
+  let navSection = content.substring(navStart, navEnd);
+  const gtRegex = /<li\s+class="nav-item"[^>]*>\s*<a\s+href="https:\/\/translate\.google\.com[^"]*"[^>]*>[\s\S]*?<\/li>\s*/i;
+  const existingDropdownRegex = /<li class="nav-item dropdown lang-selector"[\s\S]*?<\/li>/i;
+
+  if (gtRegex.test(navSection)) {
+    navSection = navSection.replace(gtRegex, replacement + '\n');
+  } else if (existingDropdownRegex.test(navSection)) {
+    navSection = navSection.replace(existingDropdownRegex, replacement);
   }
 
-  const liStart = content.lastIndexOf('<li', idx);
-  const liEnd = content.indexOf('</li>', idx);
-
-  if (liStart !== -1 && liEnd !== -1) {
-    return content.substring(0, liStart) + replacement + content.substring(liEnd + '</li>'.length);
-  }
-
-  return content;
+  return content.substring(0, navStart) + navSection + content.substring(navEnd);
 }
 
-// Safely remove legacy site link from navbar without consuming preceding <li> tags
+// Safely remove legacy site link from navbar only
 function removeLegacySiteSafely(content) {
-  const targetStr = 'http://www.5658v.com/hanpark';
-  // Search only inside navbar (before </nav>)
+  const navStart = content.indexOf('<nav');
   const navEnd = content.indexOf('</nav>');
-  if (navEnd === -1) return content;
+  if (navStart === -1 || navEnd === -1) return content;
 
-  const navSection = content.substring(0, navEnd);
-  const idx = navSection.indexOf(targetStr);
-  if (idx === -1) return content;
-
-  const liStart = navSection.lastIndexOf('<li', idx);
-  const liEnd = navSection.indexOf('</li>', idx);
-
-  if (liStart !== -1 && liEnd !== -1) {
-    const cleanedNav = navSection.substring(0, liStart) + navSection.substring(liEnd + '</li>'.length);
-    return cleanedNav + content.substring(navEnd);
+  let navSection = content.substring(navStart, navEnd);
+  const legacyRegex = /<li\s+class="nav-item"[^>]*>\s*<a\s+href="http:\/\/www\.5658v\.com\/hanpark"[^>]*>[\s\S]*?<\/li>\s*/i;
+  
+  if (legacyRegex.test(navSection)) {
+    navSection = navSection.replace(legacyRegex, '');
   }
-  return content;
+
+  return content.substring(0, navStart) + navSection + content.substring(navEnd);
+}
+
+// Safely remove Facebook link from navbar only (keep in footer)
+function removeFacebookFromNavbarSafely(content) {
+  const navStart = content.indexOf('<nav');
+  const navEnd = content.indexOf('</nav>');
+  if (navStart === -1 || navEnd === -1) return content;
+
+  let navSection = content.substring(navStart, navEnd);
+  const fbRegex = /<li\s+class="nav-item"[^>]*>\s*<a\s+href="https:\/\/www\.facebook\.com\/MeiNongVilla"[^>]*>[\s\S]*?<\/li>\s*/i;
+
+  if (fbRegex.test(navSection)) {
+    navSection = navSection.replace(fbRegex, '');
+  }
+
+  return content.substring(0, navStart) + navSection + content.substring(navEnd);
 }
 
 // Add legacy site link to footer
@@ -156,23 +161,26 @@ function processRootHtml(filename) {
   const filePath = path.join(ROOT_DIR, filename);
   let content = fs.readFileSync(filePath, 'utf8');
 
-  // 1. Replace Google translate navbar item
+  // 1. Replace Google translate navbar item with dropdown
   const dropdownHtml = generateDropdownHtml('zh-tw', filename, false);
   content = replaceGoogleTranslateSafely(content, dropdownHtml);
 
   // 2. Safely remove legacy site from navbar
   content = removeLegacySiteSafely(content);
 
-  // 3. Add legacy site to footer
+  // 3. Safely remove Facebook from navbar
+  content = removeFacebookFromNavbarSafely(content);
+
+  // 4. Add legacy site to footer
   content = addLegacySiteToFooter(content, 'zh-tw');
 
-  // 4. Add css/i18n.css and hreflangs
+  // 5. Add css/i18n.css and hreflangs
   content = content.replace(/<!-- Alternate Language Hreflangs -->[\s\S]*?<link rel="stylesheet" href="[^"]*css\/i18n\.css">\n?/gi, '');
   if (content.includes('</head>')) {
     content = content.replace('</head>', `${generateHreflangTags(filename, false)}\n</head>`);
   }
 
-  // 5. Add js/i18n.js before </body>
+  // 6. Add js/i18n.js before </body>
   content = content.replace(/<script src="[^"]*js\/i18n\.js"><\/script>\n?/gi, '');
   if (content.includes('</body>')) {
     content = content.replace('</body>', `    <script src="js/i18n.js"></script>\n</body>`);
@@ -248,7 +256,7 @@ function convertToLangHtml(rootContent, lang, filename) {
       content = content.replace('<title>線上訂房 - 美濃涵園民宿</title>', '<title>Đặt phòng trực tuyến - Hanyuan B&B</title>');
       content = content.replace('<h1>線上訂房</h1>', '<h1>Đặt phòng trực tuyến</h1>');
       content = content.replace('正在前往美濃涵園民宿的 Owlting 奧丁丁安心訂房平台。', 'Đang chuyển tiếp tới nền tảng đặt phòng Owlting cho Hanyuan B&B...');
-      content = content.replace('若未自動跳轉，請點此繼續訂房', 'Nhấp vào đây nếu không tự động chuyển hướng');
+      content = content.replace('若未自動跳轉，請點此繼續訂房', 'Nhấp vào đây nếu không tự動 chuyển hướng');
     } else if (lang === 'fil') {
       content = content.replace('<title>線上訂房 - 美濃涵園民宿</title>', '<title>Online Booking - Hanyuan B&B</title>');
       content = content.replace('<h1>線上訂房</h1>', '<h1>Online Booking</h1>');
@@ -261,7 +269,7 @@ function convertToLangHtml(rootContent, lang, filename) {
 }
 
 function run() {
-  console.log('=== Starting Full i18n Site Build with Navbar/Footer Refinements ===');
+  console.log('=== Starting Full i18n Site Build (Navbar & Footer Clean) ===');
 
   const langBaseDir = path.join(ROOT_DIR, 'lang');
   if (!fs.existsSync(langBaseDir)) {

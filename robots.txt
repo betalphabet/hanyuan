@@ -1,51 +1,87 @@
 User-agent: *
 Allow: /
+Allow: /lang/
 Disallow: /backup/
+Disallow: /scripts/
+Disallow: /tests/
 
 # Allow GPT and AI crawlers
 User-agent: GPTBot
 Allow: /
+Allow: /lang/
 Disallow: /backup/
+Disallow: /scripts/
+Disallow: /tests/
 
 User-agent: ChatGPT-User
 Allow: /
+Allow: /lang/
 Disallow: /backup/
+Disallow: /scripts/
+Disallow: /tests/
 
 User-agent: OAI-SearchBot
 Allow: /
+Allow: /lang/
 Disallow: /backup/
+Disallow: /scripts/
+Disallow: /tests/
 
 User-agent: Google-Extended
 Allow: /
+Allow: /lang/
 Disallow: /backup/
+Disallow: /scripts/
+Disallow: /tests/
 
 User-agent: Anthropic-AI
 Allow: /
+Allow: /lang/
 Disallow: /backup/
+Disallow: /scripts/
+Disallow: /tests/
 
 User-agent: ClaudeBot
 Allow: /
+Allow: /lang/
 Disallow: /backup/
+Disallow: /scripts/
+Disallow: /tests/
 
 User-agent: PerplexityBot
 Allow: /
+Allow: /lang/
 Disallow: /backup/
+Disallow: /scripts/
+Disallow: /tests/
 
 User-agent: Applebot-Extended
 Allow: /
+Allow: /lang/
 Disallow: /backup/
+Disallow: /scripts/
+Disallow: /tests/
 
 User-agent: CCBot
 Allow: /
+Allow: /lang/
 Disallow: /backup/
+Disallow: /scripts/
+Disallow: /tests/
 
 User-agent: Omgilibot
 Allow: /
+Allow: /lang/
 Disallow: /backup/
+Disallow: /scripts/
+Disallow: /tests/
 
 User-agent: FacebookBot
 Allow: /
+Allow: /lang/
 Disallow: /backup/
+Disallow: /scripts/
+Disallow: /tests/
 
 # LLM files & Sitemap location
 # LLMs: https://hanyuan.info/llms.txt

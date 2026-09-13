@@ -1,198 +1,1720 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
-                      http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
-  <!-- 美濃涵園民宿網站地圖 - GEO & SEO 全面優化版 -->
-
+                      http://www.w3.org/1999/xhtml http://www.w3.org/2002/08/xhtml/xhtml1_schema.xsd">
+  <!-- 美濃涵園民宿網站地圖 - 多國語系 (i18n) & SEO 全面優化版 -->
   <url>
     <loc>https://hanyuan.info/</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>1.00</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/index.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/index.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/index.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/" />
   </url>
   <url>
     <loc>https://hanyuan.info/room_all.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/room_all.html" />
   </url>
-
-  <!-- 二期・隱山館房型 -->
   <url>
     <loc>https://hanyuan.info/garden-view-double-small.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-double-small.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/garden-view-quad-small.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-quad-small.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/garden-view-quad-large.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-quad-large.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/elegant-triple.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/elegant-triple.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/elegant-double.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/elegant-double.html" />
   </url>
-
-  <!-- 一期園區房型與特色設施 -->
   <url>
     <loc>https://hanyuan.info/dorm.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/dorm.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/camping.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/camping.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/camping.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/camping.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/camping.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/camping.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/map.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/map.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/map.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/map.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/map.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/map.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/meal.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/meal.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/meal.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/meal.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/meal.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/meal.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/garden.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/destination.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <!-- 周邊景點詳情頁（destination-*.html） -->
-  <url>
-    <loc>https://hanyuan.info/destination-lion-top.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://hanyuan.info/destination-lion-irrigation.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://hanyuan.info/destination-shuangxi-arboretum.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://hanyuan.info/destination-meinung-folk-village.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://hanyuan.info/destination-meinung-paper-umbrella.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://hanyuan.info/destination-meinung-lake.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://hanyuan.info/destination-xinwei-nursery.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://hanyuan.info/destination-chishan-mountain.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://hanyuan.info/destination-chishan-sugar-factory.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://hanyuan.info/destination-zhuzimen-power-plant.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://hanyuan.info/destination-neimen-temple.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://hanyuan.info/destination-chishan-old-street.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/destination-baoshan-cherry-blossom.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-baoshan-cherry-blossom.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/destination-i-kuan-tao.html</loc>
-    <lastmod>2026-09-13T00:00:00+00:00</lastmod>
-    <priority>0.75</priority>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-i-kuan-tao.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/destination-lion-top.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-lion-top.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/destination-lion-irrigation.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-lion-irrigation.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/destination-shuangxi-arboretum.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-shuangxi-arboretum.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/destination-meinung-folk-village.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-folk-village.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/destination-meinung-paper-umbrella.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-paper-umbrella.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/destination-meinung-lake.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-lake.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/destination-xinwei-nursery.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-xinwei-nursery.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/destination-chishan-mountain.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-mountain.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/destination-chishan-sugar-factory.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-sugar-factory.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/destination-zhuzimen-power-plant.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-zhuzimen-power-plant.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/destination-neimen-temple.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-neimen-temple.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/destination-chishan-old-street.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-old-street.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/hotspring_a.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/hotspring_a.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/hotspring_b.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/hotspring_b.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/family.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/family.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/family.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/family.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/family.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/family.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/eco_room.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/eco_room.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/standard-2-bed.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/standard-2-bed.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/standard-2-bed-purple.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/standard-2-bed-purple.html" />
   </url>
   <url>
     <loc>https://hanyuan.info/superior-2-bed.html</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/superior-2-bed.html" />
   </url>
-
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/index.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/index.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/index.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/index.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/room_all.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/room_all.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/garden-view-double-small.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-double-small.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/garden-view-quad-small.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-quad-small.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/garden-view-quad-large.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-quad-large.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/elegant-triple.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/elegant-triple.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/elegant-double.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/elegant-double.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/dorm.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/dorm.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/camping.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/camping.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/camping.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/camping.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/camping.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/camping.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/map.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/map.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/map.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/map.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/map.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/map.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/meal.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/meal.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/meal.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/meal.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/meal.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/meal.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/garden.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-baoshan-cherry-blossom.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-baoshan-cherry-blossom.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-i-kuan-tao.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-i-kuan-tao.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-lion-top.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-lion-top.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-lion-irrigation.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-lion-irrigation.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-shuangxi-arboretum.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-shuangxi-arboretum.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-meinung-folk-village.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-folk-village.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-meinung-paper-umbrella.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-paper-umbrella.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-meinung-lake.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-lake.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-xinwei-nursery.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-xinwei-nursery.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-chishan-mountain.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-mountain.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-chishan-sugar-factory.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-sugar-factory.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-zhuzimen-power-plant.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-zhuzimen-power-plant.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-neimen-temple.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-neimen-temple.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/destination-chishan-old-street.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-old-street.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/hotspring_a.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/hotspring_a.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/hotspring_b.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/hotspring_b.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/family.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/family.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/family.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/family.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/family.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/family.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/eco_room.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/eco_room.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/standard-2-bed.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/standard-2-bed.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/standard-2-bed-purple.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/standard-2-bed-purple.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/zh-tw/superior-2-bed.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/superior-2-bed.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/index.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/index.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/index.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/index.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/room_all.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/room_all.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/garden-view-double-small.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-double-small.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/garden-view-quad-small.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-quad-small.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/garden-view-quad-large.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-quad-large.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/elegant-triple.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/elegant-triple.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/elegant-double.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/elegant-double.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/dorm.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/dorm.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/camping.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/camping.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/camping.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/camping.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/camping.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/camping.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/map.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/map.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/map.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/map.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/map.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/map.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/meal.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/meal.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/meal.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/meal.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/meal.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/meal.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/garden.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-baoshan-cherry-blossom.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-baoshan-cherry-blossom.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-i-kuan-tao.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-i-kuan-tao.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-lion-top.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-lion-top.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-lion-irrigation.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-lion-irrigation.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-shuangxi-arboretum.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-shuangxi-arboretum.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-meinung-folk-village.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-folk-village.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-meinung-paper-umbrella.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-paper-umbrella.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-meinung-lake.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-lake.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-xinwei-nursery.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-xinwei-nursery.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-chishan-mountain.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-mountain.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-chishan-sugar-factory.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-sugar-factory.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-zhuzimen-power-plant.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-zhuzimen-power-plant.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-neimen-temple.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-neimen-temple.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/destination-chishan-old-street.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-old-street.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/hotspring_a.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/hotspring_a.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/hotspring_b.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/hotspring_b.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/family.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/family.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/family.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/family.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/family.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/family.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/eco_room.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/eco_room.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/standard-2-bed.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/standard-2-bed.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/standard-2-bed-purple.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/standard-2-bed-purple.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/en/superior-2-bed.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/superior-2-bed.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/index.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/index.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/index.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/index.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/room_all.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/room_all.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/garden-view-double-small.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-double-small.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/garden-view-quad-small.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-quad-small.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/garden-view-quad-large.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-quad-large.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/elegant-triple.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/elegant-triple.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/elegant-double.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/elegant-double.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/dorm.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/dorm.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/camping.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/camping.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/camping.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/camping.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/camping.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/camping.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/map.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/map.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/map.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/map.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/map.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/map.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/meal.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/meal.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/meal.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/meal.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/meal.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/meal.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/garden.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-baoshan-cherry-blossom.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-baoshan-cherry-blossom.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-i-kuan-tao.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-i-kuan-tao.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-lion-top.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-lion-top.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-lion-irrigation.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-lion-irrigation.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-shuangxi-arboretum.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-shuangxi-arboretum.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-meinung-folk-village.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-folk-village.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-meinung-paper-umbrella.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-paper-umbrella.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-meinung-lake.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-lake.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-xinwei-nursery.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-xinwei-nursery.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-chishan-mountain.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-mountain.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-chishan-sugar-factory.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-sugar-factory.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-zhuzimen-power-plant.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-zhuzimen-power-plant.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-neimen-temple.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-neimen-temple.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/destination-chishan-old-street.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-old-street.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/hotspring_a.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/hotspring_a.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/hotspring_b.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/hotspring_b.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/family.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/family.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/family.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/family.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/family.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/family.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/eco_room.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/eco_room.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/standard-2-bed.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/standard-2-bed.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/standard-2-bed-purple.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/standard-2-bed-purple.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/vi/superior-2-bed.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/superior-2-bed.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/index.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/index.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/index.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/index.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/room_all.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/room_all.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/room_all.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/garden-view-double-small.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-double-small.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-double-small.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/garden-view-quad-small.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-quad-small.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-quad-small.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/garden-view-quad-large.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden-view-quad-large.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden-view-quad-large.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/elegant-triple.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/elegant-triple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/elegant-triple.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/elegant-double.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/elegant-double.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/elegant-double.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/dorm.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/dorm.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/dorm.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/camping.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/camping.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/camping.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/camping.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/camping.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/camping.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/map.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/map.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/map.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/map.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/map.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/map.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/meal.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/meal.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/meal.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/meal.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/meal.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/meal.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/garden.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/garden.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/garden.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/garden.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/garden.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/garden.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.81</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-baoshan-cherry-blossom.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-baoshan-cherry-blossom.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-baoshan-cherry-blossom.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-i-kuan-tao.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-i-kuan-tao.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-i-kuan-tao.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-lion-top.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-lion-top.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-lion-top.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-lion-irrigation.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-lion-irrigation.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-lion-irrigation.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-shuangxi-arboretum.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-shuangxi-arboretum.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-shuangxi-arboretum.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-meinung-folk-village.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-folk-village.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-folk-village.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-meinung-paper-umbrella.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-paper-umbrella.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-paper-umbrella.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-meinung-lake.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-meinung-lake.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-meinung-lake.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-xinwei-nursery.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-xinwei-nursery.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-xinwei-nursery.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-chishan-mountain.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-mountain.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-mountain.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-chishan-sugar-factory.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-sugar-factory.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-sugar-factory.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-zhuzimen-power-plant.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-zhuzimen-power-plant.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-zhuzimen-power-plant.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-neimen-temple.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-neimen-temple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-neimen-temple.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/destination-chishan-old-street.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/destination-chishan-old-street.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/destination-chishan-old-street.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/hotspring_a.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/hotspring_a.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/hotspring_a.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/hotspring_b.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/hotspring_b.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/hotspring_b.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/family.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/family.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/family.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/family.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/family.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/family.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/eco_room.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/eco_room.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/eco_room.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/standard-2-bed.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/standard-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/standard-2-bed.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/standard-2-bed-purple.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/standard-2-bed-purple.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/standard-2-bed-purple.html" />
+  </url>
+  <url>
+    <loc>https://hanyuan.info/lang/fil/superior-2-bed.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <priority>0.76</priority>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/superior-2-bed.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hanyuan.info/superior-2-bed.html" />
+  </url>
   <!-- LLM & AI 檢索資料檔 -->
   <url>
     <loc>https://hanyuan.info/llms.txt</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.70</priority>
   </url>
   <url>
     <loc>https://hanyuan.info/llms-full.txt</loc>
-    <lastmod>2026-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <priority>0.70</priority>
   </url>
 </urlset>
