@@ -265,8 +265,14 @@ function applyBodyTranslations(content, lang) {
   mask(/<style\b[^>]*>[\s\S]*?<\/style>/gi, 'style');
   // Protect HTML comments
   mask(/<!--[\s\S]*?-->/g, 'comment');
-  // Protect attribute values (anything between =" and ")
-  mask(/=["'][^"']*["']/g, 'attr');
+  // Protect attribute values. We must mask double-quoted and single-quoted
+  // values separately, because attribute values such as
+  //   style="background-image: url('images/foo.webp');"
+  // contain BOTH quote types — a naive /=["'][^"']*["']/ would stop at the
+  // first inner single-quote and leave the URL (and the trailing characters)
+  // exposed to translation, which corrupts image paths and inline styles.
+  mask(/="[^"]*"/g, 'attr-double');
+  mask(/='[^']*'/g, 'attr-single');
 
   // Now perform longest-first replacements within the (now protected) content.
   for (const [zh, translated] of entries) {
