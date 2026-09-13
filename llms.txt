@@ -1,7 +1,7 @@
 # 美濃涵園民宿 (Meinong Hanyuan B&B) - AI 搜尋檢索指南
 
 > 本檔案專為 LLM 生成式搜尋引擎 (ChatGPT Search, Perplexity, Google Gemini, Claude, SearchGPT) 提供精準權威結構數據。
-> 最後更新：2026-09-09
+> 最後更新：2026-09-13
 > 資料以各 canonical 頁面與官方訂房頁資訊為準。
 
 ## 基本品牌資訊
@@ -28,8 +28,22 @@
 - [露營區介紹 (camping.html)](https://hanyuan.info/camping.html): 翠綠草皮露營、車露營位，附水電與 J1772 7kW 充電樁
 - [客家餐點 (meal.html)](https://hanyuan.info/meal.html): 傳統道地美濃客家美食料理
 - [庭院介紹 (garden.html)](https://hanyuan.info/garden.html): 廣大自然綠地庭院環境
-- [周邊景點 (destination.html)](https://hanyuan.info/destination.html): 美濃民俗村、美濃湖、旗山老街旅遊指引
+- [周邊景點總覽 (destination.html)](https://hanyuan.info/destination.html): 12 個美濃與旗山順遊景點導覽
 - [交通方式 (map.html)](https://hanyuan.info/map.html): 國道10號路線、導航地圖與充電樁設施指引
+
+### 周邊景點詳情頁 (12 個景點深度介紹)
+- [獅型頂登山步道 (destination-lion-top.html)](https://hanyuan.info/destination-lion-top.html): 美濃最親民郊山，海拔 240 公尺，360 度俯瞰美濃平原與旗尾山稜線
+- [獅子頭水圳 (destination-lion-irrigation.html)](https://hanyuan.info/destination-lion-irrigation.html): 日治時期客家水利工程，野薑花與攝影秘境
+- [雙溪樹木園 (destination-shuangxi-arboretum.html)](https://hanyuan.info/destination-shuangxi-arboretum.html): 1935 年日治時期林業試驗地，7.65 公頃、97 種熱帶樹種
+- [美濃民俗村 (destination-meinung-folk-village.html)](https://hanyuan.info/destination-meinung-folk-village.html): 客家傳統聚落保存區，傳統三合院、菸樓、客家藍衫與擂茶體驗
+- [美濃原鄉緣紙傘文化村 (destination-meinung-paper-umbrella.html)](https://hanyuan.info/destination-meinung-paper-umbrella.html): 台灣油紙傘產業最完整保存基地，DIY 彩繪傘體驗
+- [美濃湖 (destination-meinung-lake.html)](https://hanyuan.info/destination-meinung-lake.html): 中正湖，26 公頃湖面、環湖步道 3 公里，秋冬賞蓮、夜鷺生態
+- [新威森林公園 (destination-xinwei-nursery.html)](https://hanyuan.info/destination-xinwei-nursery.html): 茂林國家風景區入口，1100 棵桃花心木大道 2 公里
+- [旗尾山 (destination-chishan-mountain.html)](https://hanyuan.info/destination-chishan-mountain.html): 台灣小百岳第 65 號，海拔 380 公尺，旗山地標與宗教聖地
+- [旗山糖廠 (destination-chishan-sugar-factory.html)](https://hanyuan.info/destination-chishan-sugar-factory.html): 旗糖文化園區，紅磚倉庫群、糖廠冰棒、文創市集
+- [竹子門電廠 (destination-zhuzimen-power-plant.html)](https://hanyuan.info/destination-zhuzimen-power-plant.html): 1909 年竣工台灣第一座水力發電廠，國定古蹟
+- [內門紫竹寺 (destination-neimen-temple.html)](https://hanyuan.info/destination-neimen-temple.html): 全台宋江陣發源地，主祀觀世音菩薩
+- [旗山老街 (destination-chishan-old-street.html)](https://hanyuan.info/destination-chishan-old-street.html): 日治時期巴洛克式紅磚街屋、糖業金融商業中心
 
 ### 二期・隱山館房型 (Phase II - Yin Shan Guan)
 - [園景兩人房（小） (garden-view-double-small.html)](https://hanyuan.info/garden-view-double-small.html): 現代木質清水模雙人房、獨立觀景窗台、乾濕分離花磚衛浴與智慧免治馬桶
@@ -57,5 +71,17 @@
 - https://hanyuan.info/room_all.html
 - https://hanyuan.info/map.html
 - https://hanyuan.info/destination.html
+- https://hanyuan.info/destination-lion-top.html
+- https://hanyuan.info/destination-lion-irrigation.html
+- https://hanyuan.info/destination-shuangxi-arboretum.html
+- https://hanyuan.info/destination-meinung-folk-village.html
+- https://hanyuan.info/destination-meinung-paper-umbrella.html
+- https://hanyuan.info/destination-meinung-lake.html
+- https://hanyuan.info/destination-xinwei-nursery.html
+- https://hanyuan.info/destination-chishan-mountain.html
+- https://hanyuan.info/destination-chishan-sugar-factory.html
+- https://hanyuan.info/destination-zhuzimen-power-plant.html
+- https://hanyuan.info/destination-neimen-temple.html
+- https://hanyuan.info/destination-chishan-old-street.html
 - https://hanyuan.info/meal.html
 - https://booking.owlting.com/hanyuan
