@@ -129,17 +129,25 @@
       });
     });
 
-    // Fallback toggle for mobile / responsive devices if bootstrap dropdown JS isn't initialized
+    // Robust toggle for desktop click and mobile/touch devices
     var dropdownToggles = document.querySelectorAll('.lang-selector .dropdown-toggle');
     dropdownToggles.forEach(function (toggle) {
       toggle.addEventListener('click', function (e) {
-        if (window.jQuery && typeof window.jQuery(this).dropdown === 'function') {
-          return; // Let bootstrap handle it
-        }
         e.preventDefault();
+        e.stopPropagation();
+        var langItem = this.closest('.lang-selector');
         var menu = this.nextElementSibling;
         if (menu && menu.classList.contains('dropdown-menu')) {
-          menu.classList.toggle('show');
+          var isCurrentlyOpen = menu.classList.contains('show') || (langItem && langItem.classList.contains('show'));
+          if (isCurrentlyOpen) {
+            menu.classList.remove('show');
+            if (langItem) langItem.classList.remove('show');
+            this.setAttribute('aria-expanded', 'false');
+          } else {
+            menu.classList.add('show');
+            if (langItem) langItem.classList.add('show');
+            this.setAttribute('aria-expanded', 'true');
+          }
         }
       });
     });
@@ -147,11 +155,22 @@
     // Close menu when clicked outside
     document.addEventListener('click', function (e) {
       if (!e.target.closest('.lang-selector')) {
+        document.querySelectorAll('.lang-selector').forEach(function (el) {
+          el.classList.remove('show');
+          var toggle = el.querySelector('.dropdown-toggle');
+          if (toggle) toggle.setAttribute('aria-expanded', 'false');
+        });
         document.querySelectorAll('.lang-selector .dropdown-menu.show').forEach(function (menu) {
           menu.classList.remove('show');
         });
       }
     });
+
+    // Safely clean up data-spy="scroll" on body if present to prevent Bootstrap SyntaxError on relative URLs
+    var body = document.body;
+    if (body && body.getAttribute('data-spy') === 'scroll') {
+      body.removeAttribute('data-spy');
+    }
   }
 
   // Run auto redirect immediately before page render if applicable

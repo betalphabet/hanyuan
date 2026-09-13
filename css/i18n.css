@@ -20,16 +20,35 @@
    Desktop Styles (min-width: 992px)
    -------------------------------------------------------------------------- */
 @media (min-width: 992px) {
+  /* Expand navbar container on desktop to fit multilingual navigation */
+  .ftco-navbar-light .container {
+    max-width: 1280px !important;
+    width: 100% !important;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
   .ftco-navbar-light .navbar-nav {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
+    row-gap: 8px;
+  }
+
+  /* Compact padding for intermediate desktop widths (992px - 1280px) */
+  @media (max-width: 1280px) {
+    .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
+      padding-left: 12px !important;
+      padding-right: 12px !important;
+      font-size: 14.5px;
+    }
   }
 
   .ftco-navbar-light .navbar-nav > .nav-item.dropdown.lang-selector {
-    display: flex;
+    display: inline-flex;
     align-items: center;
     position: relative;
-    height: 100%;
+    height: auto;
     margin-left: 8px;
     align-self: center;
   }
@@ -78,7 +97,10 @@
   .lang-selector .dropdown-menu {
     min-width: 160px;
     padding: 6px 0;
-    margin-top: 6px;
+    margin-top: 4px;
+    top: 100%;
+    right: 0;
+    left: auto;
     background: rgba(26, 26, 26, 0.96);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
@@ -86,6 +108,26 @@
     border-radius: 10px;
     box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
     animation: i18nFadeIn 0.2s ease-out;
+    z-index: 1050;
+  }
+
+  /* Invisible hover bridge to prevent mouseleave when moving from toggle to menu */
+  .lang-selector .dropdown-menu::before {
+    content: "";
+    position: absolute;
+    top: -14px;
+    left: 0;
+    right: 0;
+    height: 14px;
+    background: transparent;
+  }
+
+  /* Ensure dropdown stays reliably displayed on hover or when show class is present */
+  .ftco-navbar-light .navbar-nav > .nav-item.dropdown.lang-selector:hover > .dropdown-menu,
+  .ftco-navbar-light .navbar-nav > .nav-item.dropdown.lang-selector.show > .dropdown-menu {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
   }
 
   .ftco-navbar-light.scrolled .lang-selector .dropdown-menu,
