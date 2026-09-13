@@ -15,6 +15,17 @@ try {
   console.warn(`⚠️  Could not load meta translations from ${TRANSLATIONS_PATH}: ${err.message}`);
 }
 
+// Load body content translations (shared UI strings, buttons, etc.)
+const BODY_TRANSLATIONS_PATH = path.join(ROOT_DIR, 'i18n', 'translations', 'body.json');
+let BODY_TRANSLATIONS = { shared: { en: {}, vi: {}, fil: {}, pt: {} } };
+try {
+  BODY_TRANSLATIONS = JSON.parse(fs.readFileSync(BODY_TRANSLATIONS_PATH, 'utf8'));
+  const counts = Object.entries(BODY_TRANSLATIONS.shared || {}).map(([l, m]) => `${l}=${Object.keys(m).length}`).join(', ');
+  console.log(`Loaded shared body translations (${counts}).`);
+} catch (err) {
+  console.warn(`⚠️  Could not load body translations from ${BODY_TRANSLATIONS_PATH}: ${err.message}`);
+}
+
 const NAV_TRANSLATIONS = {
   'zh-tw': {
     langName: '繁體中文',
@@ -216,6 +227,64 @@ function processRootHtml(filename) {
 // Apply per-language meta tag translations from the central dictionary.
 // Rewrites <title>, <meta name="description|keywords">, <meta property="og:*">,
 // <meta name="twitter:*"> when a translation entry exists for (filename, lang).
+// Apply per-language body content translations from the shared dictionary.
+// Performs exact-match replacement of Chinese strings (longest-first to avoid
+// prefix collisions). Only replaces inside the rendered text nodes of the HTML
+// — does not touch JSON-LD <script type="application/ld+json"> blocks, regular
+// <script> or <style> blocks, or HTML comments. The replacement is wrapped in
+// a tag boundary check so we only touch text between > and < (visible body copy).
+function applyBodyTranslations(content, lang) {
+  if (lang === 'zh-tw') return content;
+  const dict = (BODY_TRANSLATIONS.shared && BODY_TRANSLATIONS.shared[lang]) || {};
+  const entries = Object.entries(dict);
+  if (entries.length === 0) return content;
+
+  // Sort longest-first so longer phrases are matched before their substrings.
+  entries.sort((a, b) => b[0].length - a[0].length);
+
+  // Build a single regex that matches any Chinese key, but only when it sits
+  // between > and < (i.e. inside a text node, not inside an attribute value or tag).
+  // We do this in two passes: first mask out the protected regions (JSON-LD,
+  // <script>, <style>, comments, attribute values), then run replacement, then
+  // restore the masked regions.
+  const placeholders = [];
+
+  function mask(regex, label) {
+    content = content.replace(regex, (m) => {
+      const idx = placeholders.length;
+      placeholders.push({ label, original: m });
+      return `\x00MASK_${idx}\x00`;
+    });
+  }
+
+  // Protect JSON-LD blocks first
+  mask(/<script[^>]*type=["']application\/ld\+json["'][^>]*>[\s\S]*?<\/script>/gi, 'jsonld');
+  // Protect regular <script>
+  mask(/<script\b[^>]*>[\s\S]*?<\/script>/gi, 'script');
+  // Protect <style>
+  mask(/<style\b[^>]*>[\s\S]*?<\/style>/gi, 'style');
+  // Protect HTML comments
+  mask(/<!--[\s\S]*?-->/g, 'comment');
+  // Protect attribute values (anything between =" and ")
+  mask(/=["'][^"']*["']/g, 'attr');
+
+  // Now perform longest-first replacements within the (now protected) content.
+  for (const [zh, translated] of entries) {
+    if (!translated) continue;
+    // Escape regex special chars in the Chinese key
+    const escaped = zh.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    // Replace globally. The pattern is the literal Chinese string.
+    content = content.split(zh).join(translated);
+  }
+
+  // Restore masked regions
+  placeholders.forEach((p, idx) => {
+    content = content.replace(`\x00MASK_${idx}\x00`, p.original);
+  });
+
+  return content;
+}
+
 function applyMetaTranslations(content, lang, filename) {
   if (lang === 'zh-tw') return content;
   const entry = META_TRANSLATIONS[filename] && META_TRANSLATIONS[filename][lang];
@@ -301,6 +370,10 @@ function convertToLangHtml(rootContent, lang, filename) {
 
   // 0. Apply SEO meta tag translations first so subsequent rewrites (canonical, hreflang) operate on the translated content
   content = applyMetaTranslations(content, lang, filename);
+
+  // 0b. Apply body content translations (shared UI strings, buttons, etc.)
+  // Done early so the rest of the pipeline operates on already-translated text.
+  content = applyBodyTranslations(content, lang);
 
   // 1. Update <html lang="...">
   const langAttrMap = {
