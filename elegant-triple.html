@@ -143,6 +143,13 @@
       src="https://www.facebook.com/tr?id=1681097592136418&ev=PageView&noscript=1" alt="" /></noscript>
   <!-- End Facebook Pixel Code -->
 
+    <!-- Alternate Language Hreflangs -->
+    <link rel="alternate" hreflang="zh-TW" href="https://hanyuan.info/elegant-triple.html" />
+    <link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/elegant-triple.html" />
+    <link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/elegant-triple.html" />
+    <link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/elegant-triple.html" />
+    <link rel="alternate" hreflang="x-default" href="https://hanyuan.info/elegant-triple.html" />
+    <link rel="stylesheet" href="css/i18n.css">
 </head>
 
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
@@ -163,14 +170,22 @@
           <li class="nav-item"><a href="garden.html" class="nav-link"><span>庭園</span></a></li>
           <li class="nav-item"><a href="destination.html" class="nav-link"><span>景點</span></a></li>
           <li class="nav-item"><a href="map.html" class="nav-link"><span>交通方式</span></a></li>
-          <li class="nav-item"><a href="http://www.5658v.com/hanpark" class="nav-link"
-              target="_blank"><span>舊版網站</span></a></li>
+          
           <li class="nav-item"><a href="https://www.facebook.com/MeiNongVilla" class="nav-link"
               target="_blank"><span>Facebook</span></a></li>
           <li class="nav-item"><a href="order.html" target="_blank" class="nav-link btn btn-primary"><span
                 class="text-dark">線上訂房</span></a></li>
-          <li class="nav-item"><a href="https://translate.google.com/translate?sl=zh-CN&tl=en&u=https://hanyuan.info"
-              class="nav-link"><span>EN</span></a></li>
+          <li class="nav-item dropdown lang-selector">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownLang" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span class="globe-icon">🌐</span> <span>繁體中文</span>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownLang">
+                            <a class="dropdown-item active" href="elegant-triple.html" data-lang="zh-tw">繁體中文</a>
+                            <a class="dropdown-item " href="lang/en/elegant-triple.html" data-lang="en">English</a>
+                            <a class="dropdown-item " href="lang/vi/elegant-triple.html" data-lang="vi">Tiếng Việt</a>
+                            <a class="dropdown-item " href="lang/fil/elegant-triple.html" data-lang="fil">Filipino</a>
+                        </div>
+                    </li>
         </ul>
       </div>
     </div>
@@ -419,7 +434,7 @@
           <p>
             Copyright &copy;
             <script>document.write(new Date().getFullYear());</script> Hanyuan B&B All rights reserved <br> 網站製作： <a
-              href="https://dev.hanyuan.info" target="_blank">群學開發</a>
+              href="https://dev.hanyuan.info" target="_blank">群學開發</a> ｜ <a href="http://www.5658v.com/hanpark" target="_blank">舊版網站</a>
           </p>
         </div>
       </div>
@@ -449,6 +464,7 @@
 
   <script src="js/main.js?v=202103021427"></script>
 
+    <script src="js/i18n.js"></script>
 </body>
 
 </html>

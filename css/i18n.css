@@ -1,0 +1,246 @@
+/* ==========================================================================
+   Multi-language (i18n) Navigation Dropdown Styles
+   Refined for desktop vertical alignment & mobile white theme integration
+   ========================================================================== */
+
+/* Remove standard underline pseudo-element on language dropdown toggle */
+.lang-selector .dropdown-toggle span:before {
+  display: none !important;
+}
+
+.lang-selector .globe-icon {
+  font-size: 1rem;
+  line-height: 1;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 4px;
+}
+
+/* --------------------------------------------------------------------------
+   Desktop Styles (min-width: 992px)
+   -------------------------------------------------------------------------- */
+@media (min-width: 992px) {
+  .ftco-navbar-light .navbar-nav {
+    display: flex;
+    align-items: center;
+  }
+
+  .ftco-navbar-light .navbar-nav > .nav-item.dropdown.lang-selector {
+    display: flex;
+    align-items: center;
+    position: relative;
+    height: 100%;
+    margin-left: 8px;
+    align-self: center;
+  }
+
+  .ftco-navbar-light .navbar-nav > .nav-item.lang-selector > .dropdown-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 7px 16px !important;
+    margin: auto 0;
+    line-height: 1.4;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    color: #ffffff !important;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+
+  .ftco-navbar-light .navbar-nav > .nav-item.lang-selector > .dropdown-toggle:hover {
+    border-color: #BBE2E0;
+    color: #BBE2E0 !important;
+    background: rgba(187, 226, 224, 0.15);
+  }
+
+  /* When navbar is scrolled or on white background pages */
+  .ftco-navbar-light.scrolled .navbar-nav > .nav-item.lang-selector > .dropdown-toggle,
+  .nav-white-mask .navbar-nav > .nav-item.lang-selector > .dropdown-toggle {
+    border-color: #d1d5db;
+    background: #f8fafc;
+    color: #334155 !important;
+  }
+
+  .ftco-navbar-light.scrolled .navbar-nav > .nav-item.lang-selector > .dropdown-toggle:hover,
+  .nav-white-mask .navbar-nav > .nav-item.lang-selector > .dropdown-toggle:hover {
+    border-color: #66b5b1;
+    color: #1e5e5b !important;
+    background: rgba(187, 226, 224, 0.25);
+  }
+
+  /* Desktop Dropdown Menu */
+  .lang-selector .dropdown-menu {
+    min-width: 160px;
+    padding: 6px 0;
+    margin-top: 6px;
+    background: rgba(26, 26, 26, 0.96);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 10px;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
+    animation: i18nFadeIn 0.2s ease-out;
+  }
+
+  .ftco-navbar-light.scrolled .lang-selector .dropdown-menu,
+  .nav-white-mask .lang-selector .dropdown-menu {
+    background: #ffffff;
+    border-color: #e2e8f0;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  }
+
+  .lang-selector .dropdown-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 9px 18px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #e2e8f0;
+    transition: all 0.2s ease;
+  }
+
+  .ftco-navbar-light.scrolled .lang-selector .dropdown-item,
+  .nav-white-mask .lang-selector .dropdown-item {
+    color: #334155;
+  }
+
+  .lang-selector .dropdown-item:hover,
+  .lang-selector .dropdown-item:focus {
+    background: rgba(187, 226, 224, 0.2);
+    color: #BBE2E0;
+    padding-left: 22px;
+  }
+
+  .ftco-navbar-light.scrolled .lang-selector .dropdown-item:hover,
+  .nav-white-mask .lang-selector .dropdown-item:hover {
+    background: rgba(187, 226, 224, 0.15);
+    color: #1b5e5a;
+  }
+
+  .lang-selector .dropdown-item.active,
+  .lang-selector .dropdown-item:active {
+    background: rgba(187, 226, 224, 0.25);
+    color: #BBE2E0;
+    font-weight: 600;
+  }
+
+  .ftco-navbar-light.scrolled .lang-selector .dropdown-item.active,
+  .nav-white-mask .lang-selector .dropdown-item.active {
+    background: rgba(187, 226, 224, 0.35);
+    color: #1b5e5a;
+  }
+
+  .lang-selector .dropdown-item.active::after {
+    content: "✓";
+    margin-left: 8px;
+    font-size: 13px;
+  }
+}
+
+@keyframes i18nFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Mobile Styles (max-width: 991.98px)
+   Matches the white mobile collapse menu with refined mint/teal palette
+   -------------------------------------------------------------------------- */
+@media (max-width: 991.98px) {
+  .ftco-navbar-light .navbar-nav > .nav-item.lang-selector {
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1px solid #f1f5f9;
+    display: block;
+  }
+
+  .ftco-navbar-light .navbar-nav > .nav-item.lang-selector > .dropdown-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    width: auto;
+    min-width: 145px;
+    padding: 9px 16px !important;
+    font-size: 15px;
+    font-weight: 500;
+    color: #1e293b !important;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+    transition: all 0.2s ease;
+  }
+
+  .ftco-navbar-light .navbar-nav > .nav-item.lang-selector > .dropdown-toggle:hover,
+  .ftco-navbar-light .navbar-nav > .nav-item.lang-selector > .dropdown-toggle:focus {
+    background: #f1f5f9;
+    border-color: #cbd5e1;
+    color: #0f172a !important;
+    outline: none !important;
+  }
+
+  .lang-selector .dropdown-menu {
+    position: static !important;
+    transform: none !important;
+    float: none;
+    width: 100%;
+    max-width: 220px;
+    margin-top: 8px;
+    margin-left: 0;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+    padding: 4px 0;
+  }
+
+  .lang-selector .dropdown-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 16px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #475569 !important;
+    background: transparent;
+    border-radius: 6px;
+    margin: 2px 6px;
+    width: calc(100% - 12px);
+    transition: all 0.15s ease;
+  }
+
+  .lang-selector .dropdown-item:hover,
+  .lang-selector .dropdown-item:focus {
+    background: #f8fafc;
+    color: #0f172a !important;
+    padding-left: 18px;
+  }
+
+  /* Active item: delicate teal/mint tone matching the site theme #BBE2E0 */
+  .lang-selector .dropdown-item.active,
+  .lang-selector .dropdown-item:active {
+    background: rgba(187, 226, 224, 0.35) !important;
+    color: #1b5e5a !important;
+    font-weight: 600;
+  }
+
+  .lang-selector .dropdown-item.active::after {
+    content: "✓";
+    color: #1b5e5a;
+    font-weight: 700;
+    font-size: 14px;
+  }
+}
