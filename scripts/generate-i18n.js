@@ -2,7 +2,18 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
-const LANGS = ['zh-tw', 'en', 'vi', 'fil'];
+const LANGS = ['zh-tw', 'en', 'vi', 'fil', 'pt'];
+
+// Load SEO meta translations from central dictionary
+const TRANSLATIONS_PATH = path.join(ROOT_DIR, 'i18n', 'translations', 'pages.json');
+let META_TRANSLATIONS = {};
+try {
+  const dict = JSON.parse(fs.readFileSync(TRANSLATIONS_PATH, 'utf8'));
+  META_TRANSLATIONS = dict.meta || {};
+  console.log(`Loaded meta translations for ${Object.keys(META_TRANSLATIONS).length} pages.`);
+} catch (err) {
+  console.warn(`⚠️  Could not load meta translations from ${TRANSLATIONS_PATH}: ${err.message}`);
+}
 
 const NAV_TRANSLATIONS = {
   'zh-tw': {
@@ -44,6 +55,16 @@ const NAV_TRANSLATIONS = {
     map: 'Direksyon at Lokasyon',
     oldSite: 'Lumang Site',
     bookOnline: 'Mag-book Ngayon'
+  },
+  'pt': {
+    langName: 'Português',
+    rooms: 'Quartos',
+    meal: 'Refeições',
+    garden: 'Jardim',
+    destination: 'Atrações',
+    map: 'Direções e Localização',
+    oldSite: 'Site Antigo',
+    bookOnline: 'Reservar Agora'
   }
 };
 
@@ -75,6 +96,7 @@ function generateDropdownHtml(currentLang, filename, isInsideLangDir) {
                             <a class="dropdown-item ${currentLang === 'en' ? 'active' : ''}" href="${getLangHref('en')}" data-lang="en">English</a>
                             <a class="dropdown-item ${currentLang === 'vi' ? 'active' : ''}" href="${getLangHref('vi')}" data-lang="vi">Tiếng Việt</a>
                             <a class="dropdown-item ${currentLang === 'fil' ? 'active' : ''}" href="${getLangHref('fil')}" data-lang="fil">Filipino</a>
+                            <a class="dropdown-item ${currentLang === 'pt' ? 'active' : ''}" href="${getLangHref('pt')}" data-lang="pt">Português</a>
                         </div>
                     </li>`;
 }
@@ -87,6 +109,7 @@ function generateHreflangTags(filename, isSubdir = false) {
     <link rel="alternate" hreflang="en" href="https://hanyuan.info/lang/en/${filename}" />
     <link rel="alternate" hreflang="vi" href="https://hanyuan.info/lang/vi/${filename}" />
     <link rel="alternate" hreflang="fil" href="https://hanyuan.info/lang/fil/${filename}" />
+    <link rel="alternate" hreflang="pt" href="https://hanyuan.info/lang/pt/${filename}" />
     <link rel="alternate" hreflang="x-default" href="https://hanyuan.info/${pageUrl}" />
     <link rel="stylesheet" href="${cssPrefix}css/i18n.css">`;
 }
@@ -190,15 +213,102 @@ function processRootHtml(filename) {
   return content;
 }
 
+// Apply per-language meta tag translations from the central dictionary.
+// Rewrites <title>, <meta name="description|keywords">, <meta property="og:*">,
+// <meta name="twitter:*"> when a translation entry exists for (filename, lang).
+function applyMetaTranslations(content, lang, filename) {
+  if (lang === 'zh-tw') return content;
+  const entry = META_TRANSLATIONS[filename] && META_TRANSLATIONS[filename][lang];
+  if (!entry) return content;
+
+  // <title>
+  if (entry.title) {
+    content = content.replace(
+      /<title>[^<]*<\/title>/i,
+      `<title>${entry.title}</title>`
+    );
+  }
+
+  // <meta name="description" ...>
+  if (entry.description) {
+    content = content.replace(
+      /<meta\s+name=["']description["'][^>]*content=["'][^"']*["'][^>]*>/i,
+      (m) => m.replace(/content=["'][^"']*["']/i, `content="${entry.description}"`)
+    );
+  }
+
+  // <meta name="keywords" ...>
+  if (entry.keywords) {
+    content = content.replace(
+      /<meta\s+name=["']keywords["'][^>]*content=["'][^"']*["'][^>]*>/i,
+      (m) => m.replace(/content=["'][^"']*["']/i, `content="${entry.keywords}"`)
+    );
+  }
+
+  // <meta property="og:title">
+  if (entry.ogTitle) {
+    content = content.replace(
+      /<meta\s+property=["']og:title["'][^>]*content=["'][^"']*["'][^>]*>/i,
+      (m) => m.replace(/content=["'][^"']*["']/i, `content="${entry.ogTitle}"`)
+    );
+  }
+
+  // <meta property="og:description">
+  if (entry.ogDescription) {
+    content = content.replace(
+      /<meta\s+property=["']og:description["'][^>]*content=["'][^"']*["'][^>]*>/i,
+      (m) => m.replace(/content=["'][^"']*["']/i, `content="${entry.ogDescription}"`)
+    );
+  }
+
+  // <meta property="og:image:alt">
+  if (entry.ogImageAlt) {
+    content = content.replace(
+      /<meta\s+property=["']og:image:alt["'][^>]*content=["'][^"']*["'][^>]*>/i,
+      (m) => m.replace(/content=["'][^"']*["']/i, `content="${entry.ogImageAlt}"`)
+    );
+  }
+
+  // <meta name="twitter:title">
+  if (entry.twitterTitle) {
+    content = content.replace(
+      /<meta\s+name=["']twitter:title["'][^>]*content=["'][^"']*["'][^>]*>/i,
+      (m) => m.replace(/content=["'][^"']*["']/i, `content="${entry.twitterTitle}"`)
+    );
+  }
+
+  // <meta name="twitter:description">
+  if (entry.twitterDescription) {
+    content = content.replace(
+      /<meta\s+name=["']twitter:description["'][^>]*content=["'][^"']*["'][^>]*>/i,
+      (m) => m.replace(/content=["'][^"']*["']/i, `content="${entry.twitterDescription}"`)
+    );
+  }
+
+  // <meta name="twitter:image:alt">
+  if (entry.twitterImageAlt) {
+    content = content.replace(
+      /<meta\s+name=["']twitter:image:alt["'][^>]*content=["'][^"']*["'][^>]*>/i,
+      (m) => m.replace(/content=["'][^"']*["']/i, `content="${entry.twitterImageAlt}"`)
+    );
+  }
+
+  return content;
+}
+
 function convertToLangHtml(rootContent, lang, filename) {
   let content = rootContent;
+
+  // 0. Apply SEO meta tag translations first so subsequent rewrites (canonical, hreflang) operate on the translated content
+  content = applyMetaTranslations(content, lang, filename);
 
   // 1. Update <html lang="...">
   const langAttrMap = {
     'zh-tw': 'zh-TW',
     'en': 'en',
     'vi': 'vi',
-    'fil': 'fil'
+    'fil': 'fil',
+    'pt': 'pt'
   };
   content = content.replace(/<html(?:\s+lang="[^"]*")?/i, `<html lang="${langAttrMap[lang]}"`);
 
@@ -248,20 +358,21 @@ function convertToLangHtml(rootContent, lang, filename) {
   // 7. Handle special order.html content
   if (filename === 'order.html' && lang !== 'zh-tw') {
     if (lang === 'en') {
-      content = content.replace('<title>線上訂房 - 美濃涵園民宿</title>', '<title>Online Booking - Hanyuan B&B</title>');
       content = content.replace('<h1>線上訂房</h1>', '<h1>Online Booking</h1>');
       content = content.replace('正在前往美濃涵園民宿的 Owlting 奧丁丁安心訂房平台。', 'Redirecting to Owlting Booking Platform for Hanyuan B&B...');
       content = content.replace('若未自動跳轉，請點此繼續訂房', 'Click here if not redirected automatically');
     } else if (lang === 'vi') {
-      content = content.replace('<title>線上訂房 - 美濃涵園民宿</title>', '<title>Đặt phòng trực tuyến - Hanyuan B&B</title>');
       content = content.replace('<h1>線上訂房</h1>', '<h1>Đặt phòng trực tuyến</h1>');
       content = content.replace('正在前往美濃涵園民宿的 Owlting 奧丁丁安心訂房平台。', 'Đang chuyển tiếp tới nền tảng đặt phòng Owlting cho Hanyuan B&B...');
       content = content.replace('若未自動跳轉，請點此繼續訂房', 'Nhấp vào đây nếu không tự動 chuyển hướng');
     } else if (lang === 'fil') {
-      content = content.replace('<title>線上訂房 - 美濃涵園民宿</title>', '<title>Online Booking - Hanyuan B&B</title>');
       content = content.replace('<h1>線上訂房</h1>', '<h1>Online Booking</h1>');
       content = content.replace('正在前往美濃涵園民宿的 Owlting 奧丁丁安心訂房平台。', 'Pumupunta sa Owlting Booking Platform para sa Hanyuan B&B...');
       content = content.replace('若未自動跳轉，請點此繼續訂房', 'Mag-click dito kung hindi awtomatikong mag-redirect');
+    } else if (lang === 'pt') {
+      content = content.replace('<h1>線上訂房</h1>', '<h1>Reservar Online</h1>');
+      content = content.replace('正在前往美濃涵園民宿的 Owlting 奧丁丁安心訂房平台。', 'Redirecionando para a plataforma de reservas Owlting da Hanyuan B&B...');
+      content = content.replace('若未自動跳轉，請點此繼續訂房', 'Clique aqui se não for redirecionado automaticamente');
     }
   }
 
@@ -290,17 +401,12 @@ function run() {
     // 1. Process root HTML file
     const rootProcessed = processRootHtml(filename);
 
-    // 2. Generate for zh-tw, en, vi, fil
+    // 2. Generate for all target langs (zh-tw, en, vi, fil, pt)
     LANGS.forEach(lang => {
       const targetFilePath = path.join(langBaseDir, lang, filename);
       const langContent = convertToLangHtml(rootProcessed, lang, filename);
       fs.writeFileSync(targetFilePath, langContent, 'utf8');
     });
-
-    // 3. Generate for pt
-    const ptFilePath = path.join(langBaseDir, 'pt', filename);
-    const ptContent = convertToLangHtml(rootProcessed, 'fil', filename);
-    fs.writeFileSync(ptFilePath, ptContent, 'utf8');
 
     processedCount++;
   });

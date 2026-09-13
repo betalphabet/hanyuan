@@ -1,0 +1,1615 @@
+{
+  "_doc": "SEO meta-tag translations for non-Chinese locales. Keys are filenames, values are language-keyed objects containing only the meta tags that should be rewritten during the build (title, description, keywords, og:* and twitter:*). Body content and JSON-LD are NOT translated here.",
+  "meta": {
+    "index.html": {
+      "en": {
+        "title": "Hanyuan B&B - Premier Stay in Meinong, Kaohsiung | Camping, Café & Stargazing",
+        "description": "Hanyuan B&B is set in a tranquil rural corner of Meinong District, Kaohsiung—offering a peaceful escape from the city. Surrounded by mountains on three sides, the property features a transparent pipe stargazing room, scenic hot-spring suites, a J1772 7kW AC EV charger, and a camping area.",
+        "keywords": "Meinong B&B,Meinong accommodation,Hanyuan B&B,Kaohsiung B&B,Kaohsiung accommodation,Meinong camping,EV charger B&B,stargazing B&B,hot-spring B&B",
+        "ogTitle": "Hanyuan B&B - Premier Stay, Stargazing & Camping in Meinong, Kaohsiung",
+        "ogDescription": "Hanyuan B&B offers a tranquil countryside retreat with transparent pipe stargazing rooms, private hot-spring suites and a J1772 7kW EV charger—the perfect getaway with family and friends.",
+        "ogImageAlt": "Hanyuan B&B garden and room overview",
+        "twitterTitle": "Hanyuan B&B - Premier Stay, Stargazing & Camping in Meinong, Kaohsiung",
+        "twitterDescription": "Hanyuan B&B offers a tranquil countryside retreat with transparent pipe stargazing rooms, private hot-spring suites and a J1772 7kW EV charger—the perfect getaway with family and friends.",
+        "twitterImageAlt": "Hanyuan B&B garden and room overview"
+      },
+      "vi": {
+        "title": "Hanyuan B&B - Lưu trú hàng đầu tại Mỹ Nùng, Cao Hùng | Cắm trại, Cà phê & Ngắm sao",
+        "description": "Hanyuan B&B tọa lạc tại một góc yên bình của quận Mỹ Nùng, thành phố Cao Hùng—mang đến trải nghiệm nghỉ dưỡng xa cách phố thị ồn ào. Bao quanh bởi ba mặt núi, khuôn viên có phòng sao trong ống trong suốt, phòng tắm suối nước nóng cảnh quan, trạm sạc xe điện AC J1772 7kW và khu cắm trại.",
+        "keywords": "homestay Mỹ Nùng,lưu trú Mỹ Nùng,Hanyuan B&B,homestay Cao Hùng,lưu trú Cao Hùng,cắm trại Mỹ Nùng,homestay có trạm sạc,homestay ngắm sao,homestay suối nước nóng",
+        "ogTitle": "Hanyuan B&B - Lưu trú, ngắm sao & cắm trại hàng đầu tại Mỹ Nùng, Cao Hùng",
+        "ogDescription": "Hanyuan B&B mang đến trải nghiệm nghỉ dưỡng yên bình giữa thiên nhiên với phòng sao trong ống trong suốt, phòng tắm suối nước nóng riêng và trạm sạc xe điện J1772 7kW—kỳ nghỉ hoàn hảo cho gia đình và bạn bè.",
+        "ogImageAlt": "Khuôn viên và các loại phòng của Hanyuan B&B",
+        "twitterTitle": "Hanyuan B&B - Lưu trú, ngắm sao & cắm trại hàng đầu tại Mỹ Nùng, Cao Hùng",
+        "twitterDescription": "Hanyuan B&B mang đến trải nghiệm nghỉ dưỡng yên bình giữa thiên nhiên với phòng sao trong ống trong suốt, phòng tắm suối nước nóng riêng và trạm sạc xe điện J1772 7kW—kỳ nghỉ hoàn hảo cho gia đình và bạn bè.",
+        "twitterImageAlt": "Khuôn viên và các loại phòng của Hanyuan B&B"
+      },
+      "fil": {
+        "title": "Hanyuan B&B - Pinakamainam na Stay sa Meinong, Kaohsiung | Camping, Café, at Pagtingin sa mga Bituin",
+        "description": "Ang Hanyuan B&B ay nakatayo sa isang payapang rural na sulok ng Meinong District, Kaohsiung—nag-aalok ng tahimik na pahinga mula sa lungsod. Palibutan ng mga bundok sa tatlong gilid, mayroon itong transparent pipe stargazing room, scenic hot-spring suites, J1772 7kW AC EV charger, at camping area.",
+        "keywords": "Meinong B&B,Meinong accommodation,Hanyuan B&B,Kaohsiung B&B,Kaohsiung accommodation,Meinong camping,EV charger B&B,stargazing B&B,hot-spring B&B",
+        "ogTitle": "Hanyuan B&B - Premier Stay, Stargazing at Camping sa Meinong, Kaohsiung",
+        "ogDescription": "Ang Hanyuan B&B ay nag-aalok ng tahimik na pahinga sa kahangahan kasama ang transparent pipe stargazing room, pribadong hot-spring suite at J1772 7kW EV charger—perpektong getaway kasama ang pamilya at mga kaibigan.",
+        "ogImageAlt": "Hardin at silid-tulugan ng Hanyuan B&B",
+        "twitterTitle": "Hanyuan B&B - Premier Stay, Stargazing at Camping sa Meinong, Kaohsiung",
+        "twitterDescription": "Ang Hanyuan B&B ay nag-aalok ng tahimik na pahinga sa kahangahan kasama ang transparent pipe stargazing room, pribadong hot-spring suite at J1772 7kW EV charger—perpektong getaway kasama ang pamilya at mga kaibigan.",
+        "twitterImageAlt": "Hardin at silid-tulugan ng Hanyuan B&B"
+      },
+      "pt": {
+        "title": "Hanyuan B&B - Estadia Premium em Meinong, Kaohsiung | Camping, Café e Observação de Estrelas",
+        "description": "A Hanyuan B&B está situada em um canto rural tranquilo do distrito de Meinong, em Kaohsiung — oferecendo uma fuga serena da cidade. Cercada por montanhas em três lados, a propriedade dispõe de quarto transparente em tubo para observação de estrelas, suítes com fontes termais, carregador EV J1772 7kW AC e área de camping.",
+        "keywords": "pousada Meinong,hospedagem Meinong,Hanyuan B&B,pousada Kaohsiung,hospedagem Kaohsiung,camping Meinong,pousada com carregador EV,pousada para observar estrelas,pousada com fontes termais",
+        "ogTitle": "Hanyuan B&B - Estadia, Observação de Estrelas e Camping em Meinong, Kaohsiung",
+        "ogDescription": "A Hanyuan B&B oferece um retiro tranquilo no campo com quartos transparentes em tubo para observar estrelas, suítes privativas com fontes termais e carregador EV J1772 7kW — o refúgio perfeito em família ou com amigos.",
+        "ogImageAlt": "Jardim e visão geral dos quartos da Hanyuan B&B",
+        "twitterTitle": "Hanyuan B&B - Estadia, Observação de Estrelas e Camping em Meinong, Kaohsiung",
+        "twitterDescription": "A Hanyuan B&B oferece um retiro tranquilo no campo com quartos transparentes em tubo para observar estrelas, suítes privativas com fontes termais e carregador EV J1772 7kW — o refúgio perfeito em família ou com amigos.",
+        "twitterImageAlt": "Jardim e visão geral dos quartos da Hanyuan B&B"
+      }
+    },
+    "camping.html": {
+      "en": {
+        "title": "Camping Area - Hanyuan B&B | Expansive Lawn Camping, Car Camping & J1772 7kW EV Charger",
+        "description": "The camping area at Hanyuan B&B features a vast green lawn framed by mountains on three sides, complete utility hookups and a J1772 7kW AC EV charger—ideal for tent campers and car-camping enthusiasts.",
+        "keywords": "Meinong camping,Kaohsiung campground,EV charger camping,car camping,Meinong campsite,Hanyuan camping,Kaohsiung camping",
+        "ogTitle": "Camping Area - Hanyuan B&B",
+        "ogDescription": "Vast green-lawn campsite with a J1772 7kW EV charger, full utilities and modern restrooms.",
+        "ogImageAlt": "Cover image of the camping area",
+        "twitterTitle": "Camping Area - Hanyuan B&B",
+        "twitterDescription": "Vast green-lawn campsite with a J1772 7kW EV charger, full utilities and modern restrooms.",
+        "twitterImageAlt": "Cover image of the camping area"
+      },
+      "vi": {
+        "title": "Khu cắm trại - Hanyuan B&B | Bãi cỏ rộng, cắm trại xe & trạm sạc J1772 7kW",
+        "description": "Khu cắm trại của Hanyuan B&B sở hữu bãi cỏ xanh mướt rộng lớn được bao quanh bởi ba mặt núi, cung cấp hệ thống điện nước hoàn chỉnh và trạm sạc xe điện AC J1772 7kW—lý tưởng cho người cắm trại lều và cắm trại bằng ô tô.",
+        "keywords": "cắm trại Mỹ Nùng,khu cắm trại Cao Hùng,cắm trại có trạm sạc,cắm trại xe,bãi cắm trại Mỹ Nùng,cắm trại Hanyuan,cắm trại Cao Hùng",
+        "ogTitle": "Khu cắm trại - Hanyuan B&B",
+        "ogDescription": "Bãi cỏ rộng xanh mướt với trạm sạc J1772 7kW, hệ thống điện nước và nhà vệ sinh hoàn chỉnh.",
+        "ogImageAlt": "Hình bìa khu cắm trại",
+        "twitterTitle": "Khu cắm trại - Hanyuan B&B",
+        "twitterDescription": "Bãi cỏ rộng xanh mướt với trạm sạc J1772 7kW, hệ thống điện nước và nhà vệ sinh hoàn chỉnh.",
+        "twitterImageAlt": "Hình bìa khu cắm trại"
+      },
+      "fil": {
+        "title": "Camping Area - Hanyuan B&B | Malawak na Lawn Camping, Car Camping at J1772 7kW EV Charger",
+        "description": "Ang camping area ng Hanyuan B&B ay may malawak na berdeng lawn na napapalibutan ng mga bundok sa tatlong gilid, kumpleto ang mga utility hookup at J1772 7kW AC EV charger—perpekto para sa tent at car camping enthusiasts.",
+        "keywords": "Meinong camping,Kaohsiung campground,EV charger camping,car camping,Meinong campsite,Hanyuan camping,Kaohsiung camping",
+        "ogTitle": "Camping Area - Hanyuan B&B",
+        "ogDescription": "Malawak na berdeng campsite na may J1772 7kW EV charger, kumpletong utilities at modernong palikuran.",
+        "ogImageAlt": "Cover image ng camping area",
+        "twitterTitle": "Camping Area - Hanyuan B&B",
+        "twitterDescription": "Malawak na berdeng campsite na may J1772 7kW EV charger, kumpletong utilities at modernong palikuran.",
+        "twitterImageAlt": "Cover image ng camping area"
+      },
+      "pt": {
+        "title": "Área de Camping - Hanyuan B&B | Amplo Gramado, Camping de Carro e Carregador EV J1772 7kW",
+        "description": "A área de camping da Hanyuan B&B oferece um gramado amplo cercado por montanhas em três lados, infraestrutura completa de água e energia, além de carregador EV J1772 7kW AC — ideal para campistas de barraca e de carro.",
+        "keywords": "camping Meinong,acampamento Kaohsiung,camping com carregador EV,camping de carro,camping Meinong,Hanyuan camping,camping Kaohsiung",
+        "ogTitle": "Área de Camping - Hanyuan B&B",
+        "ogDescription": "Camping amplo em gramado verde com carregador EV J1772 7kW, infraestrutura completa e banheiros modernos.",
+        "ogImageAlt": "Imagem de capa da área de camping",
+        "twitterTitle": "Área de Camping - Hanyuan B&B",
+        "twitterDescription": "Camping amplo em gramado verde com carregador EV J1772 7kW, infraestrutura completa e banheiros modernos.",
+        "twitterImageAlt": "Imagem de capa da área de camping"
+      }
+    },
+    "destination-baoshan-cherry-blossom.html": {
+      "en": {
+        "title": "Erzu Group Cherry Blossom Secret - Hanyuan B&B | Baoshan Cherry Blossom Park, Kawazu-zakura Tunnel, January Bloom Season",
+        "description": "Erzu Group and Baoshan Cherry Blossom Park in Taoyuan District, Kaohsiung, are the most celebrated cherry blossom spots in southern Taiwan. From January to February, Formosan cherry and Kawazu-zakura bloom in succession, forming a dreamy pink tunnel. Combine your visit with Tengzhi Forest Recreation Area, Mangzaizi Lake and Liugui Hot Springs.",
+        "keywords": "Erzu Group cherry blossom,Baoshan Cherry Blossom Park,Taoyuan cherry blossom,Liugui cherry blossom,Kaohsiung cherry blossom,Kawazu-zakura,Formosan cherry,Hanyuan recommended attractions,southern Taiwan cherry blossom",
+        "ogTitle": "Erzu Group Cherry Blossom Secret - Hanyuan B&B",
+        "ogDescription": "Erzu Group and Baoshan Cherry Blossom Park in Taoyuan—the most dreamy cherry blossom spot in southern Taiwan, with Kawazu-zakura and Formosan cherry blooming from January to February.",
+        "ogImageAlt": "Pink cherry blossom tunnel at Baoshan Cherry Blossom Park",
+        "twitterTitle": "Erzu Group Cherry Blossom Secret - Hanyuan B&B",
+        "twitterDescription": "Erzu Group and Baoshan Cherry Blossom Park in Taoyuan—the most dreamy cherry blossom spot in southern Taiwan, with Kawazu-zakura and Formosan cherry blooming from January to February.",
+        "twitterImageAlt": "Pink cherry blossom tunnel at Baoshan Cherry Blossom Park"
+      },
+      "vi": {
+        "title": "Bí mật ngắm hoa anh đào Nhóm Nhị - Hanyuan B&B | Công viên hoa anh đào Bảo Sơn, đường hầm Kawazu, mùa hoa tháng 1",
+        "description": "Nhóm Nhị và Công viên hoa anh đào Bảo Sơn thuộc quận Đào Viên, thành phố Cao Hùng, là điểm ngắm hoa anh đào nổi tiếng nhất Nam Đài Loan. Từ tháng 1 đến tháng 2, hoa anh đào sơn và hoa Kawazu nở rộ kế tiếp nhau, tạo nên đường hầm hồng mộng mơ. Có thể kết hợp tham quan Khu rừng giải trí Đằng Chi, Hồ Mangzaizi và Suối nước nóng Liugui.",
+        "keywords": "ngắm hoa anh đào Nhóm Nhị,Công viên hoa anh đào Bảo Sơn,hoa anh đào Đào Viên,hoa anh đào Liugui,điểm ngắm hoa anh đào Cao Hùng,Kawazu,hoa anh đào sơn,điểm tham quan được Hanyuan đề xuất,ngắm hoa anh đào Nam Đài Loan",
+        "ogTitle": "Bí mật ngắm hoa anh đào Nhóm Nhị - Hanyuan B&B",
+        "ogDescription": "Nhóm Nhị và Công viên hoa anh đào Bảo Sơn thuộc Đào Viên—điểm ngắm hoa anh đào mơ mộng nhất Nam Đài Loan, với hoa Kawazu và hoa anh đào sơn nở rộ từ tháng 1 đến tháng 2.",
+        "ogImageAlt": "Đường hầm hoa anh đào hồng tại Công viên hoa anh đào Bảo Sơn",
+        "twitterTitle": "Bí mật ngắm hoa anh đào Nhóm Nhị - Hanyuan B&B",
+        "twitterDescription": "Nhóm Nhị và Công viên hoa anh đào Bảo Sơn thuộc Đào Viên—điểm ngắm hoa anh đào mơ mộng nhất Nam Đài Loan, với hoa Kawazu và hoa anh đào sơn nở rộ từ tháng 1 đến tháng 2.",
+        "twitterImageAlt": "Đường hầm hoa anh đào hồng tại Công viên hoa anh đào Bảo Sơn"
+      },
+      "fil": {
+        "title": "Sekreto ng Cherry Blossom ng Erzu Group - Hanyuan B&B | Baoshan Cherry Blossom Park, Kawazu-zakura Tunnel, Season ng Enero",
+        "description": "Ang Erzu Group at Baoshan Cherry Blossom Park sa Taoyuan District, Kaohsiung, ay ang pinakasikat na lugar para sa cherry blossom sa Southern Taiwan. Mula Enero hanggang Pebrero, ang Formosan cherry at Kawazu-zakura ay sunod-sunod na nagbubulaklak, na bumubuo ng pinkong tunnel na pangarap. Pagsamahin ang iyong pagbisita sa Tengzhi Forest Recreation Area, Mangzaizi Lake, at Liugui Hot Springs.",
+        "keywords": "Erzu Group cherry blossom,Baoshan Cherry Blossom Park,Taoyuan cherry blossom,Liugui cherry blossom,Kaohsiung cherry blossom,Kawazu-zakura,Formosan cherry,Hanyuan recommended attractions,Southern Taiwan cherry blossom",
+        "ogTitle": "Sekreto ng Cherry Blossom ng Erzu Group - Hanyuan B&B",
+        "ogDescription": "Ang Erzu Group at Baoshan Cherry Blossom Park sa Taoyuan—ang pinakamapangarap na lugar para sa cherry blossom sa Southern Taiwan, na may Kawazu-zakura at Formosan cherry na namumulaklak mula Enero hanggang Pebrero.",
+        "ogImageAlt": "Pinkong cherry blossom tunnel sa Baoshan Cherry Blossom Park",
+        "twitterTitle": "Sekreto ng Cherry Blossom ng Erzu Group - Hanyuan B&B",
+        "twitterDescription": "Ang Erzu Group at Baoshan Cherry Blossom Park sa Taoyuan—ang pinakamapangarap na lugar para sa cherry blossom sa Southern Taiwan, na may Kawazu-zakura at Formosan cherry na namumulaklak mula Enero hanggang Pebrero.",
+        "twitterImageAlt": "Pinkong cherry blossom tunnel sa Baoshan Cherry Blossom Park"
+      },
+      "pt": {
+        "title": "Segredo das Cerejeiras do Grupo Erzu - Hanyuan B&B | Parque Baoshan, Túnel Kawazu-zakura, Florada de Janeiro",
+        "description": "O Grupo Erzu e o Parque de Cerejeiras Baoshan, no distrito de Taoyuan em Kaohsiung, são os pontos mais celebrados de florada de cerejeiras no sul de Taiwan. De janeiro a fevereiro, a cerejeira Formosan e a Kawazu-zakura florescem em sucessão, formando um túnel cor-de-rosa de sonho. Combine sua visita com a Área Recreativa Florestal Tengzhi, o Lago Mangzaizi e as Fontes Termais de Liugui.",
+        "keywords": "cerejeiras Erzu Group,Parque de Cerejeiras Baoshan,cerejeiras Taoyuan,cerejeiras Liugui,cerejeiras Kaohsiung,Kawazu-zakura,cerejeira Formosan,atrações recomendadas Hanyuan,cerejeiras sul de Taiwan",
+        "ogTitle": "Segredo das Cerejeiras do Grupo Erzu - Hanyuan B&B",
+        "ogDescription": "O Grupo Erzu e o Parque de Cerejeiras Baoshan em Taoyuan — o ponto mais sonhador de cerejeiras no sul de Taiwan, com Kawazu-zakura e cerejeira Formosan florescendo de janeiro a fevereiro.",
+        "ogImageAlt": "Túnel cor-de-rosa de cerejeiras no Parque Baoshan",
+        "twitterTitle": "Segredo das Cerejeiras do Grupo Erzu - Hanyuan B&B",
+        "twitterDescription": "O Grupo Erzu e o Parque de Cerejeiras Baoshan em Taoyuan — o ponto mais sonhador de cerejeiras no sul de Taiwan, com Kawazu-zakura e cerejeira Formosan florescendo de janeiro a fevereiro.",
+        "twitterImageAlt": "Túnel cor-de-rosa de cerejeiras no Parque Baoshan"
+      }
+    },
+    "destination-chishan-mountain.html": {
+      "en": {
+        "title": "Chiwei Mountain - Hanyuan B&B | ChiShan's #1 Peak, Taiwan's 65th Xiao-Bai-Yue, Twin-Summit Challenge",
+        "description": "At 380 m above sea level, Chiwei Mountain is the iconic landmark of ChiShan District, Kaohsiung, and the 65th entry on Taiwan's Xiao-Bai-Yue list. Named for its ancient-flag silhouette, the trail offers both east- and west-summit challenges, with sweeping views of ChiShan town, the Nanzi River valley and the Gaoping Plain. The mountain is also home to Chiwei Fude Shrine, Tiantai Mountain Temple and Lingji Mountain Wufan Holy Land—Hanyuan B&B's top pick for hiking and Hakka culture.",
+        "keywords": "Chiwei Mountain,ChiShan hiking,Chiwei Mountain trail,Xiao-Bai-Yue No.65,Chiwei East Peak,Chiwei West Peak,Tiantai Temple,Lingji Wufan Holy Land,Chiwei Fude Shrine,ChiShan landmark,Hanyuan B&B attraction",
+        "ogTitle": "Chiwei Mountain - Hanyuan B&B",
+        "ogDescription": "ChiShan's landmark and the 65th Xiao-Bai-Yue at 380 m—conquer both east and west peaks for views of ChiShan town, the Nanzi River valley, plus Fude Shrine, Tiantai and Lingji Wufan temples.",
+        "ogImageAlt": "Chiwei Mountain's flag-shaped silhouette",
+        "twitterTitle": "Chiwei Mountain - Hanyuan B&B",
+        "twitterDescription": "ChiShan's landmark and the 65th Xiao-Bai-Yue at 380 m—conquer both east and west peaks for views of ChiShan town, the Nanzi River valley, plus Fude Shrine, Tiantai and Lingji Wufan temples.",
+        "twitterImageAlt": "Chiwei Mountain's flag-shaped silhouette"
+      },
+      "vi": {
+        "title": "Núi Kỳ Vĩ - Hanyuan B&B | Đỉnh cao nhất Kỳ Sơn, Tiểu Bách Dực số 65 của Đài Loan, thử thách hai đỉnh",
+        "description": "Núi Kỳ Vĩ cao 380 m, là biểu tượng tiêu biểu nhất của quận Kỳ Sơn, thành phố Cao Hùng, đồng thời là Tiểu Bách Dực số 65 của Đài Loan. Tên gọi xuất phát từ hình dáng giống lá cờ cổ đại, đường mòn được chia thành hai tuyến đỉnh Đông và đỉnh Tây. Lên đỉnh có thể ngắm toàn cảnh thị trấn Kỳ Sơn, thung lũng sông Nam Tử và toàn bộ Cao Bình đồng bằng. Nơi đây còn có đền Phúc Đức Kỳ Vĩ, Kỳ Vĩ Thiên Thai Sơn và Linh Tu Sơn Vô Phàm Thánh Vực — điểm tham quan leo núi và văn hóa Khách Gia được Hanyuan B&B đặc biệt đề xuất.",
+        "keywords": "Núi Kỳ Vĩ,leo núi Kỳ Sơn,đường mòn Kỳ Vĩ,Tiểu Bách Dực số 65,đỉnh Đông Kỳ Vĩ,đỉnh Tây Kỳ Vĩ,Kỳ Vĩ Thiên Thai Sơn,Linh Tu Sơn Vô Phàm Thánh Vực,đền Phúc Đức Kỳ Vĩ,biểu tượng Kỳ Sơn,điểm tham quan Hanyuan B&B",
+        "ogTitle": "Núi Kỳ Vĩ - Hanyuan B&B",
+        "ogDescription": "Biểu tượng Kỳ Sơn và Tiểu Bách Dực số 65 ở độ cao 380 m — chinh phục cả đỉnh Đông và Tây để ngắm thị trấn Kỳ Sơn, thung lũng sông Nam Tử, cùng các đền Phúc Đức, Thiên Thai và Linh Tu Vô Phàm.",
+        "ogImageAlt": "Hình dáng giống lá cờ cổ đại của Núi Kỳ Vĩ",
+        "twitterTitle": "Núi Kỳ Vĩ - Hanyuan B&B",
+        "twitterDescription": "Biểu tượng Kỳ Sơn và Tiểu Bách Dực số 65 ở độ cao 380 m — chinh phục cả đỉnh Đông và Tây để ngắm thị trấn Kỳ Sơn, thung lũng sông Nam Tử, cùng các đền Phúc Đức, Thiên Thai và Linh Tu Vô Phàm.",
+        "twitterImageAlt": "Hình dáng giống lá cờ cổ đại của Núi Kỳ Vĩ"
+      },
+      "fil": {
+        "title": "Bundok Chiwei - Hanyuan B&B | Pinakamataas na tuktok ng ChiShan, ika-65 Xiao-Bai-Yue ng Taiwan, Hamon na Dalawang Tuktok",
+        "description": "Sa 380 m ang taas, ang Bundok Chiwei ay ang iconic na landmark ng ChiShan District, Kaohsiung, at ang ika-65 na entry sa listahan ng Taiwan Xiao-Bai-Yue. Pinangalanan mula sa silhouette na kahawig ng sinaunang bandila, nag-aalok ang trail ng hamon sa east at west summit, na may mga nakamamanghang tanawin ng bayan ng ChiShan, lambak ng Nanzi River at ang Gaoping Plain. Ang bundok ay tahanan din ng Chiwei Fude Shrine, Tiantai Mountain Temple at Lingji Mountain Wufan Holy Land—pinakamainam na pagpipilian ng Hanyuan B&B para sa hiking at kulturang Hakka.",
+        "keywords": "Bundok Chiwei,ChiShan hiking,Chiwei Mountain trail,Xiao-Bai-Yue No.65,Chiwei East Peak,Chiwei West Peak,Tiantai Temple,Lingji Wufan Holy Land,Chiwei Fude Shrine,ChiShan landmark,Hanyuan B&B attraction",
+        "ogTitle": "Bundok Chiwei - Hanyuan B&B",
+        "ogDescription": "Landmark ng ChiShan at ang ika-65 Xiao-Bai-Yue sa 380 m—paghanapin ang parehong east at west peaks para sa mga tanawin ng bayan ng ChiShan, lambak ng Nanzi River, at mga templo ng Fude Shrine, Tiantai at Lingji Wufan.",
+        "ogImageAlt": "Silhouette ng Bundok Chiwei na kahawig ng sinaunang bandila",
+        "twitterTitle": "Bundok Chiwei - Hanyuan B&B",
+        "twitterDescription": "Landmark ng ChiShan at ang ika-65 Xiao-Bai-Yue sa 380 m—paghanapin ang parehong east at west peaks para sa mga tanawin ng bayan ng ChiShan, lambak ng Nanzi River, at mga templo ng Fude Shrine, Tiantai at Lingji Wufan.",
+        "twitterImageAlt": "Silhouette ng Bundok Chiwei na kahawig ng sinaunang bandila"
+      },
+      "pt": {
+        "title": "Monte Chiwei - Hanyuan B&B | Pico mais Alto de ChiShan, 65º Xiao-Bai-Yue de Taiwan, Desafio dos Dois Cumes",
+        "description": "A 380 m de altitude, o Monte Chiwei é o marco emblemático do distrito de ChiShan, em Kaohsiung, e o 65º da lista Xiao-Bai-Yue de Taiwan. O nome vem da silhueta que lembra uma antiga bandeira; a trilha oferece desafios pelos cumes leste e oeste, com vistas da cidade de ChiShan, do vale do Rio Nanzi e da Planície Gaoping. A montanha também abriga o Santuário Chiwei Fude, o Templo Tiantai e o Santo Lugar Wufan do Monte Lingji — escolha principal da Hanyuan B&B para trilhas e cultura Hakka.",
+        "keywords": "Monte Chiwei,trilha ChiShan,trilha Monte Chiwei,Xiao-Bai-Yue nº 65,Cume Leste Chiwei,Cume Oeste Chiwei,Templo Tiantai,Santo Lugar Wufan Monte Lingji,Santuário Fude Chiwei,marco ChiShan,atração Hanyuan B&B",
+        "ogTitle": "Monte Chiwei - Hanyuan B&B",
+        "ogDescription": "Marco de ChiShan e o 65º Xiao-Bai-Yue a 380 m — conquiste os cumes leste e oeste para vistas da cidade de ChiShan, do vale do Rio Nanzi, e dos templos Fude, Tiantai e Lingji Wufan.",
+        "ogImageAlt": "Silhueta do Monte Chiwei que lembra uma antiga bandeira",
+        "twitterTitle": "Monte Chiwei - Hanyuan B&B",
+        "twitterDescription": "Marco de ChiShan e o 65º Xiao-Bai-Yue a 380 m — conquiste os cumes leste e oeste para vistas da cidade de ChiShan, do vale do Rio Nanzi, e dos templos Fude, Tiantai e Lingji Wufan.",
+        "twitterImageAlt": "Silhueta do Monte Chiwei que lembra uma antiga bandeira"
+      }
+    },
+    "destination-chishan-old-street.html": {
+      "en": {
+        "title": "ChiShan Old Street - Hanyuan B&B | Baroque Red-Brick Storefronts, Sugar Ice Pops, Starfruit Juice & Hakka Snacks",
+        "description": "ChiShan Old Street is the most celebrated historic district in ChiShan, Kaohsiung. It flourished after 1920 when 'Shinkō' was renamed 'ChiShan' during the Japanese era. Baroque red-brick shophouses and stone arcade colonnades line the streets, once the financial heart of Kaohsiung's sugar industry. Local favorites include Chih-tsai Popsicles, starfruit juice, angelica duck and almond tea—a must-stop food-culture destination for Hanyuan B&B guests.",
+        "keywords": "ChiShan Old Street,ChiShan snacks,Chih-tsai Popsicle,ChiShan starfruit juice,Baroque shophouses,ChiShan sugar factory,angelica duck,almond tea,Hakka cuisine,nearby Hanyuan attractions",
+        "ogTitle": "ChiShan Old Street - Hanyuan B&B",
+        "ogDescription": "Japanese-era Baroque red-brick shophouses, sugar popsicles, starfruit juice and Hakka snacks—ChiShan Old Street is the historic food-and-culture heart of Kaohsiung's mountain town.",
+        "ogImageAlt": "Baroque red-brick storefronts and stone arcade on ChiShan Old Street",
+        "twitterTitle": "ChiShan Old Street - Hanyuan B&B",
+        "twitterDescription": "Japanese-era Baroque red-brick shophouses, sugar popsicles, starfruit juice and Hakka snacks—ChiShan Old Street is the historic food-and-culture heart of Kaohsiung's mountain town.",
+        "twitterImageAlt": "Baroque red-brick storefronts and stone arcade on ChiShan Old Street"
+      },
+      "vi": {
+        "title": "Phố cổ Kỳ Sơn - Hanyuan B&B | Nhà kiến trúc Baroque gạch đỏ, kem đường, nước khế, ẩm thực Khách Gia",
+        "description": "Phố cổ Kỳ Sơn là khu phố lịch sử nổi tiếng nhất quận Kỳ Sơn, thành phố Cao Hùng. Nơi đây phồn hoa sau khi vào năm 1920 'Tân Cao' được đổi tên thành 'Kỳ Sơn' dưới thời Nhật. Những dãy nhà Baroque gạch đỏ và vòm cửa đá liền kề từng là trung tâm tài chính thương mại của ngành đường Cao Hùng. Các món đặc sản gồm kem Chi-tsai, nước khế, vịt đương quy và trà hạnh nhân — điểm tham quan ẩm thực văn hóa không thể bỏ qua của khách lưu trú tại Hanyuan B&B.",
+        "keywords": "Phố cổ Kỳ Sơn,đặc sản Kỳ Sơn,kem Chi-tsai,nước khế Kỳ Sơn,nhà kiến trúc Baroque,nhà máy đường Kỳ Sơn,vịt đương quy,trà hạnh nhân,ẩm thực Khách Gia,điểm tham quan gần Hanyuan",
+        "ogTitle": "Phố cổ Kỳ Sơn - Hanyuan B&B",
+        "ogDescription": "Nhà Baroque gạch đỏ thời Nhật, kem đường, nước khế và ẩm thực Khách Gia — Phố cổ Kỳ Sơn là trung tâm ẩm thực lịch sử của thị trấn miền núi Cao Hùng.",
+        "ogImageAlt": "Mặt tiền nhà Baroque gạch đỏ và vòm đá trên Phố cổ Kỳ Sơn",
+        "twitterTitle": "Phố cổ Kỳ Sơn - Hanyuan B&B",
+        "twitterDescription": "Nhà Baroque gạch đỏ thời Nhật, kem đường, nước khế và ẩm thực Khách Gia — Phố cổ Kỳ Sơn là trung tâm ẩm thực lịch sử của thị trấn miền núi Cao Hùng.",
+        "twitterImageAlt": "Mặt tiền nhà Baroque gạch đỏ và vòm đá trên Phố cổ Kỳ Sơn"
+      },
+      "fil": {
+        "title": "Lumang Kalye ng ChiShan - Hanyuan B&B | Baroque na Red-Brick Storefronts, Sugar Ice Pops, Starfruit Juice at Hakka Meryenda",
+        "description": "Ang ChiShan Old Street ay ang pinakasikat na makasaysayang distrito sa ChiShan, Kaohsiung. Umunlad ito pagkatapos ng 1920 nang ang 'Shinkō' ay pinalitan ng pangalan na 'ChiShan' noong panahon ng Hapon. Ang mga Baroque na red-brick shophouses at stone arcade colonnades ay nakahanay sa kalye, minsang naging sentro ng pananalapi ng sugar industry ng Kaohsiung. Kabilang sa mga paboritong lokal ang Chih-tsai Popsicles, starfruit juice, angelica duck at almond tea—must-stop na destinasyon ng pagkain at kultura para sa mga bisita ng Hanyuan B&B.",
+        "keywords": "ChiShan Old Street,ChiShan snacks,Chih-tsai Popsicle,ChiShan starfruit juice,Baroque shophouses,ChiShan sugar factory,angelica duck,almond tea,Hakka cuisine,mga atraksyon malapit sa Hanyuan",
+        "ogTitle": "Lumang Kalye ng ChiShan - Hanyuan B&B",
+        "ogDescription": "Japanese-era na Baroque red-brick shophouses, sugar popsicles, starfruit juice at Hakka meryenda—ang ChiShan Old Street ay ang makasaysayang puso ng pagkain at kultura ng bayan ng Kaohsiung.",
+        "ogImageAlt": "Baroque red-brick storefronts at stone arcade sa ChiShan Old Street",
+        "twitterTitle": "Lumang Kalye ng ChiShan - Hanyuan B&B",
+        "twitterDescription": "Japanese-era na Baroque red-brick shophouses, sugar popsicles, starfruit juice at Hakka meryenda—ang ChiShan Old Street ay ang makasaysayang puso ng pagkain at kultura ng bayan ng Kaohsiung.",
+        "twitterImageAlt": "Baroque red-brick storefronts at stone arcade sa ChiShan Old Street"
+      },
+      "pt": {
+        "title": "Rua Antiga de ChiShan - Hanyuan B&B | Fachadas Barrocas em Tijolo Vermelho, Sorvetes de Açúcar, Suco de Carambola e Petiscos Hakka",
+        "description": "A Rua Antiga de ChiShan é o distrito histórico mais celebrado de ChiShan, Kaohsiung. Floresceu após 1920, quando 'Shinkō' foi renomeada para 'ChiShan' na era japonesa. As fachadas barrocas em tijolo vermelho e os arcos de pedra alinham-se pela rua, que já foi o coração financeiro da indústria açucareira de Kaohsiung. Entre os favoritos locais estão os sorvetes Chih-tsai, suco de carambola, pato com angélica e chá de amêndoa — parada obrigatória para os hóspedes da Hanyuan B&B.",
+        "keywords": "Rua Antiga de ChiShan,petiscos de ChiShan,sorvete Chih-tsai,suco de carambola ChiShan,fachadas barrocas,fábrica de açúcar ChiShan,pato com angélica,chá de amêndoa,culinária Hakka,atrações próximas à Hanyuan",
+        "ogTitle": "Rua Antiga de ChiShan - Hanyuan B&B",
+        "ogDescription": "Fachadas barrocas em tijolo vermelho da era japonesa, sorvetes de açúcar, suco de carambola e petiscos Hakka — a Rua Antiga de ChiShan é o coração histórico gastronômico e cultural da cidade serrana de Kaohsiung.",
+        "ogImageAlt": "Fachadas barrocas em tijolo vermelho e arcos de pedra na Rua Antiga de ChiShan",
+        "twitterTitle": "Rua Antiga de ChiShan - Hanyuan B&B",
+        "twitterDescription": "Fachadas barrocas em tijolo vermelho da era japonesa, sorvetes de açúcar, suco de carambola e petiscos Hakka — a Rua Antiga de ChiShan é o coração histórico gastronômico e cultural da cidade serrana de Kaohsiung.",
+        "twitterImageAlt": "Fachadas barrocas em tijolo vermelho e arcos de pedra na Rua Antiga de ChiShan"
+      }
+    },
+    "destination-chishan-sugar-factory.html": {
+      "en": {
+        "title": "ChiShan Sugar Factory (Citantang Cultural Park) - Hanyuan B&B | Japanese-Era Red-Brick Warehouses, Sugar Popsicles, Weekend Market",
+        "description": "Founded in 1909 during the Japanese era as part of the Takasago Sugar Company, ChiShan Sugar Factory was later operated by Taiwan Sugar Corporation and has been revitalized as Citantang Cultural Park. The red-brick arcaded warehouses are exceptionally well preserved; lively cultural markets run every weekend, and the legendary Taisugar popsicles are a must-try—Hanyuan B&B's top pick for industrial-heritage sightseeing.",
+        "keywords": "ChiShan Sugar Factory,Citantang Cultural Park,ChiShan sugar popsicles,ChiShan red-brick warehouse,ChiShan weekend market,ChiShan Old Street,sugar heritage,Japanese sugar factory,Hanyuan B&B attraction",
+        "ogTitle": "ChiShan Sugar Factory (Citantang Cultural Park) - Hanyuan B&B",
+        "ogDescription": "Founded in 1909 during the Japanese era, now revitalized as Citantang Cultural Park—preserved red-brick warehouses, lively weekend markets and the famous Taisugar popsicles.",
+        "ogImageAlt": "Red-brick warehouses at ChiShan Sugar Factory",
+        "twitterTitle": "ChiShan Sugar Factory (Citantang Cultural Park) - Hanyuan B&B",
+        "twitterDescription": "Founded in 1909 during the Japanese era, now revitalized as Citantang Cultural Park—preserved red-brick warehouses, lively weekend markets and the famous Taisugar popsicles.",
+        "twitterImageAlt": "Red-brick warehouses at ChiShan Sugar Factory"
+      },
+      "vi": {
+        "title": "Nhà máy đường Kỳ Sơn (Công viên Văn hóa Kỳ Đường) - Hanyuan B&B | Kho gạch đỏ thời Nhật, kem đường, chợ văn hóa",
+        "description": "Nhà máy đường Kỳ Sơn thành lập năm 1909 dưới thời Nhật, ban đầu là một phần của Công ty Đường Cao Hùng, sau chuyển thành Tổng Công ty Đường Đài Loan và nay được tái sinh thành Công viên Văn hóa Kỳ Đường. Hệ thống kho vòm gạch đỏ được bảo tồn nguyên vẹn; chợ văn hóa sôi động mỗi cuối tuần và có thể thưởng thức que kem Taisugar nổi tiếng — điểm tham quan di sản công nghiệp tiêu biểu nhất Kỳ Sơn, được Hanyuan B&B đặc biệt đề xuất cho du khách.",
+        "keywords": "Nhà máy đường Kỳ Sơn,Công viên Văn hóa Kỳ Đường,kem đường Kỳ Sơn,kho gạch đỏ Kỳ Sơn,chợ cuối tuần Kỳ Sơn,Phố cổ Kỳ Sơn,văn hóa đường,nhà máy đường thời Nhật,điểm tham quan Hanyuan B&B",
+        "ogTitle": "Nhà máy đường Kỳ Sơn (Công viên Văn hóa Kỳ Đường) - Hanyuan B&B",
+        "ogDescription": "Thành lập năm 1909 thời Nhật, nay tái sinh thành Công viên Văn hóa Kỳ Đường — kho gạch đỏ được bảo tồn, chợ cuối tuần sôi động và que kem Taisugar nổi tiếng.",
+        "ogImageAlt": "Kho gạch đỏ tại Nhà máy đường Kỳ Sơn",
+        "twitterTitle": "Nhà máy đường Kỳ Sơn (Công viên Văn hóa Kỳ Đường) - Hanyuan B&B",
+        "twitterDescription": "Thành lập năm 1909 thời Nhật, nay tái sinh thành Công viên Văn hóa Kỳ Đường — kho gạch đỏ được bảo tồn, chợ cuối tuần sôi động và que kem Taisugar nổi tiếng.",
+        "twitterImageAlt": "Kho gạch đỏ tại Nhà máy đường Kỳ Sơn"
+      },
+      "fil": {
+        "title": "ChiShan Sugar Factory (Citantang Cultural Park) - Hanyuan B&B | Japanese-Era Red-Brick Warehouses, Sugar Popsicles, Weekend Market",
+        "description": "Itinatag noong 1909 noong panahon ng Hapon bilang bahagi ng Takasago Sugar Company, ang ChiShan Sugar Factory ay kalaunang pinatakbo ng Taiwan Sugar Corporation at muling binuhay bilang Citantang Cultural Park. Ang mga red-brick arcaded warehouse ay napakahusay na napanatili; masiglang cultural market tuwing weekend, at ang mga legendary Taisugar popsicles ay dapat subukan—pinakamainam na pagpipilian ng Hanyuan B&B para sa industrial-heritage sightseeing.",
+        "keywords": "ChiShan Sugar Factory,Citantang Cultural Park,ChiShan sugar popsicles,ChiShan red-brick warehouse,ChiShan weekend market,ChiShan Old Street,sugar heritage,Japanese sugar factory,Hanyuan B&B attraction",
+        "ogTitle": "ChiShan Sugar Factory (Citantang Cultural Park) - Hanyuan B&B",
+        "ogDescription": "Itinatag noong 1909 noong panahon ng Hapon, ngayon ay muling binuhay bilang Citantang Cultural Park—napanatiling red-brick warehouses, masiglang weekend market at ang sikat na Taisugar popsicles.",
+        "ogImageAlt": "Mga red-brick warehouse sa ChiShan Sugar Factory",
+        "twitterTitle": "ChiShan Sugar Factory (Citantang Cultural Park) - Hanyuan B&B",
+        "twitterDescription": "Itinatag noong 1909 noong panahon ng Hapon, ngayon ay muling binuhay bilang Citantang Cultural Park—napanatiling red-brick warehouses, masiglang weekend market at ang sikat na Taisugar popsicles.",
+        "twitterImageAlt": "Mga red-brick warehouse sa ChiShan Sugar Factory"
+      },
+      "pt": {
+        "title": "Fábrica de Açúcar de ChiShan (Parque Cultural Citantang) - Hanyuan B&B | Armazéns em Tijolo Vermelho da Era Japonesa, Sorvetes de Açúcar, Feira de Fim de Semana",
+        "description": "Fundada em 1909 durante a era japonesa como parte da Takasago Sugar Company, a Fábrica de Açúcar de ChiShan foi depois operada pela Taiwan Sugar Corporation e revitalizada como Parque Cultural Citantang. Os armazéns em tijolo vermelho com arcadas estão excepcionalmente bem preservados; feiras culturais agitadas acontecem nos fins de semana, e os famosos sorvetes Taisugar são imperdíveis — escolha principal da Hanyuan B&B para visitas ao patrimônio industrial.",
+        "keywords": "Fábrica de Açúcar ChiShan,Parque Cultural Citantang,sorvetes de açúcar ChiShan,armazém tijolo vermelho ChiShan,feira fim de semana ChiShan,Rua Antiga ChiShan,patrimônio do açúcar,fábrica de açúcar japonesa,atração Hanyuan B&B",
+        "ogTitle": "Fábrica de Açúcar de ChiShan (Parque Cultural Citantang) - Hanyuan B&B",
+        "ogDescription": "Fundada em 1909 na era japonesa, hoje revitalizada como Parque Cultural Citantang — armazéns em tijolo vermelho preservados, feiras culturais aos fins de semana e famosos sorvetes Taisugar.",
+        "ogImageAlt": "Armazéns em tijolo vermelho na Fábrica de Açúcar de ChiShan",
+        "twitterTitle": "Fábrica de Açúcar de ChiShan (Parque Cultural Citantang) - Hanyuan B&B",
+        "twitterDescription": "Fundada em 1909 na era japonesa, hoje revitalizada como Parque Cultural Citantang — armazéns em tijolo vermelho preservados, feiras culturais aos fins de semana e famosos sorvetes Taisugar.",
+        "twitterImageAlt": "Armazéns em tijolo vermelho na Fábrica de Açúcar de ChiShan"
+      }
+    },
+    "destination-i-kuan-tao.html": {
+      "en": {
+        "title": "Kaohsiung I-Kuan-Tao Shenwei Tiantai Mountain - Hanyuan B&B | Liugui Religious Sanctuary, Grand Palace Architecture, Quiet Retreat",
+        "description": "Kaohsiung I-Kuan-Tao Shenwei Tiantai Mountain, in Liugui District, is the largest and most magnificent I-Kuan-Tao temple complex in southern Taiwan. Blending traditional Chinese and modern craftsmanship, the palace-style buildings welcome visitors for worship, meditation and cultural tours—Hanyuan B&B's top pick for spiritual and religious-cultural sightseeing.",
+        "keywords": "I-Kuan-Tao Shenwei Tiantai,Tiantai temple,Kaohsiung I-Kuan-Tao,Liugui attraction,Liugui religion,Bao Guang Jiande,Tiantai Mountain,near Hanyuan attraction,religious culture site",
+        "ogTitle": "Kaohsiung I-Kuan-Tao Shenwei Tiantai Mountain - Hanyuan B&B",
+        "ogDescription": "The grandest I-Kuan-Tao sanctuary in southern Taiwan—palatial architecture fuses traditional Chinese and modern craftsmanship, welcoming visitors for worship, meditation and cultural tours.",
+        "ogImageAlt": "Grand palace architecture of Shenwei Tiantai Mountain",
+        "twitterTitle": "Kaohsiung I-Kuan-Tao Shenwei Tiantai Mountain - Hanyuan B&B",
+        "twitterDescription": "The grandest I-Kuan-Tao sanctuary in southern Taiwan—palatial architecture fuses traditional Chinese and modern craftsmanship, welcoming visitors for worship, meditation and cultural tours.",
+        "twitterImageAlt": "Grand palace architecture of Shenwei Tiantai Mountain"
+      },
+      "vi": {
+        "title": "Đạo tràng Thần Uy Thiên Thai Sơn Nhất Quán Đạo Cao Hùng - Hanyuan B&B | Thánh địa tôn giáo Lục Quỹ, kiến trúc cung điện uy nghi, hành trình tĩnh tâm",
+        "description": "Đạo tràng Thần Uy Thiên Thai Sơn Nhất Quán Đạo Cao Hùng tọa lạc tại quận Lục Quỹ, là đạo tràng Nhất Quán Đạo lớn nhất và uy nghi nhất Nam Đài Loan. Quần thể kiến trúc cung điện kết hợp phong cách Trung Hoa truyền thống và tinh hoa hiện đại, đón tiếp du khách đến lễ bái, tĩnh tâm và tham quan văn hóa — điểm tham quan tâm linh và văn hóa tôn giáo được Hanyuan B&B đề xuất.",
+        "keywords": "Thần Uy Thiên Thai Sơn Nhất Quán Đạo,đạo tràng Thiên Thai Sơn,Nhất Quán Đạo Cao Hùng,điểm tham quan Lục Quỹ,tôn giáo Lục Quỹ,Bảo Quang Kiến Đức,Thiên Thai Sơn,điểm tham quan gần Hanyuan,điểm văn hóa tôn giáo",
+        "ogTitle": "Đạo tràng Thần Uy Thiên Thai Sơn Nhất Quán Đạo Cao Hùng - Hanyuan B&B",
+        "ogDescription": "Đạo tràng Nhất Quán Đạo uy nghi nhất Nam Đài Loan — kiến trúc cung điện kết hợp Trung Hoa truyền thống và tinh hoa hiện đại, đón tiếp lễ bái, tĩnh tâm và tham quan văn hóa.",
+        "ogImageAlt": "Kiến trúc cung điện uy nghi của Thần Uy Thiên Thai Sơn",
+        "twitterTitle": "Đạo tràng Thần Uy Thiên Thai Sơn Nhất Quán Đạo Cao Hùng - Hanyuan B&B",
+        "twitterDescription": "Đạo tràng Nhất Quán Đạo uy nghi nhất Nam Đài Loan — kiến trúc cung điện kết hợp Trung Hoa truyền thống và tinh hoa hiện đại, đón tiếp lễ bái, tĩnh tâm và tham quan văn hóa.",
+        "twitterImageAlt": "Kiến trúc cung điện uy nghi của Thần Uy Thiên Thai Sơn"
+      },
+      "fil": {
+        "title": "Kaohsiung I-Kuan-Tao Shenwei Tiantai Mountain - Hanyuan B&B | Liugui Religious Sanctuary, Grand Palace Architecture, Tahimik na Retreat",
+        "description": "Ang Kaohsiung I-Kuan-Tao Shenwei Tiantai Mountain, sa Liugui District, ay ang pinakamalaki at pinakamagarbong I-Kuan-Tao temple complex sa Southern Taiwan. Pinaghalo ang tradisyonal na Chinese at modernong craftsmanship, ang mga palace-style na gusali ay tumatanggap ng mga bisita para sa worship, meditation at cultural tours—pinakamainam na pagpipilian ng Hanyuan B&B para sa spiritual at religious-cultural na pagbisita.",
+        "keywords": "I-Kuan-Tao Shenwei Tiantai,Tiantai temple,Kaohsiung I-Kuan-Tao,Liugui attraction,Liugui religion,Bao Guang Jiande,Tiantai Mountain,near Hanyuan attraction,religious culture site",
+        "ogTitle": "Kaohsiung I-Kuan-Tao Shenwei Tiantai Mountain - Hanyuan B&B",
+        "ogDescription": "Ang pinakamagarbong I-Kuan-Tao sanctuary sa Southern Taiwan—pinaghalo ang tradisyonal na Chinese at modernong craftsmanship sa palatial architecture, na tumatanggap ng worship, meditation at cultural tours.",
+        "ogImageAlt": "Magarbong palace architecture ng Shenwei Tiantai Mountain",
+        "twitterTitle": "Kaohsiung I-Kuan-Tao Shenwei Tiantai Mountain - Hanyuan B&B",
+        "twitterDescription": "Ang pinakamagarbong I-Kuan-Tao sanctuary sa Southern Taiwan—pinaghalo ang tradisyonal na Chinese at modernong craftsmanship sa palatial architecture, na tumatanggap ng worship, meditation at cultural tours.",
+        "twitterImageAlt": "Magarbong palace architecture ng Shenwei Tiantai Mountain"
+      },
+      "pt": {
+        "title": "Santuário I-Kuan-Tao Shenwei Tiantai de Kaohsiung - Hanyuan B&B | Santuário Religioso de Liugui, Arquitetura Palaciana, Retiro de Paz Interior",
+        "description": "O Santuário I-Kuan-Tao Shenwei Tiantai de Kaohsiung, no distrito de Liugui, é o maior e mais magnífico complexo I-Kuan-Tao no sul de Taiwan. Combinando o tradicional chinês e o artesanato moderno, as construções em estilo palaciano recebem visitantes para oração, meditação e tours culturais — escolha principal da Hanyuan B&B para passeios espirituais e religiosos.",
+        "keywords": "I-Kuan-Tao Shenwei Tiantai,templo Tiantai,I-Kuan-Tao Kaohsiung,atração Liugui,religião Liugui,Bao Guang Jiande,Montanha Tiantai,atração próxima Hanyuan,sítio cultural religioso",
+        "ogTitle": "Santuário I-Kuan-Tao Shenwei Tiantai de Kaohsiung - Hanyuan B&B",
+        "ogDescription": "O mais grandioso santuário I-Kuan-Tao do sul de Taiwan — arquitetura palaciana que funde o tradicional chinês com o artesanato moderno, recebendo visitantes para oração, meditação e tours culturais.",
+        "ogImageAlt": "Arquitetura palaciana do Santuário Shenwei Tiantai",
+        "twitterTitle": "Santuário I-Kuan-Tao Shenwei Tiantai de Kaohsiung - Hanyuan B&B",
+        "twitterDescription": "O mais grandioso santuário I-Kuan-Tao do sul de Taiwan — arquitetura palaciana que funde o tradicional chinês com o artesanato moderno, recebendo visitantes para oração, meditação e tours culturais.",
+        "twitterImageAlt": "Arquitetura palaciana do Santuário Shenwei Tiantai"
+      }
+    },
+    "destination-lion-irrigation.html": {
+      "en": {
+        "title": "Shizitou Irrigation Canal - Hanyuan B&B | Japanese-Era Hydraulic Heritage, Hakka Water Culture, Wild Ginger-Lily Secret",
+        "description": "The Shizitou Irrigation Canal is a Japanese-era hydraulic structure built by Hakka ancestors to irrigate farmland, paired with Lion-Top hill to form a feng-shui 'Lion-Guard' legend; the canal runs about 2.5 km at roughly 150 m above sea level. Walk along it to find wild ginger-lilies, ferns, Earth-God shrines and century-old stone sluice gates—the perfect place to learn about Hakka water culture and shoot wild ginger-lily blossoms; Hanyuan B&B's secret pick for families and photographers.",
+        "keywords": "Shizitou Irrigation Canal,Meinong canal,Meinong waterworks,Hakka water culture,wild ginger-lily,Meinong photo secret,Lion Top Hill,attractions near Hanyuan",
+        "ogTitle": "Shizitou Irrigation Canal - Hanyuan B&B",
+        "ogDescription": "A Japanese-era Hakka-built hydraulic structure linked to the Lion-Top 'Lion-Guard' legend—2.5 km of wild ginger-lilies, ferns and Earth-God shrines; Meinong's secret spot for Hakka water culture and photography.",
+        "ogImageAlt": "Wild ginger-lily blossoms along the Shizitou Irrigation Canal",
+        "twitterTitle": "Shizitou Irrigation Canal - Hanyuan B&B",
+        "twitterDescription": "A Japanese-era Hakka-built hydraulic structure linked to the Lion-Top 'Lion-Guard' legend—2.5 km of wild ginger-lilies, ferns and Earth-God shrines; Meinong's secret spot for Hakka water culture and photography.",
+        "twitterImageAlt": "Wild ginger-lily blossoms along the Shizitou Irrigation Canal"
+      },
+      "vi": {
+        "title": "Kênh tưới tiêu Sư Tử Đầu - Hanyuan B&B | Di sản thủy lợi thời Nhật, văn hóa kính nước Khách Gia, bí mật hoa gừng dại",
+        "description": "Kênh tưới tiêu Sư Tử Đầu là công trình thủy lợi do tổ tiên Khách Gia xây dựng dưới thời Nhật để dẫn nước tưới ruộng, kết hợp với đỉnh Sư Tử tạo thành huyền thoại phong thủy 'Sư Tử Hộ Mệnh', tổng chiều dài khoảng 2,5 km. Đi dọc kênh có thể chiêm ngưỡng hoa gừng dại, dương xỉ, miếu Bá Công và cống nước xây đá trăm tuổi — nơi tốt nhất để tìm hiểu văn hóa kính nước Khách Gia, ngắm phong cảnh thủy hương và chụp ảnh hoa gừng dại; bí mật riêng của Hanyuan B&B, phù hợp gia đình và những người yêu nhiếp ảnh.",
+        "keywords": "Kênh tưới tiêu Sư Tử Đầu,kênh thủy lợi Mỹ Nùng,thủy lợi Mỹ Nùng,văn hóa kính nước Khách Gia,hoa gừng dại,bí mật chụp ảnh Mỹ Nùng,đỉnh Sư Tử,điểm tham quan gần Hanyuan",
+        "ogTitle": "Kênh tưới tiêu Sư Tử Đầu - Hanyuan B&B",
+        "ogDescription": "Di sản thủy lợi thời Nhật do người Khách Gia xây dựng, gắn với huyền thoại phong thủy 'Sư Tử Hộ Mệnh' cùng đỉnh Sư Tử — 2,5 km hoa gừng dại, dương xỉ và miếu Bá Công; bí mật chụp ảnh và trải nghiệm văn hóa kính nước Khách Gia của Mỹ Nùng.",
+        "ogImageAlt": "Hoa gừng dại nở rộ dọc Kênh tưới tiêu Sư Tử Đầu",
+        "twitterTitle": "Kênh tưới tiêu Sư Tử Đầu - Hanyuan B&B",
+        "twitterDescription": "Di sản thủy lợi thời Nhật do người Khách Gia xây dựng, gắn với huyền thoại phong thủy 'Sư Tử Hộ Mệnh' cùng đỉnh Sư Tử — 2,5 km hoa gừng dại, dương xỉ và miếu Bá Công; bí mật chụp ảnh và trải nghiệm văn hóa kính nước Khách Gia của Mỹ Nùng.",
+        "twitterImageAlt": "Hoa gừng dại nở rộ dọc Kênh tưới tiêu Sư Tử Đầu"
+      },
+      "fil": {
+        "title": "Shizitou Irrigation Canal - Hanyuan B&B | Japanese-Era Hydraulic Heritage, Hakka Water Culture, Wild Ginger-Lily Secret",
+        "description": "Ang Shizitou Irrigation Canal ay isang Japanese-era hydraulic structure na itinayo ng mga Hakka ancestors para patubigan ang mga bukid, na pinagsama sa Lion-Top hill upang bumuo ng feng-shui na 'Lion-Guard' na alamat; umaabot ang kanal sa humigit-kumulang 2.5 km sa taas na 150 m. Maglakad dito para makita ang mga wild ginger-lily, ferns, Earth-God shrines at siglo-sentrong stone sluice gates—perpektong lugar para matutunan ang Hakka water culture at kumuha ng wild ginger-lily blossoms; sikreto ng Hanyuan B&B para sa mga pamilya at photographer.",
+        "keywords": "Shizitou Irrigation Canal,Meinong canal,Meinong waterworks,Hakka water culture,wild ginger-lily,Meinong photo secret,Lion Top Hill,atraksyon malapit sa Hanyuan",
+        "ogTitle": "Shizitou Irrigation Canal - Hanyuan B&B",
+        "ogDescription": "Japanese-era Hakka-built hydraulic structure na konektado sa Lion-Top 'Lion-Guard' alamat—2.5 km ng mga wild ginger-lily, ferns at Earth-God shrines; sikreto ng Meinong para sa Hakka water culture at potograpiya.",
+        "ogImageAlt": "Mga wild ginger-lily na bulaklak sa Shizitou Irrigation Canal",
+        "twitterTitle": "Shizitou Irrigation Canal - Hanyuan B&B",
+        "twitterDescription": "Japanese-era Hakka-built hydraulic structure na konektado sa Lion-Top 'Lion-Guard' alamat—2.5 km ng mga wild ginger-lily, ferns at Earth-God shrines; sikreto ng Meinong para sa Hakka water culture at potograpiya.",
+        "twitterImageAlt": "Mga wild ginger-lily na bulaklak sa Shizitou Irrigation Canal"
+      },
+      "pt": {
+        "title": "Canal de Irrigação Shizitou - Hanyuan B&B | Patrimônio Hidráulico da Era Japonesa, Cultura da Água Hakka, Segredo do Gengibre-Bravo",
+        "description": "O Canal de Irrigação Shizitou é uma estrutura hidráulica da era japonesa construída por ancestrais Hakka para irrigar terras agrícolas, que, junto à Colina Lion-Top, forma a lenda do feng-shui 'Guardião-Leão'; o canal tem cerca de 2,5 km a aproximadamente 150 m de altitude. Caminhe por ele para encontrar gengibre-bravo, samambaias, santuários do Deus da Terra e comportas de pedra centenárias — o lugar perfeito para conhecer a cultura da água Hakka e fotografar o gengibre-bravo; dica secreta da Hanyuan B&B para famílias e fotógrafos.",
+        "keywords": "Canal de Irrigação Shizitou,canal Meinong,obras hidráulicas Meinong,cultura da água Hakka,gengibre-bravo,segredo fotográfico Meinong,Colina Lion-Top,atrações próximas à Hanyuan",
+        "ogTitle": "Canal de Irrigação Shizitou - Hanyuan B&B",
+        "ogDescription": "Estrutura hidráulica Hakka da era japonesa ligada à lenda feng-shui 'Guardião-Leão' da Lion-Top — 2,5 km de gengibre-bravo, samambaias e santuários do Deus da Terra; o segredo de Meinong para a cultura da água Hakka e fotografia.",
+        "ogImageAlt": "Flores de gengibre-bravo ao longo do Canal Shizitou",
+        "twitterTitle": "Canal de Irrigação Shizitou - Hanyuan B&B",
+        "twitterDescription": "Estrutura hidráulica Hakka da era japonesa ligada à lenda feng-shui 'Guardião-Leão' da Lion-Top — 2,5 km de gengibre-bravo, samambaias e santuários do Deus da Terra; o segredo de Meinong para a cultura da água Hakka e fotografia.",
+        "twitterImageAlt": "Flores de gengibre-bravo ao longo do Canal Shizitou"
+      }
+    },
+    "destination-lion-top.html": {
+      "en": {
+        "title": "Lion-Top Hiking Trail - Hanyuan B&B | Meinong Foothill, Xiao-Bai-Yue Trail, Secret Night-View Spot",
+        "description": "Lion-Top is the most accessible foothill in Meinong District, named for its crouching-lion summit. At only ~240 m above sea level, the shaded gentle trail rewards you with 360° views of the Meinong Plain, double-stream forests and the Chiwei Mountain ridge—Hanyuan B&B's top pick for sunrise/sunset walks and family outings.",
+        "keywords": "Lion-Top,Meinong Lion-Top,Meinong foothill,Lion-Top trail,Meinong night view,Meinong hiking,Meinong family attraction,attractions near Hanyuan",
+        "ogTitle": "Lion-Top Hiking Trail - Hanyuan B&B",
+        "ogDescription": "One of Meinong's friendliest foothills—a lion-shaped peak offering 360° views of the Meinong Plain and Chiwei Mountain ridge, with a gentle shaded trail ideal for sunrise/sunset walks and family hikes.",
+        "ogImageAlt": "View of the Meinong Plain from the summit of Lion-Top",
+        "twitterTitle": "Lion-Top Hiking Trail - Hanyuan B&B",
+        "twitterDescription": "One of Meinong's friendliest foothills—a lion-shaped peak offering 360° views of the Meinong Plain and Chiwei Mountain ridge, with a gentle shaded trail ideal for sunrise/sunset walks and family hikes.",
+        "twitterImageAlt": "View of the Meinong Plain from the summit of Lion-Top"
+      },
+      "vi": {
+        "title": "Đường mòn leo núi đỉnh Sư Tử - Hanyuan B&B | Núi gần Mỹ Nùng, cấp Tiểu Bách Dực, bí mật ngắm đêm",
+        "description": "Đỉnh Sư Tử là ngọn núi gần thành phố nhất của quận Mỹ Nùng, tên gọi xuất phát từ hình dáng đỉnh núi giống con sư tử ngồi chồm hổm. Độ cao chỉ khoảng 240 m, đường mòn thoải, bóng cây râm mát hai bên, lên đỉnh có thể phóng tầm mắt 360 độ ngắm đồng bằng Mỹ Nùng, biển cây Song Khê và đường chân trời núi Kỳ Vĩ phía xa — lựa chọn hàng đầu của Hanyuan B&B cho các buổi dạo bình minh/hoàng hôn và dã ngoại gia đình.",
+        "keywords": "đỉnh Sư Tử,đỉnh Sư Tử Mỹ Nùng,núi gần Mỹ Nùng,đường mòn đỉnh Sư Tử,ngắm đêm Mỹ Nùng,leo núi Mỹ Nùng,điểm gia đình Mỹ Nùng,điểm tham quan gần Hanyuan",
+        "ogTitle": "Đường mòn leo núi đỉnh Sư Tử - Hanyuan B&B",
+        "ogDescription": "Một trong những ngọn núi thân thiện nhất Mỹ Nùng — đỉnh hình sư tử với tầm nhìn 360° đồng bằng Mỹ Nùng và đường chân trời núi Kỳ Vĩ, đường mòn bóng râm thoải lý tưởng cho đi bộ bình minh/hoàng hôn và leo núi gia đình.",
+        "ogImageAlt": "Tầm nhìn đồng bằng Mỹ Nùng từ đỉnh Sư Tử",
+        "twitterTitle": "Đường mòn leo núi đỉnh Sư Tử - Hanyuan B&B",
+        "twitterDescription": "Một trong những ngọn núi thân thiện nhất Mỹ Nùng — đỉnh hình sư tử với tầm nhìn 360° đồng bằng Mỹ Nùng và đường chân trời núi Kỳ Vĩ, đường mòn bóng râm thoải lý tưởng cho đi bộ bình minh/hoàng hôn và leo núi gia đình.",
+        "twitterImageAlt": "Tầm nhìn đồng bằng Mỹ Nùng từ đỉnh Sư Tử"
+      },
+      "fil": {
+        "title": "Lion-Top Hiking Trail - Hanyuan B&B | Meinong Foothill, Xiao-Bai-Yue Trail, Secret Night-View Spot",
+        "description": "Ang Lion-Top ay ang pinaka-accessible na foothill sa Meinong District, na pinangalanan sa kanyang crouching-lion summit. Sa ~240 m lamang ang taas, ang shaded gentle trail ay gantimpala ng 360° na tanawin ng Meinong Plain, double-stream forests at Chiwei Mountain ridge—pinakamainam na pagpipilian ng Hanyuan B&B para sa sunrise/sunset na paglalakad at family outings.",
+        "keywords": "Lion-Top,Meinong Lion-Top,Meinong foothill,Lion-Top trail,Meinong night view,Meinong hiking,Meinong family attraction,atraksyon malapit sa Hanyuan",
+        "ogTitle": "Lion-Top Hiking Trail - Hanyuan B&B",
+        "ogDescription": "Isa sa pinakamalapit na foothill ng Meinong—isang lion-shaped peak na may 360° na tanawin ng Meinong Plain at Chiwei Mountain ridge, na may shaded gentle trail na perpekto para sa sunrise/sunset walks at family hikes.",
+        "ogImageAlt": "Tanawin ng Meinong Plain mula sa summit ng Lion-Top",
+        "twitterTitle": "Lion-Top Hiking Trail - Hanyuan B&B",
+        "twitterDescription": "Isa sa pinakamalapit na foothill ng Meinong—isang lion-shaped peak na may 360° na tanawin ng Meinong Plain at Chiwei Mountain ridge, na may shaded gentle trail na perpekto para sa sunrise/sunset walks at family hikes.",
+        "twitterImageAlt": "Tanawin ng Meinong Plain mula sa summit ng Lion-Top"
+      },
+      "pt": {
+        "title": "Trilha do Pico do Leão - Hanyuan B&B | Montanha de Meinong, Trilha Xiao-Bai-Yue, Segredo para Vista Noturna",
+        "description": "O Pico do Leão é a montanha mais acessível do distrito de Meinong, batizada por seu cume em forma de leão agachado. A apenas ~240 m de altitude, a trilha sombreada e suave recompensa com vistas de 360° da Planície de Meinong, das florestas de dois rios e da crista do Monte Chiwei — escolha principal da Hanyuan B&B para caminhadas ao nascer/pôr do sol e passeios em família.",
+        "keywords": "Pico do Leão,Meinong Pico do Leão,montanha de Meinong,trilha Pico do Leão,vista noturna Meinong,trilha Meinong,atração família Meinong,atrações próximas à Hanyuan",
+        "ogTitle": "Trilha do Pico do Leão - Hanyuan B&B",
+        "ogDescription": "Uma das montanhas mais acolhedoras de Meinong — um cume em forma de leão com vistas de 360° da Planície de Meinong e da crista do Monte Chiwei, com trilha sombreada e suave ideal para caminhadas ao nascer/pôr do sol e trilhas em família.",
+        "ogImageAlt": "Vista da Planície de Meinong a partir do cume do Pico do Leão",
+        "twitterTitle": "Trilha do Pico do Leão - Hanyuan B&B",
+        "twitterDescription": "Uma das montanhas mais acolhedoras de Meinong — um cume em forma de leão com vistas de 360° da Planície de Meinong e da crista do Monte Chiwei, com trilha sombreada e suave ideal para caminhadas ao nascer/pôr do sol e trilhas em família.",
+        "twitterImageAlt": "Vista da Planície de Meinong a partir do cume do Pico do Leão"
+      }
+    },
+    "destination-meinung-folk-village.html": {
+      "en": {
+        "title": "Meinung Folk Village - Hanyuan B&B | Hakka Sanheyuan, Tobacco Barn, Blue Shirt Lei Cha, Paper-Umbrella Culture",
+        "description": "Meinung Folk Village is a preserved showcase of traditional Hakka settlements in Meinong, Kaohsiung—featuring complete sanheyuan courtyards, tobacco barns and Earth-God worship. Visitors can take part in hands-on cultural experiences: Hakka blue-shirt dyeing, lei cha (pounded tea), oil-paper umbrella making and tobacco-leaf harvesting. Open daily 08:30-17:00 with barrier-free ramps and Hakka-language audio guides—Hanyuan B&B's top pick for deep Hakka culture and three-generation family outings; DIY activities require advance booking.",
+        "keywords": "Meinung Folk Village,Meinong Hakka,Hakka sanheyuan,Meinong tobacco barn,Hakka blue shirt,lei cha,oil-paper umbrella,tobacco harvesting,Meinong cultural experience,attractions near Hanyuan",
+        "ogTitle": "Meinung Folk Village - Hanyuan B&B",
+        "ogDescription": "A showcase of traditional Hakka settlements—complete sanheyuan courtyards, tobacco barns and Earth-God worship, plus DIY blue-shirt dyeing, lei cha, oil-paper umbrellas and tobacco harvesting; open daily 08:30-17:00 with barrier-free access.",
+        "ogImageAlt": "Traditional Hakka sanheyuan at Meinung Folk Village",
+        "twitterTitle": "Meinung Folk Village - Hanyuan B&B",
+        "twitterDescription": "A showcase of traditional Hakka settlements—complete sanheyuan courtyards, tobacco barns and Earth-God worship, plus DIY blue-shirt dyeing, lei cha, oil-paper umbrellas and tobacco harvesting; open daily 08:30-17:00 with barrier-free access.",
+        "twitterImageAlt": "Traditional Hakka sanheyuan at Meinung Folk Village"
+      },
+      "vi": {
+        "title": "Làng dân gian Mỹ Nùng - Hanyuan B&B | Tam hợp viện Khách Gia, phòng sấy thuốc lá, áo xanh la chát, văn hóa dù giấy dầu",
+        "description": "Làng dân gian Mỹ Nùng là khu bảo tồn kiểu mẫu các cụm dân cư truyền thống Khách Gia thuộc Mỹ Nùng, Cao Hùng, lưu giữ nguyên vẹn kiến trúc tam hợp viện, phòng sấy thuốc lá và tín ngưỡng Bá Công, đồng thời cung cấp các trải nghiệm văn hóa thực hành như nhuộm áo xanh Khách Gia, la chát, làm dù giấy dầu và thu hoạch lá thuốc lá. Mở cửa hằng ngày 08:30-17:00 với đường dốc không rào cản và thiết bị hướng dẫn bằng tiếng Khách Gia — lựa chọn hàng đầu của Hanyuan B&B cho hành trình văn hóa Khách Gia sâu sắc và thích hợp cho cả ba thế hệ; các hoạt động DIY nên đặt trước.",
+        "keywords": "Làng dân gian Mỹ Nùng,Mỹ Nùng Khách Gia,tam hợp viện Khách Gia,phòng sấy thuốc lá Mỹ Nùng,áo xanh Khách Gia,la chát,dù giấy dầu,thu hoạch lá thuốc lá,trải nghiệm văn hóa Mỹ Nùng,điểm tham quan gần Hanyuan",
+        "ogTitle": "Làng dân gian Mỹ Nùng - Hanyuan B&B",
+        "ogDescription": "Khu bảo tồn cụm dân cư Khách Gia truyền thống — tam hợp viện, phòng sấy thuốc lá, tín ngưỡng Bá Công nguyên vẹn, kèm trải nghiệm DIY nhuộm áo xanh, la chát, dù giấy dầu và thu hoạch lá thuốc lá; mở cửa 08:30-17:00 với lối đi không rào cản.",
+        "ogImageAlt": "Tam hợp viện Khách Gia truyền thống tại Làng dân gian Mỹ Nùng",
+        "twitterTitle": "Làng dân gian Mỹ Nùng - Hanyuan B&B",
+        "twitterDescription": "Khu bảo tồn cụm dân cư Khách Gia truyền thống — tam hợp viện, phòng sấy thuốc lá, tín ngưỡng Bá Công nguyên vẹn, kèm trải nghiệm DIY nhuộm áo xanh, la chát, dù giấy dầu và thu hoạch lá thuốc lá; mở cửa 08:30-17:00 với lối đi không rào cản.",
+        "twitterImageAlt": "Tam hợp viện Khách Gia truyền thống tại Làng dân gian Mỹ Nùng"
+      },
+      "fil": {
+        "title": "Meinung Folk Village - Hanyuan B&B | Hakka Sanheyuan, Tobacco Barn, Blue Shirt Lei Cha, Paper-Umbrella Culture",
+        "description": "Ang Meinung Folk Village ay isang preserved showcase ng tradisyonal na Hakka settlements sa Meinong, Kaohsiung—kumpleto ang mga sanheyuan courtyard, tobacco barn at Earth-God worship. Maaaring lumahok ang mga bisita sa hands-on cultural experiences: Hakka blue-shirt dyeing, lei cha (pounded tea), oil-paper umbrella making at tobacco-leaf harvesting. Bukas araw-araw 08:30-17:00 na may barrier-free ramps at Hakka-language audio guides—pinakamainam na pagpipilian ng Hanyuan B&B para sa malalim na Hakka culture at three-generation family outings; DIY activities ay nangangailangan ng advance booking.",
+        "keywords": "Meinung Folk Village,Meinong Hakka,Hakka sanheyuan,Meinong tobacco barn,Hakka blue shirt,lei cha,oil-paper umbrella,tobacco harvesting,Meinong cultural experience,atraksyon malapit sa Hanyuan",
+        "ogTitle": "Meinung Folk Village - Hanyuan B&B",
+        "ogDescription": "Showcase ng tradisyonal na Hakka settlements—kumpleto ang sanheyuan courtyards, tobacco barn at Earth-God worship, kasama ang DIY blue-shirt dyeing, lei cha, oil-paper umbrella at tobacco harvesting; bukas araw-araw 08:30-17:00 na may barrier-free access.",
+        "ogImageAlt": "Tradyonal na Hakka sanheyuan sa Meinung Folk Village",
+        "twitterTitle": "Meinung Folk Village - Hanyuan B&B",
+        "twitterDescription": "Showcase ng tradisyonal na Hakka settlements—kumpleto ang sanheyuan courtyards, tobacco barn at Earth-God worship, kasama ang DIY blue-shirt dyeing, lei cha, oil-paper umbrella at tobacco harvesting; bukas araw-araw 08:30-17:00 na may barrier-free access.",
+        "twitterImageAlt": "Tradyonal na Hakka sanheyuan sa Meinung Folk Village"
+      },
+      "pt": {
+        "title": "Vila Folclórica de Meinung - Hanyuan B&B | Sanheyuan Hakka, Celeiro de Tabaco, Lei Cha e Guarda-Chuva de Papel",
+        "description": "A Vila Folclórica de Meinung é uma mostra preservada de assentamentos tradicionais Hakka em Meinong, Kaohsiung — com pátios sanheyuan completos, celeiros de tabaco e adoração ao Deus da Terra. Os visitantes podem participar de experiências culturais: tingimento da camisa azul Hakka, lei chá (chá pilado), confecção de guarda-chuvas de papel oleado e colheita de folhas de tabaco. Aberto diariamente 08:30-17:00, com rampas acessíveis e áudio-guia em língua Hakka — escolha principal da Hanyuan B&B para vivenciar a cultura Hakka em três gerações; atividades DIY exigem reserva antecipada.",
+        "keywords": "Vila Folclórica Meinung,Meinong Hakka,sanheyuan Hakka,celeiro de tabaco Meinong,camisa azul Hakka,lei chá,guarda-chuva de papel oleado,colheita de tabaco,experiência cultural Meinong,atrações próximas à Hanyuan",
+        "ogTitle": "Vila Folclórica de Meinung - Hanyuan B&B",
+        "ogDescription": "Mostra de assentamentos Hakka tradicionais — pátios sanheyuan, celeiros de tabaco e adoração ao Deus da Terra preservados, com DIY de tingimento de camisa azul, lei chá, guarda-chuvas de papel oleado e colheita de tabaco; aberto 08:30-17:00 com acesso sem barreiras.",
+        "ogImageAlt": "Sanheyuan Hakka tradicional na Vila Folclórica de Meinung",
+        "twitterTitle": "Vila Folclórica de Meinung - Hanyuan B&B",
+        "twitterDescription": "Mostra de assentamentos Hakka tradicionais — pátios sanheyuan, celeiros de tabaco e adoração ao Deus da Terra preservados, com DIY de tingimento de camisa azul, lei chá, guarda-chuvas de papel oleado e colheita de tabaco; aberto 08:30-17:00 com acesso sem barreiras.",
+        "twitterImageAlt": "Sanheyuan Hakka tradicional na Vila Folclórica de Meinung"
+      }
+    },
+    "destination-meinung-lake.html": {
+      "en": {
+        "title": "Meinung Lake (Zhongzheng Lake) - Hanyuan B&B | Lakeside Cycling, Lotus Secret, Autumn-Winter Sunset Photography",
+        "description": "Meinung Lake, also called Zhongzheng Lake, is an artificial reservoir dug in 1929 during the Japanese era, with a 26-hectare surface and a 3-km lakeside trail. Lotus blooms in autumn and winter; black-crowned night herons, egrets and pheasant-tailed jacanas appear in spring and summer. The Yong'an Old Street and tobacco-barn scenery along the shore form Meinong's signature Hakka countryside—Hanyuan B&B guests' favorite sunrise/sunset walking route.",
+        "keywords": "Meinung Lake,Zhongzheng Lake,Meinong lakeside trail,Meinong cycling route,Meinung lotus,Meinong tobacco barn,Meinong photography,Yong'an Old Street,attractions near Hanyuan",
+        "ogTitle": "Meinung Lake (Zhongzheng Lake) - Hanyuan B&B",
+        "ogDescription": "An artificial reservoir dug in 1929 during the Japanese era—26 hectares of water and 3 km of lakeside trails, lotus in autumn, tung blossoms in spring, and classic Hakka countryside views along Yong'an Old Street.",
+        "ogImageAlt": "Lakeside trail and reflection at Meinung Lake",
+        "twitterTitle": "Meinung Lake (Zhongzheng Lake) - Hanyuan B&B",
+        "twitterDescription": "An artificial reservoir dug in 1929 during the Japanese era—26 hectares of water and 3 km of lakeside trails, lotus in autumn, tung blossoms in spring, and classic Hakka countryside views along Yong'an Old Street.",
+        "twitterImageAlt": "Lakeside trail and reflection at Meinung Lake"
+      },
+      "vi": {
+        "title": "Hồ Mỹ Nùng (Hồ Trung Chính) - Hanyuan B&B | Đạp xe quanh hồ, bí mật ngắm hoa sen, điểm chụp ảnh hoàng hôn mùa thu-đông",
+        "description": "Hồ Mỹ Nùng, còn gọi là Hồ Trung Chính, là hồ chứa nhân tạo được đào vào năm 1929 dưới thời Nhật, mặt hồ rộng 26 ha với đường đi quanh hồ khoảng 3 km. Mùa thu đông có thể ngắm hoa sen nở rộ, mùa xuân hè có các loài chim như vạc, cò và gà lôi nước phong phú. Phố cổ Vĩnh An và cảnh phòng sấy thuốc lá ven hồ tạo nên phong cảnh nông thôn Khách Gia tiêu biểu của Mỹ Nùng — tuyến đi bộ bình minh/hoàng hôn yêu thích nhất của khách lưu trú tại Hanyuan B&B.",
+        "keywords": "Hồ Mỹ Nùng,Hồ Trung Chính,đường quanh hồ Mỹ Nùng,tuyến đạp xe Mỹ Nùng,hoa sen Mỹ Nùng,phòng sấy thuốc lá Mỹ Nùng,nhiếp ảnh Mỹ Nùng,Phố cổ Vĩnh An,điểm tham quan gần Hanyuan",
+        "ogTitle": "Hồ Mỹ Nùng (Hồ Trung Chính) - Hanyuan B&B",
+        "ogDescription": "Hồ chứa nhân tạo đào năm 1929 thời Nhật — 26 ha mặt nước và 3 km đường quanh hồ, hoa sen mùa thu, hoa đầu mùa xuân, cùng phong cảnh nông thôn Khách Gia kinh điển dọc Phố cổ Vĩnh An.",
+        "ogImageAlt": "Đường quanh hồ và mặt hồ phản chiếu tại Hồ Mỹ Nùng",
+        "twitterTitle": "Hồ Mỹ Nùng (Hồ Trung Chính) - Hanyuan B&B",
+        "twitterDescription": "Hồ chứa nhân tạo đào năm 1929 thời Nhật — 26 ha mặt nước và 3 km đường quanh hồ, hoa sen mùa thu, hoa đầu mùa xuân, cùng phong cảnh nông thôn Khách Gia kinh điển dọc Phố cổ Vĩnh An.",
+        "twitterImageAlt": "Đường quanh hồ và mặt hồ phản chiếu tại Hồ Mỹ Nùng"
+      },
+      "fil": {
+        "title": "Meinung Lake (Zhongzheng Lake) - Hanyuan B&B | Lakeside Cycling, Lotus Secret, Autumn-Winter Sunset Photography",
+        "description": "Ang Meinung Lake, na tinatawag ding Zhongzheng Lake, ay isang artificial reservoir na hinukay noong 1929 noong Japanese era, na may 26-hectare na surface at 3-km lakeside trail. Ang lotus ay namumulaklak sa autumn at winter; black-crowned night herons, egrets at pheasant-tailed jacanas ang makikita sa spring at summer. Ang Yong'an Old Street at tobacco-barn scenery sa baybay-dagat ay bumubuo ng signature Hakka countryside ng Meinong—paboritong sunrise/sunset walking route ng mga bisita ng Hanyuan B&B.",
+        "keywords": "Meinung Lake,Zhongzheng Lake,Meinong lakeside trail,Meinong cycling route,Meinung lotus,Meinong tobacco barn,Meinong photography,Yong'an Old Street,atraksyon malapit sa Hanyuan",
+        "ogTitle": "Meinung Lake (Zhongzheng Lake) - Hanyuan B&B",
+        "ogDescription": "Artificial reservoir na hinukay noong 1929 noong Japanese era—26 hectares ng tubig at 3 km lakeside trails, lotus sa autumn, tung blossoms sa spring, at classic Hakka countryside views sa Yong'an Old Street.",
+        "ogImageAlt": "Lakeside trail at reflection sa Meinung Lake",
+        "twitterTitle": "Meinung Lake (Zhongzheng Lake) - Hanyuan B&B",
+        "twitterDescription": "Artificial reservoir na hinukay noong 1929 noong Japanese era—26 hectares ng tubig at 3 km lakeside trails, lotus sa autumn, tung blossoms sa spring, at classic Hakka countryside views sa Yong'an Old Street.",
+        "twitterImageAlt": "Lakeside trail at reflection sa Meinung Lake"
+      },
+      "pt": {
+        "title": "Lago Meinung (Lago Zhongzheng) - Hanyuan B&B | Ciclismo à Beira do Lago, Segredo do Lótus, Fotografia do Pôr do Sol no Outono-Inverno",
+        "description": "O Lago Meinung, também chamado Lago Zhongzheng, é um reservatório artificial escavado em 1929 durante a era japonesa, com 26 hectares de espelho d'água e 3 km de trilho à beira do lago. Lótus florescem no outono e inverno; socós-dorminhocos, garças e jaçanãs-rabo-de-faisão aparecem na primavera e no verão. A Rua Antiga de Yong'an e os celeiros de tabaco à margem compõem a paisagem rural Hakka mais emblemática de Meinong — rota preferida dos hóspedes da Hanyuan B&B para caminhadas ao nascer/pôr do sol.",
+        "keywords": "Lago Meinung,Lago Zhongzheng,trilha à beira do lago Meinong,rota de ciclismo Meinong,lótus Meinung,celeiro de tabaco Meinong,fotografia Meinong,Rua Antiga Yong'an,atrações próximas à Hanyuan",
+        "ogTitle": "Lago Meinung (Lago Zhongzheng) - Hanyuan B&B",
+        "ogDescription": "Reservatório artificial escavado em 1929 na era japonesa — 26 hectares de água e 3 km de trilho à beira do lago, lótus no outono, flores de tung na primavera e vistas clássicas do campo Hakka ao longo da Rua Antiga de Yong'an.",
+        "ogImageAlt": "Trilha à beira do lago e reflexos no Lago Meinung",
+        "twitterTitle": "Lago Meinung (Lago Zhongzheng) - Hanyuan B&B",
+        "twitterDescription": "Reservatório artificial escavado em 1929 na era japonesa — 26 hectares de água e 3 km de trilho à beira do lago, lótus no outono, flores de tung na primavera e vistas clássicas do campo Hakka ao longo da Rua Antiga de Yong'an.",
+        "twitterImageAlt": "Trilha à beira do lago e reflexos no Lago Meinung"
+      }
+    },
+    "destination-meinung-paper-umbrella.html": {
+      "en": {
+        "title": "Meinung Yuanxiangyuan Paper-Umbrella Culture Village - Hanyuan B&B | Oil-Paper Umbrella DIY, Guang Jin Sheng 3rd Generation, Hakka Heritage",
+        "description": "Meinung Yuanxiangyuan Paper-Umbrella Culture Village is Taiwan's most complete preservation site for the oil-paper umbrella craft, run by the third generation of the Guang Jin Sheng studio. They inherited the techniques of Cantonese masters from the Japanese era, demonstrating the full chain from bamboo cutting and rib-shaping through cotton paper gluing to tung-oil finishing. Visitors can hand-paint their own umbrellas in a DIY session—the perfect place to learn Meinong's Hakka crafts and pick up souvenirs.",
+        "keywords": "Meinung oil-paper umbrella,Yuanxiangyuan Paper-Umbrella Village,Guang Jin Sheng,umbrella DIY,Meinung Hakka culture,oil-paper umbrella,Meinong souvenir,Meinong hands-on,attractions near Hanyuan",
+        "ogTitle": "Meinung Yuanxiangyuan Paper-Umbrella Culture Village - Hanyuan B&B",
+        "ogDescription": "Taiwan's most complete oil-paper umbrella preservation site, run by the third generation of Guang Jin Sheng—heritage Cantonese-master techniques, umbrella-making tours, DIY painting and Hakka souvenirs.",
+        "ogImageAlt": "Colorful oil-paper umbrellas on display at Yuanxiangyuan Culture Village",
+        "twitterTitle": "Meinung Yuanxiangyuan Paper-Umbrella Culture Village - Hanyuan B&B",
+        "twitterDescription": "Taiwan's most complete oil-paper umbrella preservation site, run by the third generation of Guang Jin Sheng—heritage Cantonese-master techniques, umbrella-making tours, DIY painting and Hakka souvenirs.",
+        "twitterImageAlt": "Colorful oil-paper umbrellas on display at Yuanxiangyuan Culture Village"
+      },
+      "vi": {
+        "title": "Làng văn hóa dù giấy Viên Hương Duyên Mỹ Nùng - Hanyuan B&B | DIY dù giấy dầu, thế hệ thứ 3 Quảng Tiến Thắng, di sản Khách Gia",
+        "description": "Làng văn hóa dù giấy Viên Hương Duyên Mỹ Nùng là cơ sở bảo tồn hoàn chỉnh nhất Đài Loan cho nghề dù giấy dầu, do thế hệ thứ 3 của xưởng Quảng Tiến Thắng vận hành, kế thừa kỹ thuật từ các bậc thầy Quảng Đông thời Nhật. Trình diễn toàn bộ quy trình từ cắt tre, tạo khung dù, dán giấy bông đến phủ dầu trẩu. Du khách có thể tự tay DIY vẽ dù giấy của riêng mình — nơi hoàn hảo để tìm hiểu thủ công Khách Gia Mỹ Nùng và chọn mua quà lưu niệm.",
+        "keywords": "dù giấy dầu Mỹ Nùng,Làng văn hóa dù giấy Viên Hương Duyên,Quảng Tiến Thắng,DIY dù giấy,văn hóa Khách Gia Mỹ Nùng,dù giấy dầu,quà lưu niệm Mỹ Nùng,trải nghiệm thủ công Mỹ Nùng,điểm tham quan gần Hanyuan",
+        "ogTitle": "Làng văn hóa dù giấy Viên Hương Duyên Mỹ Nùng - Hanyuan B&B",
+        "ogDescription": "Cơ sở bảo tồn dù giấy dầu hoàn chỉnh nhất Đài Loan, do thế hệ thứ 3 của Quảng Tiến Thắng vận hành — kế thừa kỹ thuật bậc thầy Quảng Đông, hướng dẫn làm dù, DIY vẽ và quà lưu niệm Khách Gia.",
+        "ogImageAlt": "Trưng bày dù giấy dầu đầy màu sắc tại Làng văn hóa Viên Hương Duyên",
+        "twitterTitle": "Làng văn hóa dù giấy Viên Hương Duyên Mỹ Nùng - Hanyuan B&B",
+        "twitterDescription": "Cơ sở bảo tồn dù giấy dầu hoàn chỉnh nhất Đài Loan, do thế hệ thứ 3 của Quảng Tiến Thắng vận hành — kế thừa kỹ thuật bậc thầy Quảng Đông, hướng dẫn làm dù, DIY vẽ và quà lưu niệm Khách Gia.",
+        "twitterImageAlt": "Trưng bày dù giấy dầu đầy màu sắc tại Làng văn hóa Viên Hương Duyên"
+      },
+      "fil": {
+        "title": "Meinung Yuanxiangyuan Paper-Umbrella Culture Village - Hanyuan B&B | Oil-Paper Umbrella DIY, Guang Jin Sheng 3rd Generation, Hakka Heritage",
+        "description": "Ang Meinung Yuanxiangyuan Paper-Umbrella Culture Village ay ang pinakakumpletong preservation site ng Taiwan para sa oil-paper umbrella craft, na pinapatakbo ng ika-3 henerasyon ng Guang Jin Sheng studio. Minana nila ang mga techniques ng Cantonese masters mula sa Japanese era, na nagpapakita ng buong proseso mula sa pagputol ng bamboo at rib-shaping hanggang sa cotton paper gluing at tung-oil finishing. Maaaring mag-DIY ng sariling payong ang mga bisita—perpektong lugar para matutunan ang Hakka crafts ng Meinong at bumili ng mga souvenir.",
+        "keywords": "Meinung oil-paper umbrella,Yuanxiangyuan Paper-Umbrella Village,Guang Jin Sheng,umbrella DIY,Meinung Hakka culture,oil-paper umbrella,Meinong souvenir,Meinong hands-on,atraksyon malapit sa Hanyuan",
+        "ogTitle": "Meinung Yuanxiangyuan Paper-Umbrella Culture Village - Hanyuan B&B",
+        "ogDescription": "Pinakakumpletong oil-paper umbrella preservation site ng Taiwan, pinapatakbo ng ika-3 henerasyon ng Guang Jin Sheng—minana na Cantonese-master techniques, umbrella-making tours, DIY painting at Hakka souvenirs.",
+        "ogImageAlt": "Colorful oil-paper umbrellas na naka-display sa Yuanxiangyuan Culture Village",
+        "twitterTitle": "Meinung Yuanxiangyuan Paper-Umbrella Culture Village - Hanyuan B&B",
+        "twitterDescription": "Pinakakumpletong oil-paper umbrella preservation site ng Taiwan, pinapatakbo ng ika-3 henerasyon ng Guang Jin Sheng—minana na Cantonese-master techniques, umbrella-making tours, DIY painting at Hakka souvenirs.",
+        "twitterImageAlt": "Colorful oil-paper umbrellas na naka-display sa Yuanxiangyuan Culture Village"
+      },
+      "pt": {
+        "title": "Vila Cultural do Guarda-Chuva de Papel Yuanxiangyuan de Meinung - Hanyuan B&B | DIY de Guarda-Chuva de Papel Oleado, 3ª Geração Guang Jin Sheng, Herança Hakka",
+        "description": "A Vila Cultural do Guarda-Chuva de Papel Yuanxiangyuan de Meinung é o mais completo sítio de preservação da arte do guarda-chuva de papel oleado em Taiwan, administrado pela terceira geração do estúdio Guang Jin Sheng. Eles herdaram as técnicas dos mestres cantoneses da era japonesa, demonstrando toda a cadeia — do corte do bambu e moldagem das varetas à colagem do papel de algodão e acabamento com óleo de tungue. Os visitantes podem pintar seus próprios guarda-chuvas em uma sessão DIY — o lugar perfeito para conhecer o artesanato Hakka de Meinong e levar lembranças.",
+        "keywords": "guarda-chuva de papel oleado Meinung,Vila do Guarda-Chuva Yuanxiangyuan,Guang Jin Sheng,DIY de guarda-chuva,cultura Hakka Meinung,guarda-chuva de papel oleado,souvenir Meinung,hands-on Meinong,atrações próximas à Hanyuan",
+        "ogTitle": "Vila Cultural do Guarda-Chuva de Papel Yuanxiangyuan de Meinung - Hanyuan B&B",
+        "ogDescription": "O mais completo sítio de preservação do guarda-chuva de papel oleado em Taiwan, administrado pela terceira geração de Guang Jin Sheng — técnicas herdadas de mestres cantoneses, tours de fabricação, DIY de pintura e souvenirs Hakka.",
+        "ogImageAlt": "Guarda-chuvas coloridos em exibição na Vila Cultural Yuanxiangyuan",
+        "twitterTitle": "Vila Cultural do Guarda-Chuva de Papel Yuanxiangyuan de Meinung - Hanyuan B&B",
+        "twitterDescription": "O mais completo sítio de preservação do guarda-chuva de papel oleado em Taiwan, administrado pela terceira geração de Guang Jin Sheng — técnicas herdadas de mestres cantoneses, tours de fabricação, DIY de pintura e souvenirs Hakka.",
+        "twitterImageAlt": "Guarda-chuvas coloridos em exibição na Vila Cultural Yuanxiangyuan"
+      }
+    },
+    "destination-neimen-temple.html": {
+      "en": {
+        "title": "Neimen Zizhu Temple - Hanyuan B&B | Luohanmen Guanyin Shrine, Songjiang-zhen Origin, Welcoming Buddha Procession",
+        "description": "Neimen Zizhu Temple is the oldest Guanyin sanctuary in Neimen District, Kaohsiung—founded as far back as the Kangxi era of the Qing dynasty and dedicated to Guanyin Bodhisattva. It is the core temple for the 'Luohanmen Welcoming Buddha' pilgrimage procession and sits next to the Songjiang-zhen Cultural Hall. Neimen boasts over forty Songjiang-zhen teams and is hailed as Taiwan's hometown of Songjiang-zhen—the perfect place to experience religious folk culture.",
+        "keywords": "Neimen Zizhu Temple,Luohanmen,Neimen Songjiang-zhen,Welcoming Buddha procession,Songjiang-zhen Cultural Hall,Neimen attraction,Kaohsiung religious attraction,Guanyin Bodhisattva,attractions near Hanyuan,Neimen folk culture",
+        "ogTitle": "Neimen Zizhu Temple - Hanyuan B&B",
+        "ogDescription": "A Qing-Kangxi-era Guanyin shrine—the core temple of Taiwan's Songjiang-zhen tradition and the famed Luohanmen Welcoming Buddha procession. Explore Neimen Zizhu Temple's history, architecture and folk culture.",
+        "ogImageAlt": "Neimen Zizhu Temple and Guanyin Bodhisattva worship culture",
+        "twitterTitle": "Neimen Zizhu Temple - Hanyuan B&B",
+        "twitterDescription": "A Qing-Kangxi-era Guanyin shrine—the core temple of Taiwan's Songjiang-zhen tradition and the famed Luohanmen Welcoming Buddha procession. Explore Neimen Zizhu Temple's history, architecture and folk culture.",
+        "twitterImageAlt": "Neimen Zizhu Temple and Guanyin Bodhisattva worship culture"
+      },
+      "vi": {
+        "title": "Tử Trúc Tự Nội Môn - Hanyuan B&B | Quan Âm cổ tự La Hán Môn, nguồn gốc Tống Giang Trận, rước Phật diễu hành",
+        "description": "Tử Trúc Tự Nội Môn là đạo tràng Quan Âm lâu đời nhất quận Nội Môn, thành phố Cao Hùng, sùng kính Quan Thế Âm Bồ Tát, lịch sử xây dựng có thể truy ngược đến thời Khang Hy nhà Thanh, là trung tâm của hoạt động diễu hành 'La Hán Môn Nghinh Thế Phật'. Gần Nhà văn hóa Tống Giang Trận, Nội Môn có hơn bốn mươi đội Tống Giang Trận, được mệnh danh là quê hương Tống Giang Trận của toàn Đài Loan — nơi tốt nhất để trải nghiệm văn hóa dân gian tôn giáo.",
+        "keywords": "Tử Trúc Tự Nội Môn,La Hán Môn,Tống Giang Trận Nội Môn,diễu hành nghinh Phật,Nhà văn hóa Tống Giang Trận,điểm tham quan Nội Môn,điểm tôn giáo Cao Hùng,Quan Thế Âm Bồ Tát,điểm tham quan gần Hanyuan,văn hóa dân gian Nội Môn",
+        "ogTitle": "Tử Trúc Tự Nội Môn - Hanyuan B&B",
+        "ogDescription": "Đạo tràng Quan Âm thời Khang Hy nhà Thanh — trung tâm truyền thống Tống Giang Trận của Đài Loan và diễu hành nổi tiếng La Hán Môn Nghinh Phật. Khám phá lịch sử, kiến trúc và văn hóa dân gian của Tử Trúc Tự Nội Môn.",
+        "ogImageAlt": "Tử Trúc Tự Nội Môn và văn hóa tín ngưỡng Quan Âm Bồ Tát",
+        "twitterTitle": "Tử Trúc Tự Nội Môn - Hanyuan B&B",
+        "twitterDescription": "Đạo tràng Quan Âm thời Khang Hy nhà Thanh — trung tâm truyền thống Tống Giang Trận của Đài Loan và diễu hành nổi tiếng La Hán Môn Nghinh Phật. Khám phá lịch sử, kiến trúc và văn hóa dân gian của Tử Trúc Tự Nội Môn.",
+        "twitterImageAlt": "Tử Trúc Tự Nội Môn và văn hóa tín ngưỡng Quan Âm Bồ Tát"
+      },
+      "fil": {
+        "title": "Neimen Zizhu Temple - Hanyuan B&B | Luohanmen Guanyin Shrine, Songjiang-zhen Origin, Welcoming Buddha Procession",
+        "description": "Ang Neimen Zizhu Temple ay ang pinakalumang Guanyin sanctuary sa Neimen District, Kaohsiung—na itinatag pa noong Kangxi era ng Qing dynasty at nakatuon sa Guanyin Bodhisattva. Ito ang core temple para sa 'Luohanmen Welcoming Buddha' pilgrimage procession at nasa tabi ng Songjiang-zhen Cultural Hall. Ang Neimen ay may higit sa apatnapung Songjiang-zhen teams at itinuturing na hometown ng Songjiang-zhen ng Taiwan—perpektong lugar para maranasan ang religious folk culture.",
+        "keywords": "Neimen Zizhu Temple,Luohanmen,Neimen Songjiang-zhen,Welcoming Buddha procession,Songjiang-zhen Cultural Hall,Neimen attraction,Kaohsiung religious attraction,Guanyin Bodhisattva,atraksyon malapit sa Hanyuan,Neimen folk culture",
+        "ogTitle": "Neimen Zizhu Temple - Hanyuan B&B",
+        "ogDescription": "Qing-Kangxi-era na Guanyin shrine—ang core temple ng Songjiang-zhen tradition ng Taiwan at ang sikat na Luohanmen Welcoming Buddha procession. Tuklasin ang kasaysayan, arkitektura at folk culture ng Neimen Zizhu Temple.",
+        "ogImageAlt": "Neimen Zizhu Temple at Guanyin Bodhisattva worship culture",
+        "twitterTitle": "Neimen Zizhu Temple - Hanyuan B&B",
+        "twitterDescription": "Qing-Kangxi-era na Guanyin shrine—ang core temple ng Songjiang-zhen tradition ng Taiwan at ang sikat na Luohanmen Welcoming Buddha procession. Tuklasin ang kasaysayan, arkitektura at folk culture ng Neimen Zizhu Temple.",
+        "twitterImageAlt": "Neimen Zizhu Temple at Guanyin Bodhisattva worship culture"
+      },
+      "pt": {
+        "title": "Templo Zizhu de Neimen - Hanyuan B&B | Santuário Guanyin de Luohanmen, Origem do Songjiang-zhen, Procissão do Buda",
+        "description": "O Templo Zizhu de Neimen é o santuário Guanyin mais antigo do distrito de Neimen, em Kaohsiung — fundado ainda na era Kangxi da dinastia Qing, dedicado a Guanyin Bodhisattva. É o templo central da procissão 'Luohanmen Welcoming Buddha' e fica ao lado do Centro Cultural Songjiang-zhen. Neimen conta com mais de quarenta equipes de Songjiang-zhen e é considerada a cidade natal do Songjiang-zhen em Taiwan — o lugar perfeito para vivenciar a cultura popular religiosa.",
+        "keywords": "Templo Zizhu Neimen,Luohanmen,Songjiang-zhen Neimen,procissão Welcoming Buddha,Centro Cultural Songjiang-zhen,atração Neimen,atração religiosa Kaohsiung,Guanyin Bodhisattva,atrações próximas à Hanyuan,cultura popular Neimen",
+        "ogTitle": "Templo Zizhu de Neimen - Hanyuan B&B",
+        "ogDescription": "Santuário Guanyin da era Kangxi — templo central da tradição Songjiang-zhen de Taiwan e a famosa procissão Luohanmen Welcoming Buddha. Explore a história, arquitetura e cultura popular do Templo Zizhu de Neimen.",
+        "ogImageAlt": "Templo Zizhu de Neimen e a cultura de devoção a Guanyin Bodhisattva",
+        "twitterTitle": "Templo Zizhu de Neimen - Hanyuan B&B",
+        "twitterDescription": "Santuário Guanyin da era Kangxi — templo central da tradição Songjiang-zhen de Taiwan e a famosa procissão Luohanmen Welcoming Buddha. Explore a história, arquitetura e cultura popular do Templo Zizhu de Neimen.",
+        "twitterImageAlt": "Templo Zizhu de Neimen e a cultura de devoção a Guanyin Bodhisattva"
+      }
+    },
+    "destination-shuangxi-arboretum.html": {
+      "en": {
+        "title": "Shuangxi Arboretum - Hanyuan B&B | Japanese-Era Forestry Trial Site, 97 Tropical Species, Eco-Education Secret",
+        "description": "Shuangxi Arboretum was established in 1935 during the Japanese era, covering 7.65 hectares as a tropical forestry trial site—planting mahogany, teak, flame trees, Indian rosewood, Cassia siamea and Acacia confusa among 97 species in total. The shaded trails are gentle and rich in morning wildlife; QR-coded audio guides and 50 interpretive signs help you explore—Hanyuan B&B's pick for family hikes, eco-education, birdwatching and morning walks; ideal for three-generation outings.",
+        "keywords": "Shuangxi Arboretum,Meinong arboretum,Shuangxi forestry,mahogany,teak,flame tree,Indian rosewood,Cassia siamea,Meinong eco-education,attractions near Hanyuan",
+        "ogTitle": "Shuangxi Arboretum - Hanyuan B&B",
+        "ogDescription": "A 1935 Japanese-era tropical forestry trial—7.65 hectares with 97 species, gentle shaded trails rich in morning wildlife and QR-coded audio guides; Meinong's top family, eco-education and birdwatching spot.",
+        "ogImageAlt": "Shaded trail in Shuangxi Arboretum",
+        "twitterTitle": "Shuangxi Arboretum - Hanyuan B&B",
+        "twitterDescription": "A 1935 Japanese-era tropical forestry trial—7.65 hectares with 97 species, gentle shaded trails rich in morning wildlife and QR-coded audio guides; Meinong's top family, eco-education and birdwatching spot.",
+        "twitterImageAlt": "Shaded trail in Shuangxi Arboretum"
+      },
+      "vi": {
+        "title": "Vườn thực vật Song Khê - Hanyuan B&B | Điểm thí nghiệm lâm nghiệp thời Nhật, 97 loài nhiệt đới, bí mật giáo dục sinh thái",
+        "description": "Vườn thực vật Song Khê thành lập năm 1935 dưới thời Nhật, diện tích khoảng 7,65 ha, là điểm thí nghiệm lâm nghiệp nhiệt đới, trồng gỗ gụ, gỗ tếch, cây lửa, gỗ hồng môn Ấn Độ, sắn Thái Lan và keo lau, tổng cộng 97 loài cây. Đường mòn bóng râm thoải, hệ sinh thái buổi sáng phong phú, cung cấp hướng dẫn âm thanh qua mã QR và 50 bảng thuyết minh — lựa chọn của Hanyuan B&B cho dã ngoại gia đình, giáo dục sinh thái, ngắm chim và đi bộ buổi sáng; phù hợp cho cả ba thế hệ.",
+        "keywords": "Vườn thực vật Song Khê,vườn thực vật Mỹ Nùng,lâm nghiệp Song Khê,gỗ gụ,gỗ tếch,cây lửa,gỗ hồng môn Ấn Độ,sắn Thái Lan,giáo dục sinh thái Mỹ Nùng,điểm tham quan gần Hanyuan",
+        "ogTitle": "Vườn thực vật Song Khê - Hanyuan B&B",
+        "ogDescription": "Thí nghiệm lâm nghiệp nhiệt đới thời Nhật năm 1935 — 7,65 ha với 97 loài cây, đường mòn bóng râm thoải, hệ sinh thái buổi sáng phong phú và hướng dẫn âm thanh QR; điểm đến hàng đầu của Mỹ Nùng cho gia đình, giáo dục sinh thái và ngắm chim.",
+        "ogImageAlt": "Đường mòn bóng râm tại Vườn thực vật Song Khê",
+        "twitterTitle": "Vườn thực vật Song Khê - Hanyuan B&B",
+        "twitterDescription": "Thí nghiệm lâm nghiệp nhiệt đới thời Nhật năm 1935 — 7,65 ha với 97 loài cây, đường mòn bóng râm thoải, hệ sinh thái buổi sáng phong phú và hướng dẫn âm thanh QR; điểm đến hàng đầu của Mỹ Nùng cho gia đình, giáo dục sinh thái và ngắm chim.",
+        "twitterImageAlt": "Đường mòn bóng râm tại Vườn thực vật Song Khê"
+      },
+      "fil": {
+        "title": "Shuangxi Arboretum - Hanyuan B&B | Japanese-Era Forestry Trial Site, 97 Tropical Species, Eco-Education Secret",
+        "description": "Ang Shuangxi Arboretum ay itinatag noong 1935 noong Japanese era, na sumasaklaw sa 7.65 hectares bilang tropical forestry trial site—nagtatanim ng mahogany, teak, flame trees, Indian rosewood, Cassia siamea at Acacia confusa sa kabuuang 97 species. Ang shaded trails ay malumanay at mayaman sa morning wildlife; QR-coded audio guides at 50 interpretive signs ang tumutulong sa pagtuklas—pinakamainam na pagpipilian ng Hanyuan B&B para sa family hikes, eco-education, birdwatching at morning walks; perpekto para sa three-generation outings.",
+        "keywords": "Shuangxi Arboretum,Meinong arboretum,Shuangxi forestry,mahogany,teak,flame tree,Indian rosewood,Cassia siamea,Meinong eco-education,atraksyon malapit sa Hanyuan",
+        "ogTitle": "Shuangxi Arboretum - Hanyuan B&B",
+        "ogDescription": "1935 Japanese-era tropical forestry trial—7.65 hectares na may 97 species, malumanay na shaded trails na mayaman sa morning wildlife at QR-coded audio guides; pinakamainam na family, eco-education at birdwatching spot ng Meinong.",
+        "ogImageAlt": "Shaded trail sa Shuangxi Arboretum",
+        "twitterTitle": "Shuangxi Arboretum - Hanyuan B&B",
+        "twitterDescription": "1935 Japanese-era tropical forestry trial—7.65 hectares na may 97 species, malumanay na shaded trails na mayaman sa morning wildlife at QR-coded audio guides; pinakamainam na family, eco-education at birdwatching spot ng Meinong.",
+        "twitterImageAlt": "Shaded trail sa Shuangxi Arboretum"
+      },
+      "pt": {
+        "title": "Arboreto Shuangxi - Hanyuan B&B | Sítio de Ensaios Florestais da Era Japonesa, 97 Espécies Tropicais, Segredo de Educação Ambiental",
+        "description": "O Arboreto Shuangxi foi estabelecido em 1935 durante a era japonesa, com 7,65 hectares dedicados a ensaios florestais tropicais — plantando mogno, teca, flamboyant, jacarandá-da-índia, Cassia siamea e Acacia confusa entre 97 espécies no total. As trilhas sombreadas são suaves e ricas em fauna matinal; áudio-guias por QR code e 50 placas interpretativas ajudam a explorar — escolha da Hanyuan B&B para trilhas em família, educação ambiental, observação de pássaros e caminhadas matinais; ideal para passeios de três gerações.",
+        "keywords": "Arboreto Shuangxi,arboreto Meinong,silvicultura Shuangxi,mogno,teca,flamboyant,jacarandá-da-índia,Cassia siamea,educação ambiental Meinong,atrações próximas à Hanyuan",
+        "ogTitle": "Arboreto Shuangxi - Hanyuan B&B",
+        "ogDescription": "Ensaio florestal tropical de 1935 da era japonesa — 7,65 hectares com 97 espécies, trilhas sombreadas suaves ricas em fauna matinal e áudio-guias por QR code; melhor local de Meinong para família, educação ambiental e observação de pássaros.",
+        "ogImageAlt": "Trilha sombreada no Arboreto Shuangxi",
+        "twitterTitle": "Arboreto Shuangxi - Hanyuan B&B",
+        "twitterDescription": "Ensaio florestal tropical de 1935 da era japonesa — 7,65 hectares com 97 espécies, trilhas sombreadas suaves ricas em fauna matinal e áudio-guias por QR code; melhor local de Meinong para família, educação ambiental e observação de pássaros.",
+        "twitterImageAlt": "Trilha sombreada no Arboreto Shuangxi"
+      }
+    },
+    "destination-xinwei-nursery.html": {
+      "en": {
+        "title": "Xinwei Forest Park (Xinwei Nursery) - Hanyuan B&B | Mahogany Avenue, Two-Story Observation Deck, Maolin National Scenic Area Gateway",
+        "description": "Xinwei Forest Park, formerly a Japanese-era nursery, covers about 30 hectares with over 1,100 mahogany trees forming a 2-km Mahogany Avenue. The two-story observation deck looks out over the Central Mountain Range foothills and the Laonong River valley, making it the gateway to Maolin National Scenic Area—perfect for autumn foliage and summer escapes; only ~25 minutes' drive from Hanyuan B&B.",
+        "keywords": "Xinwei Forest Park,Xinwei Nursery,Mahogany Avenue,Maolin National Scenic Area,two-story observation deck,Meinong scenic spot,Shanlin attraction,Laonong River valley,attractions near Hanyuan",
+        "ogTitle": "Xinwei Forest Park (Xinwei Nursery) - Hanyuan B&B",
+        "ogDescription": "A Japanese-era nursery reborn as a 30-hectare mahogany forest—1,100 trees along a 2-km avenue and a two-story observation deck with views of the Central Mountain Range and Laonong River valley.",
+        "ogImageAlt": "Mahogany Avenue in Xinwei Forest Park",
+        "twitterTitle": "Xinwei Forest Park (Xinwei Nursery) - Hanyuan B&B",
+        "twitterDescription": "A Japanese-era nursery reborn as a 30-hectare mahogany forest—1,100 trees along a 2-km avenue and a two-story observation deck with views of the Central Mountain Range and Laonong River valley.",
+        "twitterImageAlt": "Mahogany Avenue in Xinwei Forest Park"
+      },
+      "vi": {
+        "title": "Công viên rừng Tân Vi (Vườn ươm Tân Vi) - Hanyuan B&B | Đại lộ gỗ gụ, sân thượng quan sát hai tầng, cổng Khu thắng cảnh quốc gia Mậu Lâm",
+        "description": "Công viên rừng Tân Vi, tiền thân là vườn ươm thời Nhật, diện tích khoảng 30 ha, trong công viên có hơn 1.100 cây gỗ gụ, hình thành đại lộ gỗ gụ dài 2 km. Sân thượng quan sát hai tầng có thể ngắm chân trời dãy núi trung tâm và thung lũng sông Lao Nông, là cửa ngõ của Khu thắng cảnh quốc gia Mậu Lâm, cũng là nơi tuyệt vời để ngắm lá đỏ mùa thu và tránh nóng mùa hè, chỉ cách Hanyuan B&B khoảng 25 phút lái xe.",
+        "keywords": "Công viên rừng Tân Vi,Vườn ươm Tân Vi,Đại lộ gỗ gụ,Khu thắng cảnh quốc gia Mậu Lâm,sân thượng quan sát hai tầng,điểm tham quan Mỹ Nùng,điểm tham quan Sâm Lâm,thung lũng sông Lao Nông,điểm tham quan gần Hanyuan",
+        "ogTitle": "Công viên rừng Tân Vi (Vườn ươm Tân Vi) - Hanyuan B&B",
+        "ogDescription": "Vườn ươm thời Nhật tái sinh thành khu rừng gỗ gụ 30 ha — 1.100 cây gỗ gụ dọc đại lộ 2 km và sân thượng hai tầng với tầm nhìn ra dãy núi trung tâm và thung lũng sông Lao Nông.",
+        "ogImageAlt": "Đại lộ gỗ gụ tại Công viên rừng Tân Vi",
+        "twitterTitle": "Công viên rừng Tân Vi (Vườn ươm Tân Vi) - Hanyuan B&B",
+        "twitterDescription": "Vườn ươm thời Nhật tái sinh thành khu rừng gỗ gụ 30 ha — 1.100 cây gỗ gụ dọc đại lộ 2 km và sân thượng hai tầng với tầm nhìn ra dãy núi trung tâm và thung lũng sông Lao Nông.",
+        "twitterImageAlt": "Đại lộ gỗ gụ tại Công viên rừng Tân Vi"
+      },
+      "fil": {
+        "title": "Xinwei Forest Park (Xinwei Nursery) - Hanyuan B&B | Mahogany Avenue, Two-Story Observation Deck, Maolin National Scenic Area Gateway",
+        "description": "Ang Xinwei Forest Park, dating Japanese-era nursery, ay sumasaklaw sa humigit-kumulang 30 hectares na may higit sa 1,100 mahogany trees na bumubuo ng 2-km Mahogany Avenue. Ang two-story observation deck ay may tanawin ng Central Mountain Range foothills at Laonong River valley, na ginagawa itong gateway ng Maolin National Scenic Area—perpekto para sa autumn foliage at summer escapes; ~25 minutes lang ang biyahe mula sa Hanyuan B&B.",
+        "keywords": "Xinwei Forest Park,Xinwei Nursery,Mahogany Avenue,Maolin National Scenic Area,two-story observation deck,Meinong scenic spot,Shanlin attraction,Laonong River valley,atraksyon malapit sa Hanyuan",
+        "ogTitle": "Xinwei Forest Park (Xinwei Nursery) - Hanyuan B&B",
+        "ogDescription": "Japanese-era nursery na muling nabuhay bilang 30-hectare mahogany forest—1,100 trees sa 2-km avenue at two-story observation deck na may tanawin ng Central Mountain Range at Laonong River valley.",
+        "ogImageAlt": "Mahogany Avenue sa Xinwei Forest Park",
+        "twitterTitle": "Xinwei Forest Park (Xinwei Nursery) - Hanyuan B&B",
+        "twitterDescription": "Japanese-era nursery na muling nabuhay bilang 30-hectare mahogany forest—1,100 trees sa 2-km avenue at two-story observation deck na may tanawin ng Central Mountain Range at Laonong River valley.",
+        "twitterImageAlt": "Mahogany Avenue sa Xinwei Forest Park"
+      },
+      "pt": {
+        "title": "Parque Florestal Xinwei (Viveiro Xinwei) - Hanyuan B&B | Avenida do Mogno, Mirante de Dois Andares, Portal da Área Turística Nacional de Maolin",
+        "description": "O Parque Florestal Xinwei, antes um viveiro da era japonesa, cobre cerca de 30 hectares com mais de 1.100 mogno formando uma avenida de 2 km. O mirante de dois andares oferece vistas da Serra Central e do vale do Rio Laonong, sendo o portal da Área Turística Nacional de Maolin — perfeito para folhagens de outono e refúgios de verão; a apenas ~25 minutos de carro da Hanyuan B&B.",
+        "keywords": "Parque Florestal Xinwei,Viveiro Xinwei,Avenida do Mogno,Área Turística Nacional Maolin,mirante de dois andares,atração Meinong,atração Shanlin,Vale do Rio Laonong,atrações próximas à Hanyuan",
+        "ogTitle": "Parque Florestal Xinwei (Viveiro Xinwei) - Hanyuan B&B",
+        "ogDescription": "Um viveiro da era japonesa renascido como floresta de mogno de 30 hectares — 1.100 árvores em uma avenida de 2 km e mirante de dois andares com vistas da Serra Central e do vale do Rio Laonong.",
+        "ogImageAlt": "Avenida do Mogno no Parque Florestal Xinwei",
+        "twitterTitle": "Parque Florestal Xinwei (Viveiro Xinwei) - Hanyuan B&B",
+        "twitterDescription": "Um viveiro da era japonesa renascido como floresta de mogno de 30 hectares — 1.100 árvores em uma avenida de 2 km e mirante de dois andares com vistas da Serra Central e do vale do Rio Laonong.",
+        "twitterImageAlt": "Avenida do Mogno no Parque Florestal Xinwei"
+      }
+    },
+    "destination-zhuzimen-power-plant.html": {
+      "en": {
+        "title": "Zhuzimen Power Plant - Hanyuan B&B | Taiwan's First Hydroelectric Plant, National Heritage, Baroque Architecture",
+        "description": "Zhuzimen Power Plant was completed in 1909 during the Japanese era and is Taiwan's first hydroelectric plant; in 2018 it was elevated to national heritage status. Its elegant three-story Baroque brick building originally supplied street lighting to Kaohsiung and now serves as a Taipower exhibition hall—preserving 1919 Siemens generators from Germany, the perfect place to learn Taiwan's electric-power history; one of Hanyuan B&B's top recommendations.",
+        "keywords": "Zhuzimen Power Plant,Meinong power plant,Taiwan first hydroelectric,national heritage,Baroque architecture,German generator,Taipower exhibition,Meinong heritage,Hanyuan B&B attraction",
+        "ogTitle": "Zhuzimen Power Plant - Hanyuan B&B",
+        "ogDescription": "Completed in 1909 during the Japanese era, Taiwan's first hydroelectric plant—now national heritage, with a three-story Baroque brick building and 1919 Siemens generators from Germany.",
+        "ogImageAlt": "Baroque architecture exterior of Zhuzimen Power Plant",
+        "twitterTitle": "Zhuzimen Power Plant - Hanyuan B&B",
+        "twitterDescription": "Completed in 1909 during the Japanese era, Taiwan's first hydroelectric plant—now national heritage, with a three-story Baroque brick building and 1919 Siemens generators from Germany.",
+        "twitterImageAlt": "Baroque architecture exterior of Zhuzimen Power Plant"
+      },
+      "vi": {
+        "title": "Nhà máy điện Trúc Tử Môn - Hanyuan B&B | Nhà máy thủy điện đầu tiên của Đài Loan, di tích quốc gia, kiến trúc Baroque",
+        "description": "Nhà máy điện Trúc Tử Môn hoàn thành năm 1909 dưới thời Nhật, là nhà máy thủy điện đầu tiên của Đài Loan; năm 2018 được nâng cấp thành di tích quốc gia. Tòa nhà gạch ba tầng kiến trúc Baroque thanh lịch ban đầu cung cấp điện chiếu sáng đường phố cho Cao Hùng, nay là phòng trưng bày của Đài Điện Lực, lưu giữ máy phát điện Siemens 1919 của Đức, là nơi lý tưởng để tìm hiểu lịch sử phát triển điện lực Đài Loan; một trong những đề xuất hàng đầu của Hanyuan B&B.",
+        "keywords": "Nhà máy điện Trúc Tử Môn,nhà máy điện Mỹ Nùng,nhà máy thủy điện đầu tiên Đài Loan,di tích quốc gia,kiến trúc Baroque,máy phát điện Đức,phòng trưng bày Đài Điện Lực,di sản Mỹ Nùng,điểm tham quan Hanyuan B&B",
+        "ogTitle": "Nhà máy điện Trúc Tử Môn - Hanyuan B&B",
+        "ogDescription": "Hoàn thành năm 1909 thời Nhật, nhà máy thủy điện đầu tiên của Đài Loan — nay là di tích quốc gia, với tòa nhà gạch Baroque ba tầng và máy phát điện Siemens 1919 từ Đức.",
+        "ogImageAlt": "Ngoại thất kiến trúc Baroque của Nhà máy điện Trúc Tử Môn",
+        "twitterTitle": "Nhà máy điện Trúc Tử Môn - Hanyuan B&B",
+        "twitterDescription": "Hoàn thành năm 1909 thời Nhật, nhà máy thủy điện đầu tiên của Đài Loan — nay là di tích quốc gia, với tòa nhà gạch Baroque ba tầng và máy phát điện Siemens 1919 từ Đức.",
+        "twitterImageAlt": "Ngoại thất kiến trúc Baroque của Nhà máy điện Trúc Tử Môn"
+      },
+      "fil": {
+        "title": "Zhuzimen Power Plant - Hanyuan B&B | Taiwan's First Hydroelectric Plant, National Heritage, Baroque Architecture",
+        "description": "Ang Zhuzimen Power Plant ay natapos noong 1909 noong Japanese era at ito ang unang hydroelectric plant ng Taiwan; noong 2018 ito ay itinaas sa national heritage status. Ang elegant three-story Baroque brick building ay orihinal na nagsu-supply ng street lighting sa Kaohsiung at ngayon ay nagsisilbing Taipower exhibition hall—nag-iingat ng 1919 Siemens generators mula sa Germany, perpektong lugar para matutunan ang kasaysayan ng electric-power ng Taiwan; isa sa pinakamainam na rekomendasyon ng Hanyuan B&B.",
+        "keywords": "Zhuzimen Power Plant,Meinong power plant,Taiwan first hydroelectric,national heritage,Baroque architecture,German generator,Taipower exhibition,Meinong heritage,Hanyuan B&B attraction",
+        "ogTitle": "Zhuzimen Power Plant - Hanyuan B&B",
+        "ogDescription": "Natangap noong 1909 noong Japanese era, ang unang hydroelectric plant ng Taiwan—national heritage na ngayon, na may three-story Baroque brick building at 1919 Siemens generators mula sa Germany.",
+        "ogImageAlt": "Baroque architecture exterior ng Zhuzimen Power Plant",
+        "twitterTitle": "Zhuzimen Power Plant - Hanyuan B&B",
+        "twitterDescription": "Natangap noong 1909 noong Japanese era, ang unang hydroelectric plant ng Taiwan—national heritage na ngayon, na may three-story Baroque brick building at 1919 Siemens generators mula sa Germany.",
+        "twitterImageAlt": "Baroque architecture exterior ng Zhuzimen Power Plant"
+      },
+      "pt": {
+        "title": "Usina Hidrelétrica Zhuzimen - Hanyuan B&B | Primeira Usina Hidrelétrica de Taiwan, Patrimônio Nacional, Arquitetura Barroca",
+        "description": "A Usina Zhuzimen foi concluída em 1909 na era japonesa e é a primeira hidrelétrica de Taiwan; em 2018 foi elevada a patrimônio nacional. O elegante edifício barroco de três andares em alvenaria originalmente fornecia iluminação pública para Kaohsiung e agora é o salão de exposições da Taipower — preservando geradores Siemens de 1919 vindos da Alemanha, o lugar perfeito para conhecer a história da eletricidade em Taiwan; uma das principais recomendações da Hanyuan B&B.",
+        "keywords": "Usina Zhuzimen,usina de Meinong,primeira hidrelétrica de Taiwan,patrimônio nacional,arquitetura barroca,gerador alemão,exposição Taipower,patrimônio Meinong,atração Hanyuan B&B",
+        "ogTitle": "Usina Hidrelétrica Zhuzimen - Hanyuan B&B",
+        "ogDescription": "Concluída em 1909 na era japonesa, a primeira hidrelétrica de Taiwan — agora patrimônio nacional, com edifício barroco de três andares em alvenaria e geradores Siemens de 1919 vindos da Alemanha.",
+        "ogImageAlt": "Exterior em arquitetura barroca da Usina Zhuzimen",
+        "twitterTitle": "Usina Hidrelétrica Zhuzimen - Hanyuan B&B",
+        "twitterDescription": "Concluída em 1909 na era japonesa, a primeira hidrelétrica de Taiwan — agora patrimônio nacional, com edifício barroco de três andares em alvenaria e geradores Siemens de 1919 vindos da Alemanha.",
+        "twitterImageAlt": "Exterior em arquitetura barroca da Usina Zhuzimen"
+      }
+    },
+    "destination.html": {
+      "en": {
+        "title": "Nearby Attractions Guide - Hanyuan B&B | ChiShan Old Street, Meinung Folk Village, Yuanxiangyuan Paper-Umbrella Village",
+        "description": "Hanyuan B&B's guide to nearby attractions—Meinung Folk Village, Meinung Lake, ChiShan Old Street, Yuanxiangyuan Paper-Umbrella Culture Village and the Hakka Cultural Museum—the first choice for an in-depth Meinong trip.",
+        "keywords": "Meinong attractions,Meinung Folk Village,Meinung Lake,ChiShan Old Street,Meinong travel,Kaohsiung Meinong attractions,attractions near Hanyuan",
+        "ogTitle": "Nearby Attractions Guide - Hanyuan B&B",
+        "ogDescription": "Explore Meinung Folk Village, Meinung Lake, ChiShan Old Street and other top Meinong attractions.",
+        "ogImageAlt": "Nearby attractions guide cover",
+        "twitterTitle": "Nearby Attractions Guide - Hanyuan B&B",
+        "twitterDescription": "Explore Meinung Folk Village, Meinung Lake, ChiShan Old Street and other top Meinong attractions.",
+        "twitterImageAlt": "Nearby attractions guide cover"
+      },
+      "vi": {
+        "title": "Hướng dẫn điểm tham quan lân cận - Hanyuan B&B | Phố cổ Kỳ Sơn, Làng dân gian Mỹ Nùng, Làng giấy Viên Hương Duyên",
+        "description": "Hướng dẫn các điểm tham quan du lịch lân cận của Hanyuan B&B: gần Làng dân gian Mỹ Nùng, Hồ Mỹ Nùng, Phố cổ Kỳ Sơn, Làng văn hóa dù giấy Viên Hương Duyên và Bảo tàng Văn hóa Khách Gia, lựa chọn hàng đầu cho hành trình khám phá sâu sắc Mỹ Nùng.",
+        "keywords": "điểm tham quan Mỹ Nùng,Làng dân gian Mỹ Nùng,Hồ Mỹ Nùng,Phố cổ Kỳ Sơn,du lịch Mỹ Nùng,điểm tham quan Mỹ Nùng Cao Hùng,điểm tham quan gần Hanyuan",
+        "ogTitle": "Hướng dẫn điểm tham quan lân cận - Hanyuan B&B",
+        "ogDescription": "Khám phá Làng dân gian Mỹ Nùng, Hồ Mỹ Nùng, Phố cổ Kỳ Sơn và các điểm tham quan hàng đầu khác của Mỹ Nùng.",
+        "ogImageAlt": "Bìa hướng dẫn điểm tham quan lân cận",
+        "twitterTitle": "Hướng dẫn điểm tham quan lân cận - Hanyuan B&B",
+        "twitterDescription": "Khám phá Làng dân gian Mỹ Nùng, Hồ Mỹ Nùng, Phố cổ Kỳ Sơn và các điểm tham quan hàng đầu khác của Mỹ Nùng.",
+        "twitterImageAlt": "Bìa hướng dẫn điểm tham quan lân cận"
+      },
+      "fil": {
+        "title": "Nearby Attractions Guide - Hanyuan B&B | ChiShan Old Street, Meinung Folk Village, Yuanxiangyuan Paper-Umbrella Village",
+        "description": "Gabay ng Hanyuan B&B sa mga kalapit na atraksyon—Meinung Folk Village, Meinung Lake, ChiShan Old Street, Yuanxiangyuan Paper-Umbrella Culture Village at Hakka Cultural Museum—ang pangunahing pagpipilian para sa malalim na paglalakbay sa Meinong.",
+        "keywords": "Meinong attractions,Meinung Folk Village,Meinung Lake,ChiShan Old Street,Meinong travel,Kaohsiung Meinong attractions,atraksyon malapit sa Hanyuan",
+        "ogTitle": "Nearby Attractions Guide - Hanyuan B&B",
+        "ogDescription": "Tuklasin ang Meinung Folk Village, Meinung Lake, ChiShan Old Street at iba pang mga nangungunang atraksyon ng Meinong.",
+        "ogImageAlt": "Cover ng nearby attractions guide",
+        "twitterTitle": "Nearby Attractions Guide - Hanyuan B&B",
+        "twitterDescription": "Tuklasin ang Meinung Folk Village, Meinung Lake, ChiShan Old Street at iba pang mga nangungunang atraksyon ng Meinong.",
+        "twitterImageAlt": "Cover ng nearby attractions guide"
+      },
+      "pt": {
+        "title": "Guia de Atrações Próximas - Hanyuan B&B | Rua Antiga de ChiShan, Vila Folclórica de Meinung, Vila do Guarda-Chuva Yuanxiangyuan",
+        "description": "Guia de atrações turísticas próximas da Hanyuan B&B: Vila Folclórica de Meinung, Lago Meinung, Rua Antiga de ChiShan, Vila Cultural do Guarda-Chuva Yuanxiangyuan e Museu Cultural Hakka — a primeira escolha para uma viagem aprofundada por Meinong.",
+        "keywords": "atrações Meinong,Vila Folclórica Meinung,Lago Meinung,Rua Antiga ChiShan,viagem Meinong,atrações Meinong Kaohsiung,atrações próximas à Hanyuan",
+        "ogTitle": "Guia de Atrações Próximas - Hanyuan B&B",
+        "ogDescription": "Explore a Vila Folclórica de Meinung, o Lago Meinung, a Rua Antiga de ChiShan e outras atrações imperdíveis de Meinong.",
+        "ogImageAlt": "Capa do guia de atrações próximas",
+        "twitterTitle": "Guia de Atrações Próximas - Hanyuan B&B",
+        "twitterDescription": "Explore a Vila Folclórica de Meinung, o Lago Meinung, a Rua Antiga de ChiShan e outras atrações imperdíveis de Meinong.",
+        "twitterImageAlt": "Capa do guia de atrações próximas"
+      }
+    },
+    "dorm.html": {
+      "en": {
+        "title": "Pipe Stargazing Room - Hanyuan B&B | Transparent Pipe Stargazing Suite, Private Bathroom & J1772 EV Charger",
+        "description": "Hanyuan B&B's signature Pipe Stargazing Room features a unique pipe-style structure with a transparent stargazing skylight, plus a private bathroom, air-conditioning and LCD TV. At night, simply open the skylight curtain and gaze at the stars from bed—a tranquil, nature-immersed Meinong holiday.",
+        "keywords": "pipe room,stargazing B&B,Meinong pipe room,Meinong stargazing,Meinong B&B,Kaohsiung stargazing B&B,pipe-house B&B,Hanyuan B&B,Meinong accommodation",
+        "ogTitle": "Pipe Stargazing Room - Hanyuan B&B",
+        "ogDescription": "Taiwan's unique transparent pipe stargazing room, with private bathroom, A/C and TV—gaze at the stars from bed.",
+        "ogImageAlt": "Pipe stargazing room cover",
+        "twitterTitle": "Pipe Stargazing Room - Hanyuan B&B",
+        "twitterDescription": "Taiwan's unique transparent pipe stargazing room, with private bathroom, A/C and TV—gaze at the stars from bed.",
+        "twitterImageAlt": "Pipe stargazing room cover"
+      },
+      "vi": {
+        "title": "Phòng sao trong ống - Hanyuan B&B | Phòng sao trong ống trong suốt, phòng tắm riêng & trạm sạc J1772",
+        "description": "Phòng sao trong ống độc đáo của Hanyuan B&B, với cấu trúc ống đặc biệt, có cửa sổ trời trong suốt để ngắm sao, trang bị phòng tắm riêng, máy lạnh và TV LCD. Ban đêm chỉ cần kéo rèm cửa sổ trời và ngắm bầu trời đầy sao ngay trên giường — trải nghiệm kỳ nghỉ yên bình, hòa mình vào thiên nhiên Mỹ Nùng.",
+        "keywords": "phòng ống,homestay ngắm sao,phòng ống Mỹ Nùng,ngắm sao Mỹ Nùng,homestay Mỹ Nùng,homestay ngắm sao Cao Hùng,homestay nhà ống,Hanyuan B&B,lưu trú Mỹ Nùng",
+        "ogTitle": "Phòng sao trong ống - Hanyuan B&B",
+        "ogDescription": "Phòng sao trong ống trong suốt độc đáo của Đài Loan, với phòng tắm riêng, máy lạnh và TV — ngắm sao ngay trên giường.",
+        "ogImageAlt": "Bìa phòng sao trong ống",
+        "twitterTitle": "Phòng sao trong ống - Hanyuan B&B",
+        "twitterDescription": "Phòng sao trong ống trong suốt độc đáo của Đài Loan, với phòng tắm riêng, máy lạnh và TV — ngắm sao ngay trên giường.",
+        "twitterImageAlt": "Bìa phòng sao trong ống"
+      },
+      "fil": {
+        "title": "Pipe Stargazing Room - Hanyuan B&B | Transparent Pipe Stargazing Suite, Private Bathroom at J1772 EV Charger",
+        "description": "Ang signature Pipe Stargazing Room ng Hanyuan B&B ay may natatanging pipe-style structure na may transparent stargazing skylight, kasama ang private bathroom, air-conditioning at LCD TV. Sa gabi, buksan lang ang skylight curtain at tignan ang mga bituin mula sa kama—isang tahimik, nature-immersed na Meinong holiday.",
+        "keywords": "pipe room,stargazing B&B,Meinong pipe room,Meinong stargazing,Meinong B&B,Kaohsiung stargazing B&B,pipe-house B&B,Hanyuan B&B,Meinong accommodation",
+        "ogTitle": "Pipe Stargazing Room - Hanyuan B&B",
+        "ogDescription": "Unique transparent pipe stargazing room ng Taiwan, na may private bathroom, A/C at TV—tignan ang mga bituin mula sa kama.",
+        "ogImageAlt": "Cover ng pipe stargazing room",
+        "twitterTitle": "Pipe Stargazing Room - Hanyuan B&B",
+        "twitterDescription": "Unique transparent pipe stargazing room ng Taiwan, na may private bathroom, A/C at TV—tignan ang mga bituin mula sa kama.",
+        "twitterImageAlt": "Cover ng pipe stargazing room"
+      },
+      "pt": {
+        "title": "Quarto Tubo de Observação de Estrelas - Hanyuan B&B | Suíte em Tubo Transparente para Estrelas, Banheiro Privativo e Carregador J1772",
+        "description": "O Quarto Tubo de Observação de Estrelas, marca registrada da Hanyuan B&B, apresenta uma estrutura única em formato de tubo com claraboia transparente para observar estrelas, além de banheiro privativo, ar-condicionado e TV LCD. À noite, basta abrir a cortina da claraboia e contemplar as estrelas a partir da cama — uma hospedagem tranquila e imersa na natureza em Meinong.",
+        "keywords": "quarto tubo,observação de estrelas,quarto tubo Meinong,observação de estrelas Meinong,pousada Meinong,pousada observação de estrelas Kaohsiung,pousada casa-tubo,Hanyuan B&B,hospedagem Meinong",
+        "ogTitle": "Quarto Tubo de Observação de Estrelas - Hanyuan B&B",
+        "ogDescription": "Quarto-tubo transparente único em Taiwan para observação de estrelas, com banheiro privativo, ar-condicionado e TV — contemple as estrelas a partir da cama.",
+        "ogImageAlt": "Capa do quarto-tubo de observação de estrelas",
+        "twitterTitle": "Quarto Tubo de Observação de Estrelas - Hanyuan B&B",
+        "twitterDescription": "Quarto-tubo transparente único em Taiwan para observação de estrelas, com banheiro privativo, ar-condicionado e TV — contemple as estrelas a partir da cama.",
+        "twitterImageAlt": "Capa do quarto-tubo de observação de estrelas"
+      }
+    },
+    "eco_room.html": {
+      "en": {
+        "title": "Sunny Business Room - Hanyuan B&B | Bright Business Double Suite",
+        "description": "Hanyuan B&B's Sunny Business Room provides abundant natural light and a comfortable double bed—ideal for business trips and couples' getaways, with a private bathroom, high-speed Wi-Fi and a comfortable writing desk.",
+        "keywords": "Sunny Business Room,Meinong double room,Meinong business accommodation,Meinong B&B,Kaohsiung Meinong accommodation,Hanyuan B&B,EV charger B&B",
+        "ogTitle": "Sunny Business Room - Hanyuan B&B",
+        "ogDescription": "Bright business double suite in a quiet setting, with private bathroom and Wi-Fi.",
+        "ogImageAlt": "Sunny Business Room cover",
+        "twitterTitle": "Sunny Business Room - Hanyuan B&B",
+        "twitterDescription": "Bright business double suite in a quiet setting, with private bathroom and Wi-Fi.",
+        "twitterImageAlt": "Sunny Business Room cover"
+      },
+      "vi": {
+        "title": "Phòng doanh nhân nắng ấm - Hanyuan B&B | Phòng đôi doanh nhân sáng sủa",
+        "description": "Phòng doanh nhân nắng ấm của Hanyuan B&B cung cấp ánh sáng tự nhiên dồi dào và giường đôi thoải mái, phù hợp cho các chuyến công tác và kỳ nghỉ của các cặp đôi, trang bị phòng tắm riêng, Wi-Fi tốc độ cao và bàn làm việc thoải mái.",
+        "keywords": "Phòng doanh nhân nắng ấm,phòng đôi Mỹ Nùng,lưu trú doanh nhân Mỹ Nùng,homestay Mỹ Nùng,lưu trú Mỹ Nùng Cao Hùng,Hanyuan B&B,homestay có trạm sạc",
+        "ogTitle": "Phòng doanh nhân nắng ấm - Hanyuan B&B",
+        "ogDescription": "Phòng đôi doanh nhân sáng sủa trong môi trường yên tĩnh, với phòng tắm riêng và Wi-Fi.",
+        "ogImageAlt": "Bìa Phòng doanh nhân nắng ấm",
+        "twitterTitle": "Phòng doanh nhân nắng ấm - Hanyuan B&B",
+        "twitterDescription": "Phòng đôi doanh nhân sáng sủa trong môi trường yên tĩnh, với phòng tắm riêng và Wi-Fi.",
+        "twitterImageAlt": "Bìa Phòng doanh nhân nắng ấm"
+      },
+      "fil": {
+        "title": "Sunny Business Room - Hanyuan B&B | Maliwanag na Business Double Suite",
+        "description": "Ang Sunny Business Room ng Hanyuan B&B ay nagbibigay ng masaganang natural light at komportableng double bed—perpekto para sa business trips at couples' getaways, na may private bathroom, high-speed Wi-Fi at komportableng writing desk.",
+        "keywords": "Sunny Business Room,Meinong double room,Meinong business accommodation,Meinong B&B,Kaohsiung Meinong accommodation,Hanyuan B&B,EV charger B&B",
+        "ogTitle": "Sunny Business Room - Hanyuan B&B",
+        "ogDescription": "Maliwanag na business double suite sa tahimik na setting, na may private bathroom at Wi-Fi.",
+        "ogImageAlt": "Cover ng Sunny Business Room",
+        "twitterTitle": "Sunny Business Room - Hanyuan B&B",
+        "twitterDescription": "Maliwanag na business double suite sa tahimik na setting, na may private bathroom at Wi-Fi.",
+        "twitterImageAlt": "Cover ng Sunny Business Room"
+      },
+      "pt": {
+        "title": "Quarto Empresarial Ensolarado - Hanyuan B&B | Suíte Dupla Empresarial Luminosa",
+        "description": "O Quarto Empresarial Ensolarado da Hanyuan B&B oferece luz natural abundante e cama de casal confortável — ideal para viagens de negócios e escapadas a dois, com banheiro privativo, Wi-Fi de alta velocidade e escrivaninha confortável.",
+        "keywords": "Quarto Empresarial Ensolarado,quarto de casal Meinong,hospedagem empresarial Meinong,pousada Meinong,hospedagem Meinong Kaohsiung,Hanyuan B&B,pousada com carregador EV",
+        "ogTitle": "Quarto Empresarial Ensolarado - Hanyuan B&B",
+        "ogDescription": "Suíte dupla empresarial luminosa em ambiente tranquilo, com banheiro privativo e Wi-Fi.",
+        "ogImageAlt": "Capa do Quarto Empresarial Ensolarado",
+        "twitterTitle": "Quarto Empresarial Ensolarado - Hanyuan B&B",
+        "twitterDescription": "Suíte dupla empresarial luminosa em ambiente tranquilo, com banheiro privativo e Wi-Fi.",
+        "twitterImageAlt": "Capa do Quarto Empresarial Ensolarado"
+      }
+    },
+    "elegant-double.html": {
+      "en": {
+        "title": "Elegant Double Room - Hanyuan B&B Yinshan Pavilion | Modern Wood & Bare-Concrete Suite with Tea Nook by Window",
+        "description": "Hanyuan B&B's Phase II 'Yinshan Pavilion' Elegant Double Room is designed for couples. The space blends warm wood with rugged bare concrete, fitted with a standard double bed and a wavy solid-wood headboard. In-room perks include a private bay-window tea nook, large smart TV, and a separate wet/dry bathroom with geometric art tiles and a smart bidet toilet—your quiet hillside retreat.",
+        "keywords": "Yinshan Pavilion,Phase II Yinshan Pavilion,Elegant Double Room,Meinong double room,Meinong couple room,Meinong couple accommodation,Meinong B&B,Kaohsiung B&B,Hanyuan B&B,Meinong accommodation",
+        "ogTitle": "Elegant Double Room - Hanyuan B&B Yinshan Pavilion",
+        "ogDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete double suite—private bay-window tea nook, separate wet/dry bathroom with art tiles and smart bidet.",
+        "ogImageAlt": "Elegant Double Room cover",
+        "twitterTitle": "Elegant Double Room - Hanyuan B&B Yinshan Pavilion",
+        "twitterDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete double suite—private bay-window tea nook, separate wet/dry bathroom with art tiles and smart bidet.",
+        "twitterImageAlt": "Elegant Double Room cover"
+      },
+      "vi": {
+        "title": "Phòng đôi thanh lịch - Hanyuan B&B Ẩn Sơn Quán | Phòng đôi gỗ-bê tông hiện đại, góc trà cạnh cửa sổ",
+        "description": "Phòng đôi thanh lịch của giai đoạn II 'Ẩn Sơn Quán' Hanyuan B&B được thiết kế cho các cặp đôi. Không gian kết hợp gỗ ấm áp với bê tông trần mạnh mẽ, trang bị giường đôi tiêu chuẩn và tấm đầu giường bằng gỗ nguyên khối dạng sóng. Tiện nghi trong phòng bao gồm góc trà cạnh cửa sổ cảnh quan riêng, TV thông minh cỡ lớn và phòng tắm khô-ướt riêng biệt với gạch hoa văn hình học và bồn cầu thông minh — kỳ nghỉ yên tĩnh giữa sườn đồi của bạn.",
+        "keywords": "Ẩn Sơn Quán,Ẩn Sơn Quán giai đoạn II,phòng đôi thanh lịch,phòng đôi Mỹ Nùng,phòng cặp đôi Mỹ Nùng,lưu trú cặp đôi Mỹ Nùng,homestay Mỹ Nùng,homestay Cao Hùng,Hanyuan B&B,lưu trú Mỹ Nùng",
+        "ogTitle": "Phòng đôi thanh lịch - Hanyuan B&B Ẩn Sơn Quán",
+        "ogDescription": "Giai đoạn II 'Ẩn Sơn Quán' phòng đôi gỗ-bê tông hiện đại — góc trà cạnh cửa sổ riêng, phòng tắm khô-ướt riêng biệt với gạch hoa văn và bồn cầu thông minh.",
+        "ogImageAlt": "Bìa Phòng đôi thanh lịch",
+        "twitterTitle": "Phòng đôi thanh lịch - Hanyuan B&B Ẩn Sơn Quán",
+        "twitterDescription": "Giai đoạn II 'Ẩn Sơn Quán' phòng đôi gỗ-bê tông hiện đại — góc trà cạnh cửa sổ riêng, phòng tắm khô-ướt riêng biệt với gạch hoa văn và bồn cầu thông minh.",
+        "twitterImageAlt": "Bìa Phòng đôi thanh lịch"
+      },
+      "fil": {
+        "title": "Elegant Double Room - Hanyuan B&B Yinshan Pavilion | Modern Wood & Bare-Concrete Suite with Tea Nook by Window",
+        "description": "Ang Phase II 'Yinshan Pavilion' Elegant Double Room ng Hanyuan B&B ay dinisenyo para sa mga couples. Pinaghalo ang mainit na kahoy at rugged bare concrete, na may standard double bed at wavy solid-wood headboard. Kasama sa in-room amenities ang private bay-window tea nook, large smart TV, at separate wet/dry bathroom na may geometric art tiles at smart bidet toilet—ang iyong tahimik na hillside retreat.",
+        "keywords": "Yinshan Pavilion,Phase II Yinshan Pavilion,Elegant Double Room,Meinong double room,Meinong couple room,Meinong couple accommodation,Meinong B&B,Kaohsiung B&B,Hanyuan B&B,Meinong accommodation",
+        "ogTitle": "Elegant Double Room - Hanyuan B&B Yinshan Pavilion",
+        "ogDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete double suite—private bay-window tea nook, separate wet/dry bathroom na may art tiles at smart bidet.",
+        "ogImageAlt": "Cover ng Elegant Double Room",
+        "twitterTitle": "Elegant Double Room - Hanyuan B&B Yinshan Pavilion",
+        "twitterDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete double suite—private bay-window tea nook, separate wet/dry bathroom na may art tiles at smart bidet.",
+        "twitterImageAlt": "Cover ng Elegant Double Room"
+      },
+      "pt": {
+        "title": "Quarto Duplo Elegante - Hanyuan B&B Pavilhão Yinshan | Suíte Moderna em Madeira e Concreto Aparente com Canto de Chá",
+        "description": "O Quarto Duplo Elegante do 'Pavilhão Yinshan' (Fase II) da Hanyuan B&B foi pensado para casais. O espaço combina madeira aconchegante com concreto aparente rústico, com cama de casal padrão e cabeceira de madeira maciça ondulada. Entre as comodidades estão um recanto de chá privativo na janela bay, smart TV grande e banheiro seco/molhado separado com azulejos geométricos e vaso sanitário com bidet inteligente — seu retiro tranquilo na encosta.",
+        "keywords": "Pavilhão Yinshan,Pavilhão Yinshan Fase II,Quarto Duplo Elegante,quarto de casal Meinong,quarto para casal Meinong,hospedagem para casais Meinong,pousada Meinong,pousada Kaohsiung,Hanyuan B&B,hospedagem Meinong",
+        "ogTitle": "Quarto Duplo Elegante - Hanyuan B&B Pavilhão Yinshan",
+        "ogDescription": "Suíte dupla moderna em madeira e concreto do 'Pavilhão Yinshan' (Fase II) — recanto de chá privativo na janela, banheiro seco/molhado separado com azulejos artísticos e bidet inteligente.",
+        "ogImageAlt": "Capa do Quarto Duplo Elegante",
+        "twitterTitle": "Quarto Duplo Elegante - Hanyuan B&B Pavilhão Yinshan",
+        "twitterDescription": "Suíte dupla moderna em madeira e concreto do 'Pavilhão Yinshan' (Fase II) — recanto de chá privativo na janela, banheiro seco/molhado separado com azulejos artísticos e bidet inteligente.",
+        "twitterImageAlt": "Capa do Quarto Duplo Elegante"
+      }
+    },
+    "elegant-triple.html": {
+      "en": {
+        "title": "Elegant Triple Room - Hanyuan B&B Yinshan Pavilion | Modern Wood & Bare-Concrete Suite, One Queen + One Single, Bright & Airy",
+        "description": "Hanyuan B&B's Phase II 'Yinshan Pavilion' Elegant Triple Room is thoughtfully planned for three travelers, small families or close friends. Modern bare-concrete wood-grain walls pair with warm solid-wood furniture; the room is fitted with one queen bed and one single bed. The bright, airy layout comes with a separate wet/dry tile bathroom, smart bidet toilet and smart connected TV—enjoy a quiet, leisurely holiday.",
+        "keywords": "Yinshan Pavilion,Phase II Yinshan Pavilion,Elegant Triple Room,Meinong triple room,Meinong triple accommodation,Meinong small family stay,Meinong B&B,Kaohsiung B&B,Hanyuan B&B,Meinong accommodation",
+        "ogTitle": "Elegant Triple Room - Hanyuan B&B Yinshan Pavilion",
+        "ogDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete triple suite—one queen + one single, with separate wet/dry bathroom and bidet.",
+        "ogImageAlt": "Elegant Triple Room cover",
+        "twitterTitle": "Elegant Triple Room - Hanyuan B&B Yinshan Pavilion",
+        "twitterDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete triple suite—one queen + one single, with separate wet/dry bathroom and bidet.",
+        "twitterImageAlt": "Elegant Triple Room cover"
+      },
+      "vi": {
+        "title": "Phòng ba thanh lịch - Hanyuan B&B Ẩn Sơn Quán | Phòng ba gỗ-bê tông hiện đại, một queen + một đơn, sáng sủa và thoáng",
+        "description": "Phòng ba thanh lịch của giai đoạn II 'Ẩn Sơn Quán' Hanyuan B&B được lên kế hoạch chu đáo cho ba du khách, gia đình nhỏ hoặc bạn thân. Tường bê tông vân gỗ hiện đại kết hợp với đồ nội thất bằng gỗ nguyên khối ấm áp; phòng được trang bị một giường queen và một giường đơn. Bố cục sáng sủa, thoáng đãng đi kèm phòng tắm khô-ướt riêng biệt với gạch hoa văn, bồn cầu thông minh và TV thông minh kết nối — tận hưởng kỳ nghỉ yên tĩnh, thư thái.",
+        "keywords": "Ẩn Sơn Quán,Ẩn Sơn Quán giai đoạn II,phòng ba thanh lịch,phòng ba Mỹ Nùng,lưu trú ba người Mỹ Nùng,lưu trú gia đình nhỏ Mỹ Nùng,homestay Mỹ Nùng,homestay Cao Hùng,Hanyuan B&B,lưu trú Mỹ Nùng",
+        "ogTitle": "Phòng ba thanh lịch - Hanyuan B&B Ẩn Sơn Quán",
+        "ogDescription": "Giai đoạn II 'Ẩn Sơn Quán' phòng ba gỗ-bê tông hiện đại — một queen + một đơn, với phòng tắm khô-ướt riêng biệt và bồn cầu thông minh.",
+        "ogImageAlt": "Bìa Phòng ba thanh lịch",
+        "twitterTitle": "Phòng ba thanh lịch - Hanyuan B&B Ẩn Sơn Quán",
+        "twitterDescription": "Giai đoạn II 'Ẩn Sơn Quán' phòng ba gỗ-bê tông hiện đại — một queen + một đơn, với phòng tắm khô-ướt riêng biệt và bồn cầu thông minh.",
+        "twitterImageAlt": "Bìa Phòng ba thanh lịch"
+      },
+      "fil": {
+        "title": "Elegant Triple Room - Hanyuan B&B Yinshan Pavilion | Modern Wood & Bare-Concrete Suite, One Queen + One Single, Maliwanag at Maaliwalas",
+        "description": "Ang Phase II 'Yinshan Pavilion' Elegant Triple Room ng Hanyuan B&B ay maingat na dinisenyo para sa tatlong manlalakbay, maliit na pamilya o malapit na kaibigan. Pinaghalo ang modern bare-concrete wood-grain walls at warm solid-wood furniture; ang kuwarto ay may isang queen bed at isang single bed. Ang maliwanag at maaliwalas na layout ay may separate wet/dry tile bathroom, smart bidet toilet at smart connected TV—mag-enjoy sa tahimik at leisurely na holiday.",
+        "keywords": "Yinshan Pavilion,Phase II Yinshan Pavilion,Elegant Triple Room,Meinong triple room,Meinong triple accommodation,Meinong small family stay,Meinong B&B,Kaohsiung B&B,Hanyuan B&B,Meinong accommodation",
+        "ogTitle": "Elegant Triple Room - Hanyuan B&B Yinshan Pavilion",
+        "ogDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete triple suite—one queen + one single, na may separate wet/dry bathroom at bidet.",
+        "ogImageAlt": "Cover ng Elegant Triple Room",
+        "twitterTitle": "Elegant Triple Room - Hanyuan B&B Yinshan Pavilion",
+        "twitterDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete triple suite—one queen + one single, na may separate wet/dry bathroom at bidet.",
+        "twitterImageAlt": "Cover ng Elegant Triple Room"
+      },
+      "pt": {
+        "title": "Quarto Triplo Elegante - Hanyuan B&B Pavilhão Yinshan | Suíte Moderna em Madeira e Concreto Aparente, Uma Queen + Uma Solteiro, Luminosa e Arejada",
+        "description": "O Quarto Triplo Elegante do 'Pavilhão Yinshan' (Fase II) da Hanyuan B&B foi cuidadosamente planejado para três viajantes, famílias pequenas ou amigos próximos. Paredes modernas em concreto aparente com veios de madeira combinam com móveis em madeira maciça; o quarto conta com uma cama queen e uma cama de solteiro. O layout claro e arejado vem com banheiro seco/molhado separado em azulejos, vaso com bidet inteligente e smart TV conectada — aproveite uma estadia tranquila e relaxada.",
+        "keywords": "Pavilhão Yinshan,Pavilhão Yinshan Fase II,Quarto Triplo Elegante,quarto triplo Meinong,hospedagem tripla Meinong,estadia família pequena Meinong,pousada Meinong,pousada Kaohsiung,Hanyuan B&B,hospedagem Meinong",
+        "ogTitle": "Quarto Triplo Elegante - Hanyuan B&B Pavilhão Yinshan",
+        "ogDescription": "Suíte tripla moderna em madeira e concreto do 'Pavilhão Yinshan' (Fase II) — uma queen + uma solteiro, com banheiro seco/molhado separado e bidet.",
+        "ogImageAlt": "Capa do Quarto Triplo Elegante",
+        "twitterTitle": "Quarto Triplo Elegante - Hanyuan B&B Pavilhão Yinshan",
+        "twitterDescription": "Suíte tripla moderna em madeira e concreto do 'Pavilhão Yinshan' (Fase II) — uma queen + uma solteiro, com banheiro seco/molhado separado e bidet.",
+        "twitterImageAlt": "Capa do Quarto Triplo Elegante"
+      }
+    },
+    "family.html": {
+      "en": {
+        "title": "Japanese-Style View Room - Hanyuan B&B | Spacious Tatami Family Room",
+        "description": "Hanyuan B&B's Japanese-Style View Room offers a warm, spacious tatami space for family and friends to gather. The room opens to sweeping views of Meinong's countryside and mountains, with a private bathroom and heating/cooling.",
+        "keywords": "Japanese-style view room,Meinong family room,Meinong 4-person room,Meinong B&B,Kaohsiung family B&B,Hanyuan B&B,Meinong Japanese-style room,Meinong whole-villa stay",
+        "ogTitle": "Japanese-Style View Room - Hanyuan B&B",
+        "ogDescription": "Warm, spacious Japanese-style view room with sweeping countryside and mountain views—the first choice for family vacations.",
+        "ogImageAlt": "Japanese-Style View Room cover",
+        "twitterTitle": "Japanese-Style View Room - Hanyuan B&B",
+        "twitterDescription": "Warm, spacious Japanese-style view room with sweeping countryside and mountain views—the first choice for family vacations.",
+        "twitterImageAlt": "Japanese-Style View Room cover"
+      },
+      "vi": {
+        "title": "Phòng phong cách Nhật có cảnh quan - Hanyuan B&B | Phòng gia đình Tatami rộng rãi",
+        "description": "Phòng phong cách Nhật có cảnh quan của Hanyuan B&B cung cấp không gian Tatami ấm áp, rộng rãi để gia đình và bạn bè quây quần. Phòng có tầm nhìn bao quát ra nông thôn Mỹ Nùng và những ngọn núi, trang bị phòng tắm riêng và điều hòa nóng lạnh.",
+        "keywords": "phòng phong cách Nhật có cảnh quan,phòng gia đình Mỹ Nùng,phòng 4 người Mỹ Nùng,homestay Mỹ Nùng,homestay gia đình Cao Hùng,Hanyuan B&B,phòng kiểu Nhật Mỹ Nùng,lưu trú thuê nguyên biệt thự Mỹ Nùng",
+        "ogTitle": "Phòng phong cách Nhật có cảnh quan - Hanyuan B&B",
+        "ogDescription": "Phòng phong cách Nhật ấm áp, rộng rãi với tầm nhìn ra nông thôn và núi — lựa chọn hàng đầu cho kỳ nghỉ gia đình.",
+        "ogImageAlt": "Bìa Phòng phong cách Nhật có cảnh quan",
+        "twitterTitle": "Phòng phong cách Nhật có cảnh quan - Hanyuan B&B",
+        "twitterDescription": "Phòng phong cách Nhật ấm áp, rộng rãi với tầm nhìn ra nông thôn và núi — lựa chọn hàng đầu cho kỳ nghỉ gia đình.",
+        "twitterImageAlt": "Bìa Phòng phong cách Nhật có cảnh quan"
+      },
+      "fil": {
+        "title": "Japanese-Style View Room - Hanyuan B&B | Malawak na Tatami Family Room",
+        "description": "Ang Japanese-Style View Room ng Hanyuan B&B ay nag-aalok ng mainit at malawak na tatami space para sa pagtitipon ng pamilya at mga kaibigan. Ang kuwarto ay may sweeping views ng countryside ng Meinong at mga bundok, na may private bathroom at heating/cooling.",
+        "keywords": "Japanese-style view room,Meinong family room,Meinong 4-person room,Meinong B&B,Kaohsiung family B&B,Hanyuan B&B,Meinong Japanese-style room,Meinong whole-villa stay",
+        "ogTitle": "Japanese-Style View Room - Hanyuan B&B",
+        "ogDescription": "Mainit at malawak na Japanese-style view room na may sweeping countryside at mountain views—pinakamainam na pagpipilian para sa family vacations.",
+        "ogImageAlt": "Cover ng Japanese-Style View Room",
+        "twitterTitle": "Japanese-Style View Room - Hanyuan B&B",
+        "twitterDescription": "Mainit at malawak na Japanese-style view room na may sweeping countryside at mountain views—pinakamainam na pagpipilian para sa family vacations.",
+        "twitterImageAlt": "Cover ng Japanese-Style View Room"
+      },
+      "pt": {
+        "title": "Quarto Vista Estilo Japonês - Hanyuan B&B | Amplo Quarto Familiar Tatami",
+        "description": "O Quarto Vista Estilo Japonês da Hanyuan B&B oferece um espaço tatami espaçoso e acolhedor para reunir família e amigos. O quarto abre-se para vistas amplas do campo e das montanhas de Meinong, com banheiro privativo e aquecimento/refrigeração.",
+        "keywords": "quarto vista estilo japonês,quarto familiar Meinong,quarto 4 pessoas Meinong,pousada Meinong,pousada familiar Kaohsiung,Hanyuan B&B,quarto japonês Meinong,estadia vila inteira Meinong",
+        "ogTitle": "Quarto Vista Estilo Japonês - Hanyuan B&B",
+        "ogDescription": "Quarto estilo japonês acolhedor e espaçoso com vistas do campo e da montanha — a primeira escolha para férias em família.",
+        "ogImageAlt": "Capa do Quarto Vista Estilo Japonês",
+        "twitterTitle": "Quarto Vista Estilo Japonês - Hanyuan B&B",
+        "twitterDescription": "Quarto estilo japonês acolhedor e espaçoso com vistas do campo e da montanha — a primeira escolha para férias em família.",
+        "twitterImageAlt": "Capa do Quarto Vista Estilo Japonês"
+      }
+    },
+    "garden-view-double-small.html": {
+      "en": {
+        "title": "Garden-View Double Room (Small) - Hanyuan B&B Yinshan Pavilion | Modern Wood & Bare-Concrete Suite, Floor-to-Ceiling Window over Fields and Mountains",
+        "description": "Hanyuan B&B's Phase II 'Yinshan Pavilion' Garden-View Double Room (Small) is designed for couples. The understated wood-grain concrete walls pair with warm solid-wood furnishings, fitted with a standard double bed and an accent lake-green armchair. A floor-to-ceiling window frames Meinong's countryside and mountain ridges, plus a modern wet/dry bathroom, bidet, exterior ventilation window and smart LCD TV—enjoy a romantic, quiet retreat.",
+        "keywords": "Yinshan Pavilion,Phase II Yinshan Pavilion,Garden-View Double,Meinong double room,Meinong couple room,Meinong couple stay,Meinong view room,Meinong B&B,Kaohsiung B&B,Hanyuan B&B",
+        "ogTitle": "Garden-View Double Room (Small) - Hanyuan B&B Yinshan Pavilion",
+        "ogDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete double room—private balcony with Meinong mountain and field views, with separate wet/dry bathroom and bidet.",
+        "ogImageAlt": "Garden-View Double Room (Small) cover",
+        "twitterTitle": "Garden-View Double Room (Small) - Hanyuan B&B Yinshan Pavilion",
+        "twitterDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete double room—private balcony with Meinong mountain and field views, with separate wet/dry bathroom and bidet.",
+        "twitterImageAlt": "Garden-View Double Room (Small) cover"
+      },
+      "vi": {
+        "title": "Phòng đôi nhìn vườn (nhỏ) - Hanyuan B&B Ẩn Sơn Quán | Phòng đôi gỗ-bê tông hiện đại, cửa sổ kính lớn nhìn cánh đồng và mây núi",
+        "description": "Phòng đôi nhìn vườn (nhỏ) của giai đoạn II 'Ẩn Sơn Quán' Hanyuan B&B được thiết kế cho các cặp đôi. Tường bê tông vân gỗ giản dị kết hợp với đồ nội thất bằng gỗ nguyên khối ấm áp, trang bị giường đôi tiêu chuẩn và ghế tay điểm nhấn màu xanh hồ. Cửa sổ kính lớn lấy khung cảnh nông thôn Mỹ Nùng và dãy núi, cùng phòng tắm khô-ướt hiện đại, bồn cầu thông minh, cửa sổ thông gió ra ngoài và TV LCD thông minh — tận hưởng kỳ nghỉ lãng mạn, yên tĩnh.",
+        "keywords": "Ẩn Sơn Quán,Ẩn Sơn Quán giai đoạn II,phòng đôi nhìn vườn,phòng đôi Mỹ Nùng,phòng hai người Mỹ Nùng,lưu trú cặp đôi Mỹ Nùng,phòng cảnh quan Mỹ Nùng,homestay Mỹ Nùng,homestay Cao Hùng,Hanyuan B&B",
+        "ogTitle": "Phòng đôi nhìn vườn (nhỏ) - Hanyuan B&B Ẩn Sơn Quán",
+        "ogDescription": "Giai đoạn II 'Ẩn Sơn Quán' phòng đôi gỗ-bê tông hiện đại — ban công riêng với tầm nhìn ra núi và cánh đồng Mỹ Nùng, với phòng tắm khô-ướt riêng biệt và bồn cầu thông minh.",
+        "ogImageAlt": "Bìa Phòng đôi nhìn vườn (nhỏ)",
+        "twitterTitle": "Phòng đôi nhìn vườn (nhỏ) - Hanyuan B&B Ẩn Sơn Quán",
+        "twitterDescription": "Giai đoạn II 'Ẩn Sơn Quán' phòng đôi gỗ-bê tông hiện đại — ban công riêng với tầm nhìn ra núi và cánh đồng Mỹ Nùng, với phòng tắm khô-ướt riêng biệt và bồn cầu thông minh.",
+        "twitterImageAlt": "Bìa Phòng đôi nhìn vườn (nhỏ)"
+      },
+      "fil": {
+        "title": "Garden-View Double Room (Small) - Hanyuan B&B Yinshan Pavilion | Modern Wood & Bare-Concrete Suite, Floor-to-Ceiling Window over Fields and Mountains",
+        "description": "Ang Phase II 'Yinshan Pavilion' Garden-View Double Room (Small) ng Hanyuan B&B ay dinisenyo para sa mga couples. Pinaghalo ang understated wood-grain concrete walls at warm solid-wood furnishings, na may standard double bed at accent lake-green armchair. Ang floor-to-ceiling window ay nag-frame ng countryside ng Meinong at mountain ridges, kasama ang modern wet/dry bathroom, bidet, exterior ventilation window at smart LCD TV—mag-enjoy sa romantic at tahimik na retreat.",
+        "keywords": "Yinshan Pavilion,Phase II Yinshan Pavilion,Garden-View Double,Meinong double room,Meinong couple room,Meinong couple stay,Meinong view room,Meinong B&B,Kaohsiung B&B,Hanyuan B&B",
+        "ogTitle": "Garden-View Double Room (Small) - Hanyuan B&B Yinshan Pavilion",
+        "ogDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete double room—private balcony na may Meinong mountain at field views, na may separate wet/dry bathroom at bidet.",
+        "ogImageAlt": "Cover ng Garden-View Double Room (Small)",
+        "twitterTitle": "Garden-View Double Room (Small) - Hanyuan B&B Yinshan Pavilion",
+        "twitterDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete double room—private balcony na may Meinong mountain at field views, na may separate wet/dry bathroom at bidet.",
+        "twitterImageAlt": "Cover ng Garden-View Double Room (Small)"
+      },
+      "pt": {
+        "title": "Quarto Duplo Vista Jardim (Pequeno) - Hanyuan B&B Pavilhão Yinshan | Suíte Moderna em Madeira e Concreto Aparente, Janela do Chão ao Teto sobre Campos e Montanhas",
+        "description": "O Quarto Duplo Vista Jardim (Pequeno) do 'Pavilhão Yinshan' (Fase II) da Hanyuan B&B foi pensado para casais. As paredes discretas em concreto com veios de madeira combinam com mobília em madeira maciça, com cama de casal padrão e poltrona de destaque verde-lago. Uma janela do chão ao teto emoldura o campo e as cristas montanhosas de Meinong, além de banheiro moderno seco/molhado, bidet, janela de ventilação exterior e smart TV LCD — aproveite um retiro romântico e silencioso.",
+        "keywords": "Pavilhão Yinshan,Pavilhão Yinshan Fase II,Quarto Duplo Vista Jardim,quarto de casal Meinong,quarto para casal Meinong,estadia para casais Meinong,quarto com vista Meinong,pousada Meinong,pousada Kaohsiung,Hanyuan B&B",
+        "ogTitle": "Quarto Duplo Vista Jardim (Pequeno) - Hanyuan B&B Pavilhão Yinshan",
+        "ogDescription": "Suíte dupla moderna em madeira e concreto do 'Pavilhão Yinshan' (Fase II) — varanda privativa com vistas do campo e da montanha de Meinong, com banheiro seco/molhado separado e bidet.",
+        "ogImageAlt": "Capa do Quarto Duplo Vista Jardim (Pequeno)",
+        "twitterTitle": "Quarto Duplo Vista Jardim (Pequeno) - Hanyuan B&B Pavilhão Yinshan",
+        "twitterDescription": "Suíte dupla moderna em madeira e concreto do 'Pavilhão Yinshan' (Fase II) — varanda privativa com vistas do campo e da montanha de Meinong, com banheiro seco/molhado separado e bidet.",
+        "twitterImageAlt": "Capa do Quarto Duplo Vista Jardim (Pequeno)"
+      }
+    },
+    "garden-view-quad-large.html": {
+      "en": {
+        "title": "Garden-View Quad Room (Large) - Hanyuan B&B Yinshan Pavilion | Spacious Two-Bed Family Suite with Lounge Area, Floor-to-Ceiling Mountain Window",
+        "description": "Hanyuan B&B's Phase II 'Yinshan Pavilion' Garden-View Quad Room (Large) offers a more expansive living layout. Bare-concrete walls pair with warm wood and a retro arched rattan screen; the room is fitted with two standard queen beds and an independent living-area sofa. A large floor-to-ceiling window frames Meinong's countryside and mountains, plus a wet/dry bathroom, bidet and bright ventilation window—delivering the highest-quality slow-travel retreat for families and friends.",
+        "keywords": "Yinshan Pavilion,Phase II Yinshan Pavilion,Garden-View Quad Room,Meinong quad room,Meinong family room,Meinong large quad,Meinong view room,Meinong B&B,Kaohsiung B&B,Hanyuan B&B,Meinong accommodation",
+        "ogTitle": "Garden-View Quad Room (Large) - Hanyuan B&B Yinshan Pavilion",
+        "ogDescription": "Phase II 'Yinshan Pavilion' spacious two-bed quad room—private sofa area and arched rattan screen, with floor-to-ceiling balcony framing Meinong mountain views, separate wet/dry bathroom and bidet.",
+        "ogImageAlt": "Garden-View Quad Room (Large) cover",
+        "twitterTitle": "Garden-View Quad Room (Large) - Hanyuan B&B Yinshan Pavilion",
+        "twitterDescription": "Phase II 'Yinshan Pavilion' spacious two-bed quad room—private sofa area and arched rattan screen, with floor-to-ceiling balcony framing Meinong mountain views, separate wet/dry bathroom and bidet.",
+        "twitterImageAlt": "Garden-View Quad Room (Large) cover"
+      },
+      "vi": {
+        "title": "Phòng bốn người nhìn vườn (lớn) - Hanyuan B&B Ẩn Sơn Quán | Phòng hai giường gia đình rộng rãi có khu phòng khách, cửa sổ kính lớn nhìn núi",
+        "description": "Phòng bốn người nhìn vườn (lớn) của giai đoạn II 'Ẩn Sơn Quán' Hanyuan B&B sở hữu bố cục sinh hoạt rộng rãi hơn. Tường bê tông kết hợp với gỗ ấm áp và vách mây tre hình vòm cổ điển; phòng được trang bị hai giường queen tiêu chuẩn và khu phòng khách với sofa riêng. Cửa sổ kính lớn lấy khung cảnh nông thôn Mỹ Nùng và núi non, cùng phòng tắm khô-ướt, bồn cầu thông minh và cửa sổ thông gió sáng sủa — mang đến trải nghiệm nghỉ dưỡng chậm rãi chất lượng cao nhất cho gia đình và bạn bè.",
+        "keywords": "Ẩn Sơn Quán,Ẩn Sơn Quán giai đoạn II,phòng bốn người nhìn vườn,phòng bốn Mỹ Nùng,phòng gia đình Mỹ Nùng,phòng bốn lớn Mỹ Nùng,phòng cảnh quan Mỹ Nùng,homestay Mỹ Nùng,homestay Cao Hùng,Hanyuan B&B,lưu trú Mỹ Nùng",
+        "ogTitle": "Phòng bốn người nhìn vườn (lớn) - Hanyuan B&B Ẩn Sơn Quán",
+        "ogDescription": "Giai đoạn II 'Ẩn Sơn Quán' phòng bốn người hai giường rộng rãi — khu sofa riêng và vách mây tre hình vòm, với ban công kính lớn lấy khung cảnh núi Mỹ Nùng, phòng tắm khô-ướt riêng biệt và bồn cầu thông minh.",
+        "ogImageAlt": "Bìa Phòng bốn người nhìn vườn (lớn)",
+        "twitterTitle": "Phòng bốn người nhìn vườn (lớn) - Hanyuan B&B Ẩn Sơn Quán",
+        "twitterDescription": "Giai đoạn II 'Ẩn Sơn Quán' phòng bốn người hai giường rộng rãi — khu sofa riêng và vách mây tre hình vòm, với ban công kính lớn lấy khung cảnh núi Mỹ Nùng, phòng tắm khô-ướt riêng biệt và bồn cầu thông minh.",
+        "twitterImageAlt": "Bìa Phòng bốn người nhìn vườn (lớn)"
+      },
+      "fil": {
+        "title": "Garden-View Quad Room (Large) - Hanyuan B&B Yinshan Pavilion | Malawak na Two-Bed Family Suite na may Lounge Area, Floor-to-Ceiling Mountain Window",
+        "description": "Ang Phase II 'Yinshan Pavilion' Garden-View Quad Room (Large) ng Hanyuan B&B ay nag-aalok ng mas expansive living layout. Pinaghalo ang bare-concrete walls at warm wood at retro arched rattan screen; ang kuwarto ay may dalawang standard queen beds at independent living-area sofa. Ang malaking floor-to-ceiling window ay nag-frame ng countryside ng Meinong at mga bundok, kasama ang wet/dry bathroom, bidet at bright ventilation window—naghahatid ng pinakamataas na kalidad na slow-travel retreat para sa mga pamilya at kaibigan.",
+        "keywords": "Yinshan Pavilion,Phase II Yinshan Pavilion,Garden-View Quad Room,Meinong quad room,Meinong family room,Meinong large quad,Meinong view room,Meinong B&B,Kaohsiung B&B,Hanyuan B&B,Meinong accommodation",
+        "ogTitle": "Garden-View Quad Room (Large) - Hanyuan B&B Yinshan Pavilion",
+        "ogDescription": "Phase II 'Yinshan Pavilion' malawak na two-bed quad room—private sofa area at arched rattan screen, na may floor-to-ceiling balcony na nag-frame ng Meinong mountain views, separate wet/dry bathroom at bidet.",
+        "ogImageAlt": "Cover ng Garden-View Quad Room (Large)",
+        "twitterTitle": "Garden-View Quad Room (Large) - Hanyuan B&B Yinshan Pavilion",
+        "twitterDescription": "Phase II 'Yinshan Pavilion' malawak na two-bed quad room—private sofa area at arched rattan screen, na may floor-to-ceiling balcony na nag-frame ng Meinong mountain views, separate wet/dry bathroom at bidet.",
+        "twitterImageAlt": "Cover ng Garden-View Quad Room (Large)"
+      },
+      "pt": {
+        "title": "Quarto Quádruplo Vista Jardim (Grande) - Hanyuan B&B Pavilhão Yinshan | Espaçosa Suíte Familiar com Duas Camas e Sala, Janela do Chão ao Tecto para a Montanha",
+        "description": "O Quarto Quádruplo Vista Jardim (Grande) do 'Pavilhão Yinshan' (Fase II) da Hanyuan B&B oferece um layout de convivência mais amplo. Paredes em concreto aparente combinam com madeira quente e uma tela de vime em arco retrô; o quarto conta com duas camas queen padrão e um sofá independente na sala. Uma grande janela do chão ao teto emoldura o campo e as montanhas de Meinong, além de banheiro seco/molhado, bidet e janela de ventilação ampla — o mais alto padrão de retiro slow-travel para famílias e amigos.",
+        "keywords": "Pavilhão Yinshan,Pavilhão Yinshan Fase II,Quarto Quádruplo Vista Jardim,quarto quádruplo Meinong,quarto familiar Meinong,quarto quádruplo grande Meinong,quarto com vista Meinong,pousada Meinong,pousada Kaohsiung,Hanyuan B&B,hospedagem Meinong",
+        "ogTitle": "Quarto Quádruplo Vista Jardim (Grande) - Hanyuan B&B Pavilhão Yinshan",
+        "ogDescription": "Suíte quádrupla espaçosa com duas camas do 'Pavilhão Yinshan' (Fase II) — área de sofá privativa e tela de vime em arco, com varanda do chão ao teto emoldurando a vista da montanha de Meinong, banheiro seco/molhado separado e bidet.",
+        "ogImageAlt": "Capa do Quarto Quádruplo Vista Jardim (Grande)",
+        "twitterTitle": "Quarto Quádruplo Vista Jardim (Grande) - Hanyuan B&B Pavilhão Yinshan",
+        "twitterDescription": "Suíte quádrupla espaçosa com duas camas do 'Pavilhão Yinshan' (Fase II) — área de sofá privativa e tela de vime em arco, com varanda do chão ao teto emoldurando a vista da montanha de Meinong, banheiro seco/molhado separado e bidet.",
+        "twitterImageAlt": "Capa do Quarto Quádruplo Vista Jardim (Grande)"
+      }
+    },
+    "garden-view-quad-small.html": {
+      "en": {
+        "title": "Garden-View Quad Room (Small) - Hanyuan B&B Yinshan Pavilion | Modern Wood & Bare-Concrete Two-Bed Room with Countryside Window",
+        "description": "Hanyuan B&B's Phase II 'Yinshan Pavilion' Garden-View Quad Room (Small) uses natural wood-grain concrete walls and warm wood furnishings, fitted with two standard queen beds and an independent balcony. A floor-to-ceiling window frames Meinong's countryside and mountain ridges, plus a modern wet/dry bathroom, bidet and smart LCD TV—a comfortable, quiet slow-travel retreat for families and friends.",
+        "keywords": "Yinshan Pavilion,Phase II Yinshan Pavilion,Garden-View Quad Room,Meinong quad room,Meinong family room,Meinong view room,Meinong two-bed room,Meinong B&B,Kaohsiung B&B,Hanyuan B&B,Meinong accommodation",
+        "ogTitle": "Garden-View Quad Room (Small) - Hanyuan B&B Yinshan Pavilion",
+        "ogDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete two-bed room—private balcony with Meinong mountain and field views, with separate wet/dry bathroom and bidet.",
+        "ogImageAlt": "Garden-View Quad Room (Small) cover",
+        "twitterTitle": "Garden-View Quad Room (Small) - Hanyuan B&B Yinshan Pavilion",
+        "twitterDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete two-bed room—private balcony with Meinong mountain and field views, with separate wet/dry bathroom and bidet.",
+        "twitterImageAlt": "Garden-View Quad Room (Small) cover"
+      },
+      "vi": {
+        "title": "Phòng bốn người nhìn vườn (nhỏ) - Hanyuan B&B Ẩn Sơn Quán | Phòng hai giường gỗ-bê tông hiện đại, cửa sổ nhìn nông thôn",
+        "description": "Phòng bốn người nhìn vườn (nhỏ) của giai đoạn II 'Ẩn Sơn Quán' Hanyuan B&B sử dụng tường bê tông vân gỗ tự nhiên và đồ nội thất bằng gỗ ấm áp, trang bị hai giường queen tiêu chuẩn và ban công riêng. Cửa sổ kính lớn lấy khung cảnh nông thôn Mỹ Nùng và dãy núi, cùng phòng tắm khô-ướt hiện đại, bồn cầu thông minh và TV LCD thông minh — kỳ nghỉ chậm rãi thoải mái, yên tĩnh cho gia đình và bạn bè.",
+        "keywords": "Ẩn Sơn Quán,Ẩn Sơn Quán giai đoạn II,phòng bốn người nhìn vườn,phòng bốn Mỹ Nùng,phòng gia đình Mỹ Nùng,phòng cảnh quan Mỹ Nùng,phòng hai giường Mỹ Nùng,homestay Mỹ Nùng,homestay Cao Hùng,Hanyuan B&B,lưu trú Mỹ Nùng",
+        "ogTitle": "Phòng bốn người nhìn vườn (nhỏ) - Hanyuan B&B Ẩn Sơn Quán",
+        "ogDescription": "Giai đoạn II 'Ẩn Sơn Quán' phòng hai giường gỗ-bê tông hiện đại — ban công riêng với tầm nhìn ra núi và cánh đồng Mỹ Nùng, với phòng tắm khô-ướt riêng biệt và bồn cầu thông minh.",
+        "ogImageAlt": "Bìa Phòng bốn người nhìn vườn (nhỏ)",
+        "twitterTitle": "Phòng bốn người nhìn vườn (nhỏ) - Hanyuan B&B Ẩn Sơn Quán",
+        "twitterDescription": "Giai đoạn II 'Ẩn Sơn Quán' phòng hai giường gỗ-bê tông hiện đại — ban công riêng với tầm nhìn ra núi và cánh đồng Mỹ Nùng, với phòng tắm khô-ướt riêng biệt và bồn cầu thông minh.",
+        "twitterImageAlt": "Bìa Phòng bốn người nhìn vườn (nhỏ)"
+      },
+      "fil": {
+        "title": "Garden-View Quad Room (Small) - Hanyuan B&B Yinshan Pavilion | Modern Wood & Bare-Concrete Two-Bed Room na may Countryside Window",
+        "description": "Ang Phase II 'Yinshan Pavilion' Garden-View Quad Room (Small) ng Hanyuan B&B ay gumagamit ng natural wood-grain concrete walls at warm wood furnishings, na may dalawang standard queen beds at independent balcony. Ang floor-to-ceiling window ay nag-frame ng countryside ng Meinong at mountain ridges, kasama ang modern wet/dry bathroom, bidet at smart LCD TV—komportable at tahimik na slow-travel retreat para sa mga pamilya at kaibigan.",
+        "keywords": "Yinshan Pavilion,Phase II Yinshan Pavilion,Garden-View Quad Room,Meinong quad room,Meinong family room,Meinong view room,Meinong two-bed room,Meinong B&B,Kaohsiung B&B,Hanyuan B&B,Meinong accommodation",
+        "ogTitle": "Garden-View Quad Room (Small) - Hanyuan B&B Yinshan Pavilion",
+        "ogDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete two-bed room—private balcony na may Meinong mountain at field views, na may separate wet/dry bathroom at bidet.",
+        "ogImageAlt": "Cover ng Garden-View Quad Room (Small)",
+        "twitterTitle": "Garden-View Quad Room (Small) - Hanyuan B&B Yinshan Pavilion",
+        "twitterDescription": "Phase II 'Yinshan Pavilion' modern wood-and-concrete two-bed room—private balcony na may Meinong mountain at field views, na may separate wet/dry bathroom at bidet.",
+        "twitterImageAlt": "Cover ng Garden-View Quad Room (Small)"
+      },
+      "pt": {
+        "title": "Quarto Quádruplo Vista Jardim (Pequeno) - Hanyuan B&B Pavilhão Yinshan | Suíte Moderna em Madeira e Concreto Aparente com Duas Camas e Janela para o Campo",
+        "description": "O Quarto Quádruplo Vista Jardim (Pequeno) do 'Pavilhão Yinshan' (Fase II) da Hanyuan B&B usa paredes naturais em concreto com veios de madeira e mobília em madeira quente, com duas camas queen padrão e varanda independente. Uma janela do chão ao teto emoldura o campo e as cristas montanhosas de Meinong, além de banheiro moderno seco/molhado, bidet e smart TV LCD — retiro slow-travel confortável e silencioso para famílias e amigos.",
+        "keywords": "Pavilhão Yinshan,Pavilhão Yinshan Fase II,Quarto Quádruplo Vista Jardim,quarto quádruplo Meinong,quarto familiar Meinong,quarto com vista Meinong,quarto duas camas Meinong,pousada Meinong,pousada Kaohsiung,Hanyuan B&B,hospedagem Meinong",
+        "ogTitle": "Quarto Quádruplo Vista Jardim (Pequeno) - Hanyuan B&B Pavilhão Yinshan",
+        "ogDescription": "Suíte moderna em madeira e concreto com duas camas do 'Pavilhão Yinshan' (Fase II) — varanda privativa com vistas do campo e da montanha de Meinong, com banheiro seco/molhado separado e bidet.",
+        "ogImageAlt": "Capa do Quarto Quádruplo Vista Jardim (Pequeno)",
+        "twitterTitle": "Quarto Quádruplo Vista Jardim (Pequeno) - Hanyuan B&B Pavilhão Yinshan",
+        "twitterDescription": "Suíte moderna em madeira e concreto com duas camas do 'Pavilhão Yinshan' (Fase II) — varanda privativa com vistas do campo e da montanha de Meinong, com banheiro seco/molhado separado e bidet.",
+        "twitterImageAlt": "Capa do Quarto Quádruplo Vista Jardim (Pequeno)"
+      }
+    },
+    "garden.html": {
+      "en": {
+        "title": "Garden & Grounds - Hanyuan B&B | Expansive Countryside Lawn, Stargazing & Slow-Travel Space",
+        "description": "Hanyuan B&B's expansive garden and grounds are surrounded by mountains on three sides and shaded by lush greenery—offering a peaceful space for leisurely walks, nighttime stargazing and an unparalleled slow-travel escape from the city.",
+        "keywords": "Meinong garden B&B,Meinong lawn,Meinong stargazing,Meinong B&B setting,Hanyuan B&B",
+        "ogTitle": "Garden & Grounds - Hanyuan B&B",
+        "ogDescription": "Expansive green garden surrounded by mountains on three sides—the ultimate slow-travel escape.",
+        "ogImageAlt": "Cover image of the garden and grounds",
+        "twitterTitle": "Garden & Grounds - Hanyuan B&B",
+        "twitterDescription": "Expansive green garden surrounded by mountains on three sides—the ultimate slow-travel escape.",
+        "twitterImageAlt": "Cover image of the garden and grounds"
+      },
+      "vi": {
+        "title": "Khuôn viên & Sân vườn - Hanyuan B&B | Bãi cỏ nông thôn rộng lớn, ngắm sao & không gian nghỉ dưỡng chậm",
+        "description": "Khuôn viên rộng lớn của Hanyuan B&B được bao quanh bởi ba mặt núi và bóng cây xanh mát—mang đến không gian yên bình để đi dạo thư thái, ngắm sao ban đêm và trải nghiệm nghỉ dưỡng chậm đẳng cấp tách biệt khỏi phố thị.",
+        "keywords": "homestay có sân vườn Mỹ Nùng,bãi cỏ Mỹ Nùng,ngắm sao Mỹ Nùng,môi trường homestay Mỹ Nùng,Hanyuan B&B",
+        "ogTitle": "Khuôn viên & Sân vườn - Hanyuan B&B",
+        "ogDescription": "Sân vườn xanh mướt rộng lớn được bao quanh bởi ba mặt núi—trải nghiệm nghỉ dưỡng chậm đẳng cấp.",
+        "ogImageAlt": "Hình bìa khuôn viên và sân vườn",
+        "twitterTitle": "Khuôn viên & Sân vườn - Hanyuan B&B",
+        "twitterDescription": "Sân vườn xanh mướt rộng lớn được bao quanh bởi ba mặt núi—trải nghiệm nghỉ dưỡng chậm đẳng cấp.",
+        "twitterImageAlt": "Hình bìa khuôn viên và sân vườn"
+      },
+      "fil": {
+        "title": "Garden & Grounds - Hanyuan B&B | Malawak na Countryside Lawn, Pagtingin sa mga Bituin at Slow-Travel Space",
+        "description": "Ang malawak na garden at grounds ng Hanyuan B&B ay napapalibutan ng mga bundok sa tatlong gilid at may malago at luntiang mga puno—nag-aalok ng payapang espasyo para sa maaliwalas na paglalakad, pagtingin sa mga bituin sa gabi at walang katulad na slow-travel escape mula sa lungsod.",
+        "keywords": "Meinong garden B&B,Meinong lawn,Meinong stargazing,Meinong B&B setting,Hanyuan B&B",
+        "ogTitle": "Garden & Grounds - Hanyuan B&B",
+        "ogDescription": "Malawak na berdeng garden na napapalibutan ng mga bundok sa tatlong gilid—ang ultimate slow-travel escape.",
+        "ogImageAlt": "Cover image ng garden at grounds",
+        "twitterTitle": "Garden & Grounds - Hanyuan B&B",
+        "twitterDescription": "Malawak na berdeng garden na napapalibutan ng mga bundok sa tatlong gilid—ang ultimate slow-travel escape.",
+        "twitterImageAlt": "Cover image ng garden at grounds"
+      },
+      "pt": {
+        "title": "Jardim & Áreas Verdes - Hanyuan B&B | Amplo Gramado Rural, Observação de Estrelas e Espaço Slow-Travel",
+        "description": "O amplo jardim e áreas verdes da Hanyuan B&B estão cercados por montanhas em três lados e sombreados por vegetação exuberante — oferecendo um espaço tranquilo para caminhadas, observação de estrelas à noite e uma fuga slow-travel incomparável da cidade.",
+        "keywords": "pousada com jardim Meinong,gramado Meinong,observação de estrelas Meinong,ambiente pousada Meinong,Hanyuan B&B",
+        "ogTitle": "Jardim & Áreas Verdes - Hanyuan B&B",
+        "ogDescription": "Amplo jardim verde cercado por montanhas em três lados — o derradeiro refúgio slow-travel.",
+        "ogImageAlt": "Imagem de capa do jardim e áreas verdes",
+        "twitterTitle": "Jardim & Áreas Verdes - Hanyuan B&B",
+        "twitterDescription": "Amplo jardim verde cercado por montanhas em três lados — o derradeiro refúgio slow-travel.",
+        "twitterImageAlt": "Imagem de capa do jardim e áreas verdes"
+      }
+    },
+    "hotspring_a.html": {
+      "en": {
+        "title": "Scenic Hot-Spring Room (Twin Beds) - Hanyuan B&B | Private Onsen Suite",
+        "description": "Hanyuan B&B's Scenic Hot-Spring Room is fitted with an exclusive private onsen tub and two single beds—soak in the Meinong mountain scenery while unwinding body and mind for the ultimate relaxing getaway.",
+        "keywords": "Scenic Hot-Spring Room,Meinong hot spring,Meinong onsen B&B,onsen suite,Kaohsiung onsen accommodation,Meinong B&B,Hanyuan B&B",
+        "ogTitle": "Scenic Hot-Spring Room (Twin Beds) - Hanyuan B&B",
+        "ogDescription": "Private onsen suite with twin beds, independent tub and countryside views.",
+        "ogImageAlt": "Cover of Scenic Hot-Spring Room (Twin Beds)",
+        "twitterTitle": "Scenic Hot-Spring Room (Twin Beds) - Hanyuan B&B",
+        "twitterDescription": "Private onsen suite with twin beds, independent tub and countryside views.",
+        "twitterImageAlt": "Cover of Scenic Hot-Spring Room (Twin Beds)"
+      },
+      "vi": {
+        "title": "Phòng Tắm Suối Nước Nóng Cảnh Quan (Hai giường đơn) - Hanyuan B&B | Suite suối nước nóng riêng",
+        "description": "Phòng Tắm Suối Nước Nóng Cảnh Quan của Hanyuan B&B được trang bị bồn tắm suối nước nóng riêng biệt và hai giường đơn—tận hưởng phong cảnh núi Mỹ Nùng đồng thời thư giãn cơ thể và tâm trí cho kỳ nghỉ thư giãn tuyệt vời.",
+        "keywords": "phòng tắm suối nước nóng cảnh quan,suối nước nóng Mỹ Nùng,homestay suối nước nóng Mỹ Nùng,suite suối nước nóng,homestay có suối nước nóng Cao Hùng,homestay Mỹ Nùng,Hanyuan B&B",
+        "ogTitle": "Phòng Tắm Suối Nước Nóng Cảnh Quan (Hai giường đơn) - Hanyuan B&B",
+        "ogDescription": "Suite suối nước nóng riêng với hai giường đơn, bồn tắm độc lập và tầm nhìn nông thôn.",
+        "ogImageAlt": "Bìa Phòng Tắm Suối Nước Nóng Cảnh Quan (Hai giường đơn)",
+        "twitterTitle": "Phòng Tắm Suối Nước Nóng Cảnh Quan (Hai giường đơn) - Hanyuan B&B",
+        "twitterDescription": "Suite suối nước nóng riêng với hai giường đơn, bồn tắm độc lập và tầm nhìn nông thôn.",
+        "twitterImageAlt": "Bìa Phòng Tắm Suối Nước Nóng Cảnh Quan (Hai giường đơn)"
+      },
+      "fil": {
+        "title": "Scenic Hot-Spring Room (Twin Beds) - Hanyuan B&B | Private Onsen Suite",
+        "description": "Ang Scenic Hot-Spring Room ng Hanyuan B&B ay may eksklusibong private onsen tub at dalawang single beds—samtang tinatamasa ang Meinong mountain scenery, papagalingin ang katawan at isipan para sa ultimate relaxing getaway.",
+        "keywords": "Scenic Hot-Spring Room,Meinong hot spring,Meinong onsen B&B,onsen suite,Kaohsiung onsen accommodation,Meinong B&B,Hanyuan B&B",
+        "ogTitle": "Scenic Hot-Spring Room (Twin Beds) - Hanyuan B&B",
+        "ogDescription": "Private onsen suite na may twin beds, independent tub at countryside views.",
+        "ogImageAlt": "Cover ng Scenic Hot-Spring Room (Twin Beds)",
+        "twitterTitle": "Scenic Hot-Spring Room (Twin Beds) - Hanyuan B&B",
+        "twitterDescription": "Private onsen suite na may twin beds, independent tub at countryside views.",
+        "twitterImageAlt": "Cover ng Scenic Hot-Spring Room (Twin Beds)"
+      },
+      "pt": {
+        "title": "Quarto Fonte Termal Cénica (Duas Camas de Solteiro) - Hanyuan B&B | Suíte Privativa com Onsen",
+        "description": "O Quarto Fonte Termal Cénica da Hanyuan B&B está equipado com uma banheira onsen privativa exclusiva e duas camas de solteiro — aproveite a paisagem montanhosa de Meinong enquanto descontrai corpo e mente para a derradeira escapada relaxante.",
+        "keywords": "Quarto Fonte Termal Cénica,fonte termal Meinong,pousada com onsen Meinong,suíte com onsen,hospedagem com onsen Kaohsiung,pousada Meinong,Hanyuan B&B",
+        "ogTitle": "Quarto Fonte Termal Cénica (Duas Camas de Solteiro) - Hanyuan B&B",
+        "ogDescription": "Suíte privativa com onsen, duas camas de solteiro, banheira independente e vistas do campo.",
+        "ogImageAlt": "Capa do Quarto Fonte Termal Cénica (Duas Camas de Solteiro)",
+        "twitterTitle": "Quarto Fonte Termal Cénica (Duas Camas de Solteiro) - Hanyuan B&B",
+        "twitterDescription": "Suíte privativa com onsen, duas camas de solteiro, banheira independente e vistas do campo.",
+        "twitterImageAlt": "Capa do Quarto Fonte Termal Cénica (Duas Camas de Solteiro)"
+      }
+    },
+    "hotspring_b.html": {
+      "en": {
+        "title": "Scenic Hot-Spring Villa (Two Double Beds) - Hanyuan B&B | Spacious Private Onsen Suite",
+        "description": "Hanyuan B&B's Scenic Hot-Spring Villa features two double beds and a spacious private onsen tub—ideal for families or four guests seeking a soothing soak with Meinong's beautiful scenery.",
+        "keywords": "Scenic Hot-Spring Villa,Meinong hot spring villa,Meinong onsen B&B,four-person onsen room,Kaohsiung onsen B&B,Hanyuan B&B,Meinong accommodation",
+        "ogTitle": "Scenic Hot-Spring Villa (Two Double Beds) - Hanyuan B&B",
+        "ogDescription": "Spacious private onsen suite with two double beds—perfect for family relaxation.",
+        "ogImageAlt": "Cover of Scenic Hot-Spring Villa (Two Double Beds)",
+        "twitterTitle": "Scenic Hot-Spring Villa (Two Double Beds) - Hanyuan B&B",
+        "twitterDescription": "Spacious private onsen suite with two double beds—perfect for family relaxation.",
+        "twitterImageAlt": "Cover of Scenic Hot-Spring Villa (Two Double Beds)"
+      },
+      "vi": {
+        "title": "Biệt Thự Suối Nước Nóng Cảnh Quan (Hai giường đôi) - Hanyuan B&B | Suite suối nước nóng rộng rãi riêng biệt",
+        "description": "Biệt Thự Suối Nước Nóng Cảnh Quan của Hanyuan B&B có hai giường đôi và bồn tắm suối nước nóng riêng rộng rãi—lý tưởng cho gia đình hoặc bốn khách tìm kiếm trải nghiệm ngâm mình thư giãn với phong cảnh tuyệt đẹp của Mỹ Nùng.",
+        "keywords": "biệt thự suối nước nóng cảnh quan,biệt thự suối nước nóng Mỹ Nùng,homestay suối nước nóng Mỹ Nùng,phòng suối nước nóng bốn người,homestay có suối nước nóng Cao Hùng,Hanyuan B&B,lưu trú Mỹ Nùng",
+        "ogTitle": "Biệt Thự Suối Nước Nóng Cảnh Quan (Hai giường đôi) - Hanyuan B&B",
+        "ogDescription": "Suite suối nước nóng riêng rộng rãi với hai giường đôi—hoàn hảo cho thư giãn gia đình.",
+        "ogImageAlt": "Bìa Biệt Thự Suối Nước Nóng Cảnh Quan (Hai giường đôi)",
+        "twitterTitle": "Biệt Thự Suối Nước Nóng Cảnh Quan (Hai giường đôi) - Hanyuan B&B",
+        "twitterDescription": "Suite suối nước nóng riêng rộng rãi với hai giường đôi—hoàn hảo cho thư giãn gia đình.",
+        "twitterImageAlt": "Bìa Biệt Thự Suối Nước Nóng Cảnh Quan (Hai giường đôi)"
+      },
+      "fil": {
+        "title": "Scenic Hot-Spring Villa (Two Double Beds) - Hanyuan B&B | Spacious Private Onsen Suite",
+        "description": "Ang Scenic Hot-Spring Villa ng Hanyuan B&B ay may dalawang double beds at malawak na private onsen tub—perpekto para sa mga pamilya o apat na bisita na naghahanap ng soothing soak kasama ang magandang tanawin ng Meinong.",
+        "keywords": "Scenic Hot-Spring Villa,Meinong hot spring villa,Meinong onsen B&B,four-person onsen room,Kaohsiung onsen B&B,Hanyuan B&B,Meinong accommodation",
+        "ogTitle": "Scenic Hot-Spring Villa (Two Double Beds) - Hanyuan B&B",
+        "ogDescription": "Spacious private onsen suite na may dalawang double beds—perpekto para sa family relaxation.",
+        "ogImageAlt": "Cover ng Scenic Hot-Spring Villa (Two Double Beds)",
+        "twitterTitle": "Scenic Hot-Spring Villa (Two Double Beds) - Hanyuan B&B",
+        "twitterDescription": "Spacious private onsen suite na may dalawang double beds—perpekto para sa family relaxation.",
+        "twitterImageAlt": "Cover ng Scenic Hot-Spring Villa (Two Double Beds)"
+      },
+      "pt": {
+        "title": "Villa Fonte Termal Cénica (Duas Camas de Casal) - Hanyuan B&B | Ampla Suíte Privativa com Onsen",
+        "description": "A Villa Fonte Termal Cénica da Hanyuan B&B possui duas camas de casal e uma ampla banheira onsen privativa — ideal para famílias ou quatro hóspedes que procuram um banho relaxante com a bela paisagem de Meinong.",
+        "keywords": "Villa Fonte Termal Cénica,villa fonte termal Meinong,pousada com onsen Meinong,quarto onsen para quatro,pousada com onsen Kaohsiung,Hanyuan B&B,hospedagem Meinong",
+        "ogTitle": "Villa Fonte Termal Cénica (Duas Camas de Casal) - Hanyuan B&B",
+        "ogDescription": "Ampla suíte privativa com onsen e duas camas de casal — perfeita para relaxar em família.",
+        "ogImageAlt": "Capa da Villa Fonte Termal Cénica (Duas Camas de Casal)",
+        "twitterTitle": "Villa Fonte Termal Cénica (Duas Camas de Casal) - Hanyuan B&B",
+        "twitterDescription": "Ampla suíte privativa com onsen e duas camas de casal — perfeita para relaxar em família.",
+        "twitterImageAlt": "Capa da Villa Fonte Termal Cénica (Duas Camas de Casal)"
+      }
+    },
+    "map.html": {
+      "en": {
+        "title": "Directions & Location - Hanyuan B&B | Near National Freeway 10, J1772 7kW EV Charger On-Site",
+        "description": "Directions to Hanyuan B&B: located at No. 7-11, Wugu Street, Zhongtan Village, Meinong District, Kaohsiung City (close to the Qishan/Meinong interchange of National Freeway 10). The dedicated parking area features a J1772 7kW AC EV charger.",
+        "keywords": "Hanyuan B&B directions,Meinong B&B address,National Freeway 10 Meinong B&B,EV charger B&B,Kaohsiung Meinong map",
+        "ogTitle": "Directions & Location - Hanyuan B&B",
+        "ogDescription": "Address: No. 7-11, Wugu Street, Zhongtan Village, Meinong District, Kaohsiung City. Near National Freeway 10, with a J1772 7kW charger on site.",
+        "ogImageAlt": "Cover of directions and location page",
+        "twitterTitle": "Directions & Location - Hanyuan B&B",
+        "twitterDescription": "Address: No. 7-11, Wugu Street, Zhongtan Village, Meinong District, Kaohsiung City. Near National Freeway 10, with a J1772 7kW charger on site.",
+        "twitterImageAlt": "Cover of directions and location page"
+      },
+      "vi": {
+        "title": "Hướng dẫn đi & Vị trí - Hanyuan B&B | Gần Quốc lộ 10, có trạm sạc xe điện J1772 7kW",
+        "description": "Hướng dẫn đi đến Hanyuan B&B: tọa lạc tại số 7-11, đường Wugu, thôn Zhongtan, quận Mỹ Nùng, thành phố Cao Hùng (gần nút giao Qishan/Meinong của Quốc lộ 10). Bãi đỗ xe riêng có trang bị trạm sạc xe điện AC J1772 7kW.",
+        "keywords": "hướng dẫn đi Hanyuan B&B,địa chỉ homestay Mỹ Nùng,homestay Mỹ Nùng Quốc lộ 10,homestay có trạm sạc,bản đồ Mỹ Nùng Cao Hùng",
+        "ogTitle": "Hướng dẫn đi & Vị trí - Hanyuan B&B",
+        "ogDescription": "Địa chỉ: số 7-11, đường Wugu, thôn Zhongtan, quận Mỹ Nùng, thành phố Cao Hùng. Gần Quốc lộ 10, có trạm sạc J1772 7kW tại chỗ.",
+        "ogImageAlt": "Bìa trang hướng dẫn đi và vị trí",
+        "twitterTitle": "Hướng dẫn đi & Vị trí - Hanyuan B&B",
+        "twitterDescription": "Địa chỉ: số 7-11, đường Wugu, thôn Zhongtan, quận Mỹ Nùng, thành phố Cao Hùng. Gần Quốc lộ 10, có trạm sạc J1772 7kW tại chỗ.",
+        "twitterImageAlt": "Bìa trang hướng dẫn đi và vị trí"
+      },
+      "fil": {
+        "title": "Mga Direksyon at Lokasyon - Hanyuan B&B | Malapit sa National Freeway 10, may J1772 7kW EV Charger sa Site",
+        "description": "Mga direksyon papunta sa Hanyuan B&B: matatagpuan sa No. 7-11, Wugu Street, Zhongtan Village, Meinong District, Kaohsiung City (malapit sa Qishan/Meinong interchange ng National Freeway 10). Ang dedikadong parking area ay may J1772 7kW AC EV charger.",
+        "keywords": "mga direksyon Hanyuan B&B,address ng Meinong B&B,National Freeway 10 Meinong B&B,EV charger B&B,Kaohsiung Meinong map",
+        "ogTitle": "Mga Direksyon at Lokasyon - Hanyuan B&B",
+        "ogDescription": "Address: No. 7-11, Wugu Street, Zhongtan Village, Meinong District, Kaohsiung City. Malapit sa National Freeway 10, may J1772 7kW charger sa site.",
+        "ogImageAlt": "Cover ng pahina ng mga direksyon at lokasyon",
+        "twitterTitle": "Mga Direksyon at Lokasyon - Hanyuan B&B",
+        "twitterDescription": "Address: No. 7-11, Wugu Street, Zhongtan Village, Meinong District, Kaohsiung City. Malapit sa National Freeway 10, may J1772 7kW charger sa site.",
+        "twitterImageAlt": "Cover ng pahina ng mga direksyon at lokasyon"
+      },
+      "pt": {
+        "title": "Direções e Localização - Hanyuan B&B | Perto da Rodovia Nacional 10, Carregador EV J1772 7kW no Local",
+        "description": "Direções para a Hanyuan B&B: localizada no Nº 7-11, Wugu Street, Zhongtan Village, Meinong District, Kaohsiung City (perto do trevo Qishan/Meinong da Rodovia Nacional 10). A área de estacionamento dedicada possui um carregador EV AC J1772 7kW.",
+        "keywords": "direções Hanyuan B&B,endereço pousada Meinong,pousada Meinong Rodovia Nacional 10,pousada com carregador EV,mapa Meinong Kaohsiung",
+        "ogTitle": "Direções e Localização - Hanyuan B&B",
+        "ogDescription": "Endereço: Nº 7-11, Wugu Street, Zhongtan Village, Meinong District, Kaohsiung City. Perto da Rodovia Nacional 10, com carregador J1772 7kW no local.",
+        "ogImageAlt": "Capa da página de direções e localização",
+        "twitterTitle": "Direções e Localização - Hanyuan B&B",
+        "twitterDescription": "Endereço: Nº 7-11, Wugu Street, Zhongtan Village, Meinong District, Kaohsiung City. Perto da Rodovia Nacional 10, com carregador J1772 7kW no local.",
+        "twitterImageAlt": "Capa da página de direções e localização"
+      }
+    },
+    "meal.html": {
+      "en": {
+        "title": "Authentic Hakka Cuisine - Hanyuan B&B | Local Ingredients, Meinong Hakka Flavors",
+        "description": "Hanyuan B&B serves authentic traditional Hakka cuisine made with fresh local ingredients—savor the genuine flavors of Meinong Hakka cooking amid tranquil countryside scenery far from the city.",
+        "keywords": "Meinong Hakka food,Meinong cuisine,Meinong Hakka meals,Meinong B&B breakfast,Meinong B&B dining,Hanyuan B&B",
+        "ogTitle": "Authentic Hakka Cuisine - Hanyuan B&B",
+        "ogDescription": "Carefully selected local ingredients—classic, authentic Meinong Hakka flavors.",
+        "ogImageAlt": "Cover of authentic Hakka cuisine",
+        "twitterTitle": "Authentic Hakka Cuisine - Hanyuan B&B",
+        "twitterDescription": "Carefully selected local ingredients—classic, authentic Meinong Hakka flavors.",
+        "twitterImageAlt": "Cover of authentic Hakka cuisine"
+      },
+      "vi": {
+        "title": "Ẩm thực Khách Gia đích thực - Hanyuan B&B | Nguyên liệu địa phương, hương vị Khách Gia Mỹ Nùng",
+        "description": "Hanyuan B&B phục vụ món ăn Khách Gia truyền thống đích thực được chế biến từ nguyên liệu tươi địa phương—thưởng thức hương vị Khách Gia Mỹ Nùng chính gốc giữa khung cảnh nông thôn yên bình tách biệt khỏi phố thị.",
+        "keywords": "món ăn Khách Gia Mỹ Nùng,ẩm thực Mỹ Nùng,bữa ăn Khách Gia Mỹ Nùng,bữa sáng homestay Mỹ Nùng,ăn uống homestay Mỹ Nùng,Hanyuan B&B",
+        "ogTitle": "Ẩm thực Khách Gia đích thực - Hanyuan B&B",
+        "ogDescription": "Nguyên liệu địa phương tuyển chọn kỹ—hương vị Khách Gia Mỹ Nùng cổ điển, đích thực.",
+        "ogImageAlt": "Bìa ẩm thực Khách Gia đích thực",
+        "twitterTitle": "Ẩm thực Khách Gia đích thực - Hanyuan B&B",
+        "twitterDescription": "Nguyên liệu địa phương tuyển chọn kỹ—hương vị Khách Gia Mỹ Nùng cổ điển, đích thực.",
+        "twitterImageAlt": "Bìa ẩm thực Khách Gia đích thực"
+      },
+      "fil": {
+        "title": "Tunay na Hakka Cuisine - Hanyuan B&B | Lokal na Sangkap, Meinong Hakka Flavors",
+        "description": "Ang Hanyuan B&B ay nag-aalok ng tunay na tradisyonal na Hakka cuisine na gawa mula sa sariwang lokal na sangkap—samahan ang tunay na lasa ng Meinong Hakka cooking sa gitna ng tahimik na countryside scenery na malayo sa lungsod.",
+        "keywords": "Meinong Hakka food,Meinong cuisine,Meinong Hakka meals,Meinong B&B breakfast,Meinong B&B dining,Hanyuan B&B",
+        "ogTitle": "Tunay na Hakka Cuisine - Hanyuan B&B",
+        "ogDescription": "Maingat na piniling lokal na sangkap—classic at tunay na Meinong Hakka flavors.",
+        "ogImageAlt": "Cover ng tunay na Hakka cuisine",
+        "twitterTitle": "Tunay na Hakka Cuisine - Hanyuan B&B",
+        "twitterDescription": "Maingat na piniling lokal na sangkap—classic at tunay na Meinong Hakka flavors.",
+        "twitterImageAlt": "Cover ng tunay na Hakka cuisine"
+      },
+      "pt": {
+        "title": "Cozinha Hakka Autêntica - Hanyuan B&B | Ingredientes Locais, Sabores Hakka de Meinong",
+        "description": "A Hanyuan B&B serve cozinha tradicional Hakka autêntica feita com ingredientes locais frescos — saboreie os verdadeiros sabores da culinária Hakka de Meinong em meio a uma paisagem rural tranquila, longe da cidade.",
+        "keywords": "comida Hakka Meinong,culinária Meinong,refeições Hakka Meinong,café da manhã pousada Meinong,refeições pousada Meinong,Hanyuan B&B",
+        "ogTitle": "Cozinha Hakka Autêntica - Hanyuan B&B",
+        "ogDescription": "Ingredientes locais criteriosamente selecionados — sabores Hakka de Meinong clássicos e autênticos.",
+        "ogImageAlt": "Capa da cozinha Hakka autêntica",
+        "twitterTitle": "Cozinha Hakka Autêntica - Hanyuan B&B",
+        "twitterDescription": "Ingredientes locais criteriosamente selecionados — sabores Hakka de Meinong clássicos e autênticos.",
+        "twitterImageAlt": "Capa da cozinha Hakka autêntica"
+      }
+    },
+    "order.html": {
+      "en": {
+        "title": "Book Online - Hanyuan B&B",
+        "description": "The online booking page for Hanyuan B&B takes you to the Owlting secure booking platform to complete your reservation.",
+        "keywords": "Hanyuan B&B booking,Hanyuan B&B online reservation,Meinong booking",
+        "ogTitle": "Book Online - Hanyuan B&B",
+        "ogDescription": "The online booking page for Hanyuan B&B takes you to the Owlting secure booking platform to complete your reservation.",
+        "ogImageAlt": "Cover of online booking page",
+        "twitterTitle": "Book Online - Hanyuan B&B",
+        "twitterDescription": "The online booking page for Hanyuan B&B takes you to the Owlting secure booking platform to complete your reservation.",
+        "twitterImageAlt": "Cover of online booking page"
+      },
+      "vi": {
+        "title": "Đặt phòng trực tuyến - Hanyuan B&B",
+        "description": "Trang đặt phòng trực tuyến của Hanyuan B&B sẽ đưa bạn đến nền tảng đặt phòng an toàn Owlting để hoàn tất việc đặt phòng.",
+        "keywords": "đặt phòng Hanyuan B&B,đặt phòng trực tuyến Hanyuan B&B,đặt phòng Mỹ Nùng",
+        "ogTitle": "Đặt phòng trực tuyến - Hanyuan B&B",
+        "ogDescription": "Trang đặt phòng trực tuyến của Hanyuan B&B sẽ đưa bạn đến nền tảng đặt phòng an toàn Owlting để hoàn tất việc đặt phòng.",
+        "ogImageAlt": "Bìa trang đặt phòng trực tuyến",
+        "twitterTitle": "Đặt phòng trực tuyến - Hanyuan B&B",
+        "twitterDescription": "Trang đặt phòng trực tuyến của Hanyuan B&B sẽ đưa bạn đến nền tảng đặt phòng an toàn Owlting để hoàn tất việc đặt phòng.",
+        "twitterImageAlt": "Bìa trang đặt phòng trực tuyến"
+      },
+      "fil": {
+        "title": "Mag-book Online - Hanyuan B&B",
+        "description": "Ang online booking page ng Hanyuan B&B ay magdadala sa iyo sa Owlting secure booking platform para tapusin ang iyong reservation.",
+        "keywords": "Hanyuan B&B booking,online reservation ng Hanyuan B&B,Meinong booking",
+        "ogTitle": "Mag-book Online - Hanyuan B&B",
+        "ogDescription": "Ang online booking page ng Hanyuan B&B ay magdadala sa iyo sa Owlting secure booking platform para tapusin ang iyong reservation.",
+        "ogImageAlt": "Cover ng online booking page",
+        "twitterTitle": "Mag-book Online - Hanyuan B&B",
+        "twitterDescription": "Ang online booking page ng Hanyuan B&B ay magdadala sa iyo sa Owlting secure booking platform para tapusin ang iyong reservation.",
+        "twitterImageAlt": "Cover ng online booking page"
+      },
+      "pt": {
+        "title": "Reservar Online - Hanyuan B&B",
+        "description": "A página de reserva online da Hanyuan B&B leva você à plataforma de reserva segura Owlting para concluir sua reserva.",
+        "keywords": "reserva Hanyuan B&B,reserva online Hanyuan B&B,reserva Meinong",
+        "ogTitle": "Reservar Online - Hanyuan B&B",
+        "ogDescription": "A página de reserva online da Hanyuan B&B leva você à plataforma de reserva segura Owlting para concluir sua reserva.",
+        "ogImageAlt": "Capa da página de reserva online",
+        "twitterTitle": "Reservar Online - Hanyuan B&B",
+        "twitterDescription": "A página de reserva online da Hanyuan B&B leva você à plataforma de reserva segura Owlting para concluir sua reserva.",
+        "twitterImageAlt": "Capa da página de reserva online"
+      }
+    },
+    "room_all.html": {
+      "en": {
+        "title": "All Rooms Overview - Hanyuan B&B | Transparent Pipe Stargazing, Hot-Spring & Japanese-Style Rooms",
+        "description": "Overview of all rooms at Hanyuan B&B: signature transparent pipe stargazing rooms, private hot-spring suites, spacious Japanese-style rooms and standard twin rooms—perfect for couples, families and full-property bookings.",
+        "keywords": "Meinong rooms,pipe stargazing room,hot-spring room,Japanese-style room,Meinong B&B,Kaohsiung Meinong accommodation,Hanyuan B&B",
+        "ogTitle": "All Rooms Overview - Hanyuan B&B",
+        "ogDescription": "A variety of signature rooms including pipe stargazing, hot-spring and Japanese-style options.",
+        "ogImageAlt": "Cover of all rooms overview",
+        "twitterTitle": "All Rooms Overview - Hanyuan B&B",
+        "twitterDescription": "A variety of signature rooms including pipe stargazing, hot-spring and Japanese-style options.",
+        "twitterImageAlt": "Cover of all rooms overview"
+      },
+      "vi": {
+        "title": "Tổng quan tất cả các phòng - Hanyuan B&B | Phòng sao trong ống trong suốt, phòng tắm suối nước nóng & phòng kiểu Nhật",
+        "description": "Tổng quan các phòng của Hanyuan B&B: phòng sao trong ống trong suốt độc đáo, suite suối nước nóng riêng tư, phòng kiểu Nhật rộng rãi và phòng hai giường tiêu chuẩn—phù hợp cho các cặp đôi, gia đình và đặt nguyên khuôn viên.",
+        "keywords": "phòng Mỹ Nùng,phòng sao trong ống,phòng tắm suối nước nóng,phòng kiểu Nhật,homestay Mỹ Nùng,lưu trú Mỹ Nùng Cao Hùng,Hanyuan B&B",
+        "ogTitle": "Tổng quan tất cả các phòng - Hanyuan B&B",
+        "ogDescription": "Nhiều phòng độc đáo bao gồm sao trong ống, suối nước nóng và kiểu Nhật.",
+        "ogImageAlt": "Bìa tổng quan tất cả các phòng",
+        "twitterTitle": "Tổng quan tất cả các phòng - Hanyuan B&B",
+        "twitterDescription": "Nhiều phòng độc đáo bao gồm sao trong ống, suối nước nóng và kiểu Nhật.",
+        "twitterImageAlt": "Bìa tổng quan tất cả các phòng"
+      },
+      "fil": {
+        "title": "Overview ng Lahat ng Kuwarto - Hanyuan B&B | Transparent Pipe Stargazing, Hot-Spring at Japanese-Style na mga Kuwarto",
+        "description": "Overview ng lahat ng kuwarto sa Hanyuan B&B: signature na transparent pipe stargazing room, pribadong hot-spring suite, malawak na Japanese-style room at standard twin room—perpekto para sa mga mag-asawa, pamilya at full-property booking.",
+        "keywords": "Meinong rooms,pipe stargazing room,hot-spring room,Japanese-style room,Meinong B&B,Kaohsiung Meinong accommodation,Hanyuan B&B",
+        "ogTitle": "Overview ng Lahat ng Kuwarto - Hanyuan B&B",
+        "ogDescription": "Iba't ibang signature na kuwarto kasama ang pipe stargazing, hot-spring at Japanese-style na mga option.",
+        "ogImageAlt": "Cover ng overview ng lahat ng kuwarto",
+        "twitterTitle": "Overview ng Lahat ng Kuwarto - Hanyuan B&B",
+        "twitterDescription": "Iba't ibang signature na kuwarto kasama ang pipe stargazing, hot-spring at Japanese-style na mga option.",
+        "twitterImageAlt": "Cover ng overview ng lahat ng kuwarto"
+      },
+      "pt": {
+        "title": "Visão Geral de Todos os Quartos - Hanyuan B&B | Quarto em Tubo Transparente para Estrelas, Fonte Termal & Quartos Estilo Japonês",
+        "description": "Visão geral de todos os quartos da Hanyuan B&B: quartos exclusivos em tubo transparente para observação de estrelas, suítes privativas com fontes termais, quartos espaçosos estilo japonês e quartos standard com duas camas — perfeito para casais, famílias e reservas de propriedade inteira.",
+        "keywords": "quartos Meinong,quarto em tubo para estrelas,quarto fonte termal,quarto estilo japonês,pousada Meinong,hospedagem Meinong Kaohsiung,Hanyuan B&B",
+        "ogTitle": "Visão Geral de Todos os Quartos - Hanyuan B&B",
+        "ogDescription": "Diversos quartos exclusivos, incluindo opções em tubo para estrelas, fonte termal e estilo japonês.",
+        "ogImageAlt": "Capa da visão geral de todos os quartos",
+        "twitterTitle": "Visão Geral de Todos os Quartos - Hanyuan B&B",
+        "twitterDescription": "Diversos quartos exclusivos, incluindo opções em tubo para estrelas, fonte termal e estilo japonês.",
+        "twitterImageAlt": "Capa da visão geral de todos os quartos"
+      }
+    },
+    "standard-2-bed-purple.html": {
+      "en": {
+        "title": "Standard Twin Room - Purple Charm - Hanyuan B&B | Elegant Purple-Themed Double Twin Room",
+        "description": "Hanyuan B&B's purple-themed Standard Twin Room features an elegant purple design with two double beds and an en-suite bathroom—delivering a romantic and cozy Meinong stay.",
+        "keywords": "purple-themed room,standard twin room,Meinong B&B,Kaohsiung Meinong accommodation,Hanyuan B&B,stargazing B&B",
+        "ogTitle": "Standard Twin Room - Purple Charm - Hanyuan B&B",
+        "ogDescription": "Elegant purple-themed suite with two double beds.",
+        "ogImageAlt": "Cover of Standard Twin Room (Purple Theme)",
+        "twitterTitle": "Standard Twin Room - Purple Charm - Hanyuan B&B",
+        "twitterDescription": "Elegant purple-themed suite with two double beds.",
+        "twitterImageAlt": "Cover of Standard Twin Room (Purple Theme)"
+      },
+      "vi": {
+        "title": "Phòng Hai Giường Tiêu Chuẩn - Sắc Tím - Hanyuan B&B | Phòng đôi tím lãng mạn thanh lịch",
+        "description": "Phòng Hai Giường Tiêu Chuẩn chủ đề tím của Hanyuan B&B có thiết kế thanh lịch với sắc tím, trang bị hai giường đôi và phòng tắm riêng—mang đến trải nghiệm lưu trú Mỹ Nùng lãng mạn và ấm cúng.",
+        "keywords": "phòng chủ đề tím,phòng hai giường tiêu chuẩn,homestay Mỹ Nùng,lưu trú Mỹ Nùng Cao Hùng,Hanyuan B&B,homestay ngắm sao",
+        "ogTitle": "Phòng Hai Giường Tiêu Chuẩn - Sắc Tím - Hanyuan B&B",
+        "ogDescription": "Suite chủ đề tím thanh lịch với hai giường đôi.",
+        "ogImageAlt": "Bìa Phòng Hai Giường Tiêu Chuẩn (Chủ đề tím)",
+        "twitterTitle": "Phòng Hai Giường Tiêu Chuẩn - Sắc Tím - Hanyuan B&B",
+        "twitterDescription": "Suite chủ đề tím thanh lịch với hai giường đôi.",
+        "twitterImageAlt": "Bìa Phòng Hai Giường Tiêu Chuẩn (Chủ đề tím)"
+      },
+      "fil": {
+        "title": "Standard Twin Room - Purple Charm - Hanyuan B&B | Elegant Purple-Themed Double Twin Room",
+        "description": "Ang purple-themed Standard Twin Room ng Hanyuan B&B ay may elegant na purple design na may dalawang double beds at en-suite bathroom—nagbibigay ng romantik at cozy na Meinong stay.",
+        "keywords": "purple-themed room,standard twin room,Meinong B&B,Kaohsiung Meinong accommodation,Hanyuan B&B,stargazing B&B",
+        "ogTitle": "Standard Twin Room - Purple Charm - Hanyuan B&B",
+        "ogDescription": "Elegant purple-themed suite na may dalawang double beds.",
+        "ogImageAlt": "Cover ng Standard Twin Room (Purple Theme)",
+        "twitterTitle": "Standard Twin Room - Purple Charm - Hanyuan B&B",
+        "twitterDescription": "Elegant purple-themed suite na may dalawang double beds.",
+        "twitterImageAlt": "Cover ng Standard Twin Room (Purple Theme)"
+      },
+      "pt": {
+        "title": "Quarto Twin Standard - Encanto Púrpura - Hanyuan B&B | Quarto Duplo Elegante com Tema Púrpura",
+        "description": "O Quarto Twin Standard com tema púrpura da Hanyuan B&B apresenta um design elegante em tons de púrpura, com duas camas de casal e banheiro privativo — proporcionando uma estadia romântica e acolhedora em Meinong.",
+        "keywords": "quarto tema púrpura,quarto twin standard,pousada Meinong,hospedagem Meinong Kaohsiung,Hanyuan B&B,pousada para observar estrelas",
+        "ogTitle": "Quarto Twin Standard - Encanto Púrpura - Hanyuan B&B",
+        "ogDescription": "Suíte elegante com tema púrpura e duas camas de casal.",
+        "ogImageAlt": "Capa do Quarto Twin Standard (Tema Púrpura)",
+        "twitterTitle": "Quarto Twin Standard - Encanto Púrpura - Hanyuan B&B",
+        "twitterDescription": "Suíte elegante com tema púrpura e duas camas de casal.",
+        "twitterImageAlt": "Capa do Quarto Twin Standard (Tema Púrpura)"
+      }
+    },
+    "standard-2-bed.html": {
+      "en": {
+        "title": "Standard Twin Room - Hanyuan B&B | Cozy Double-Bed Suite",
+        "description": "Hanyuan B&B's Standard Twin Room provides two comfortable double beds in a bright, peaceful setting—ideal for friends traveling together and warm family stays.",
+        "keywords": "standard twin room,Meinong twin room,Meinong quad room,Meinong B&B,Kaohsiung Meinong accommodation,Hanyuan B&B",
+        "ogTitle": "Standard Twin Room - Hanyuan B&B",
+        "ogDescription": "Cozy standard twin room with two double beds and excellent natural light.",
+        "ogImageAlt": "Cover of standard twin room",
+        "twitterTitle": "Standard Twin Room - Hanyuan B&B",
+        "twitterDescription": "Cozy standard twin room with two double beds and excellent natural light.",
+        "twitterImageAlt": "Cover of standard twin room"
+      },
+      "vi": {
+        "title": "Phòng Hai Giường Tiêu Chuẩn - Hanyuan B&B | Suite hai giường ấm cúng",
+        "description": "Phòng Hai Giường Tiêu Chuẩn của Hanyuan B&B cung cấp hai giường đôi thoải mái trong không gian sáng sủa và yên bình—lý tưởng cho bạn bè đi du lịch cùng nhau và gia đình ấm cúng.",
+        "keywords": "phòng hai giường tiêu chuẩn,phòng hai giường Mỹ Nùng,phòng bốn người Mỹ Nùng,homestay Mỹ Nùng,lưu trú Mỹ Nùng Cao Hùng,Hanyuan B&B",
+        "ogTitle": "Phòng Hai Giường Tiêu Chuẩn - Hanyuan B&B",
+        "ogDescription": "Phòng hai giường tiêu chuẩn ấm cúng với hai giường đôi và ánh sáng tự nhiên tuyệt vời.",
+        "ogImageAlt": "Bìa phòng hai giường tiêu chuẩn",
+        "twitterTitle": "Phòng Hai Giường Tiêu Chuẩn - Hanyuan B&B",
+        "twitterDescription": "Phòng hai giường tiêu chuẩn ấm cúng với hai giường đôi và ánh sáng tự nhiên tuyệt vời.",
+        "twitterImageAlt": "Bìa phòng hai giường tiêu chuẩn"
+      },
+      "fil": {
+        "title": "Standard Twin Room - Hanyuan B&B | Cozy Double-Bed Suite",
+        "description": "Ang Standard Twin Room ng Hanyuan B&B ay nagbibigay ng dalawang komportable na double beds sa maliwanag at tahimik na setting—perpekto para sa mga magkaibigan na magkasamang mag-travel at maiinit na family stays.",
+        "keywords": "standard twin room,Meinong twin room,Meinong quad room,Meinong B&B,Kaohsiung Meinong accommodation,Hanyuan B&B",
+        "ogTitle": "Standard Twin Room - Hanyuan B&B",
+        "ogDescription": "Cozy na standard twin room na may dalawang double beds at mahusay na natural light.",
+        "ogImageAlt": "Cover ng standard twin room",
+        "twitterTitle": "Standard Twin Room - Hanyuan B&B",
+        "twitterDescription": "Cozy na standard twin room na may dalawang double beds at mahusay na natural light.",
+        "twitterImageAlt": "Cover ng standard twin room"
+      },
+      "pt": {
+        "title": "Quarto Twin Standard - Hanyuan B&B | Suíte Acolhedora com Duas Camas",
+        "description": "O Quarto Twin Standard da Hanyuan B&B oferece duas camas de casal confortáveis em um ambiente claro e tranquilo — ideal para amigos que viajam juntos e estadias familiares calorosas.",
+        "keywords": "quarto twin standard,quarto twin Meinong,quarto quádruplo Meinong,pousada Meinong,hospedagem Meinong Kaohsiung,Hanyuan B&B",
+        "ogTitle": "Quarto Twin Standard - Hanyuan B&B",
+        "ogDescription": "Suíte twin standard acolhedora com duas camas de casal e excelente luz natural.",
+        "ogImageAlt": "Capa do quarto twin standard",
+        "twitterTitle": "Quarto Twin Standard - Hanyuan B&B",
+        "twitterDescription": "Suíte twin standard acolhedora com duas camas de casal e excelente luz natural.",
+        "twitterImageAlt": "Capa do quarto twin standard"
+      }
+    },
+    "superior-2-bed.html": {
+      "en": {
+        "title": "Superior Twin Room - Hanyuan B&B | Spacious Premium Double-Bed Room",
+        "description": "Hanyuan B&B's Superior Twin Room offers a more spacious interior with refined furnishings, two queen beds and premium bathroom facilities—delivering a high-quality slow-travel experience in Meinong.",
+        "keywords": "superior twin room,Meinong premium B&B,Meinong quad room,Kaohsiung Meinong accommodation,Hanyuan B&B",
+        "ogTitle": "Superior Twin Room - Hanyuan B&B",
+        "ogDescription": "Spacious premium twin room with refined comfort and quality.",
+        "ogImageAlt": "Cover of superior twin room",
+        "twitterTitle": "Superior Twin Room - Hanyuan B&B",
+        "twitterDescription": "Spacious premium twin room with refined comfort and quality.",
+        "twitterImageAlt": "Cover of superior twin room"
+      },
+      "vi": {
+        "title": "Phòng Hai Giường Cao Cấp - Hanyuan B&B | Phòng đôi rộng rãi chất lượng cao",
+        "description": "Phòng Hai Giường Cao Cấp của Hanyuan B&B có không gian nội thất rộng rãi hơn với nội thất tinh tế, trang bị hai giường queen và tiện nghi phòng tắm cao cấp—mang đến trải nghiệm nghỉ dưỡng chậm chất lượng cao tại Mỹ Nùng.",
+        "keywords": "phòng hai giường cao cấp,homestay cao cấp Mỹ Nùng,phòng bốn người Mỹ Nùng,lưu trú Mỹ Nùng Cao Hùng,Hanyuan B&B",
+        "ogTitle": "Phòng Hai Giường Cao Cấp - Hanyuan B&B",
+        "ogDescription": "Phòng hai giường cao cấp rộng rãi với sự thoải mái và chất lượng tinh tế.",
+        "ogImageAlt": "Bìa phòng hai giường cao cấp",
+        "twitterTitle": "Phòng Hai Giường Cao Cấp - Hanyuan B&B",
+        "twitterDescription": "Phòng hai giường cao cấp rộng rãi với sự thoải mái và chất lượng tinh tế.",
+        "twitterImageAlt": "Bìa phòng hai giường cao cấp"
+      },
+      "fil": {
+        "title": "Superior Twin Room - Hanyuan B&B | Spacious Premium Double-Bed Room",
+        "description": "Ang Superior Twin Room ng Hanyuan B&B ay nag-aalok ng mas malawak na interior na may refined furnishings, dalawang queen beds at premium bathroom facilities—nagbibigay ng high-quality na slow-travel experience sa Meinong.",
+        "keywords": "superior twin room,Meinong premium B&B,Meinong quad room,Kaohsiung Meinong accommodation,Hanyuan B&B",
+        "ogTitle": "Superior Twin Room - Hanyuan B&B",
+        "ogDescription": "Spacious premium twin room na may refined comfort at quality.",
+        "ogImageAlt": "Cover ng superior twin room",
+        "twitterTitle": "Superior Twin Room - Hanyuan B&B",
+        "twitterDescription": "Spacious premium twin room na may refined comfort at quality.",
+        "twitterImageAlt": "Cover ng superior twin room"
+      },
+      "pt": {
+        "title": "Quarto Twin Superior - Hanyuan B&B | Quarto Duplo Amplo e Premium",
+        "description": "O Quarto Twin Superior da Hanyuan B&B oferece um interior mais espaçoso com mobília refinada, duas camas queen e instalações de banheiro premium — proporcionando uma experiência slow-travel de alta qualidade em Meinong.",
+        "keywords": "quarto twin superior,pousada premium Meinong,quarto quádruplo Meinong,hospedagem Meinong Kaohsiung,Hanyuan B&B",
+        "ogTitle": "Quarto Twin Superior - Hanyuan B&B",
+        "ogDescription": "Quarto twin superior e amplo com conforto e qualidade refinados.",
+        "ogImageAlt": "Capa do quarto twin superior",
+        "twitterTitle": "Quarto Twin Superior - Hanyuan B&B",
+        "twitterDescription": "Quarto twin superior e amplo com conforto e qualidade refinados.",
+        "twitterImageAlt": "Capa do quarto twin superior"
+      }
+    }
+  }
+}
